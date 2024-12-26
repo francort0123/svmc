@@ -1,43 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <galaxy>
     <star blackHole="false" name="Sol" numGasGiants="0" numPlanets="0" size="1.0" temp="100" x="0" y="0">
-        <planet DIMID="0" dimMapping="" name="Earth">
-            <isKnown>true</isKnown>
-            <fogColor>1.0,1.0,1.0</fogColor>
-            <skyColor>1.0,1.0,1.0</skyColor>
-            <gravitationalMultiplier>100</gravitationalMultiplier>
-            <orbitalDistance>100</orbitalDistance>
-            <orbitalTheta>0</orbitalTheta>
-            <orbitalPhi>0</orbitalPhi>
-            <retrograde>false</retrograde>
-            <avgTemperature>287</avgTemperature>
-            <rotationalPeriod>24000</rotationalPeriod>
-            <atmosphereDensity>100</atmosphereDensity>
-            <generateCraters>false</generateCraters>
-            <generateCaves>false</generateCaves>
-            <generateVolcanos>false</generateVolcanos>
-            <generateStructures>false</generateStructures>
-            <generateGeodes>false</generateGeodes>
-            <planet DIMID="2" name="Luna">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>1.0,1.0,1.0</skyColor>
-                <gravitationalMultiplier>16</gravitationalMultiplier>
-                <orbitalDistance>150</orbitalDistance>
-                <orbitalTheta>0</orbitalTheta>
-                <orbitalPhi>0</orbitalPhi>
-                <retrograde>false</retrograde>
-                <avgTemperature>20</avgTemperature>
-                <rotationalPeriod>128000</rotationalPeriod>
-                <atmosphereDensity>0</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateCaves>false</generateCaves>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <biomeIds>advancedrocketry:moon;30,advancedrocketry:moondark;30</biomeIds>
-            </planet>
-        </planet>
         <planet DIMID="16" name="Sol 16">
             <isKnown>false</isKnown>
             <fogColor>1.0,1.0,1.0</fogColor>
@@ -95,44 +58,41 @@
                 <biomeIds>minecraft:ocean;30,minecraft:mutated_extreme_hills;30,minecraft:jungle_edge;30,minecraft:mutated_forest;30,minecraft:smaller_extreme_hills;30</biomeIds>
             </planet>
         </planet>
-        <planet DIMID="3" name="Sol 3">
-            <isKnown>false</isKnown>
-            <GasGiant>true</GasGiant>
-            <gas>nitrogen</gas>
-            <gas>oxygen</gas>
+        <planet DIMID="0" dimMapping="" name="Earth">
+            <isKnown>true</isKnown>
             <fogColor>1.0,1.0,1.0</fogColor>
             <skyColor>1.0,1.0,1.0</skyColor>
-            <gravitationalMultiplier>117</gravitationalMultiplier>
-            <orbitalDistance>219</orbitalDistance>
+            <gravitationalMultiplier>100</gravitationalMultiplier>
+            <orbitalDistance>100</orbitalDistance>
             <orbitalTheta>0</orbitalTheta>
             <orbitalPhi>0</orbitalPhi>
             <retrograde>false</retrograde>
-            <avgTemperature>202</avgTemperature>
+            <avgTemperature>287</avgTemperature>
             <rotationalPeriod>24000</rotationalPeriod>
-            <atmosphereDensity>117</atmosphereDensity>
+            <atmosphereDensity>100</atmosphereDensity>
             <generateCraters>false</generateCraters>
             <generateCaves>false</generateCaves>
             <generateVolcanos>false</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>false</generateGeodes>
-            <planet DIMID="4" name="Sol 3: 0">
+            <planet DIMID="2" name="Luna">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.61404186,0.91293955</skyColor>
-                <gravitationalMultiplier>51</gravitationalMultiplier>
-                <orbitalDistance>132</orbitalDistance>
-                <orbitalTheta>169</orbitalTheta>
-                <orbitalPhi>-122</orbitalPhi>
+                <skyColor>1.0,1.0,1.0</skyColor>
+                <gravitationalMultiplier>16</gravitationalMultiplier>
+                <orbitalDistance>150</orbitalDistance>
+                <orbitalTheta>0</orbitalTheta>
+                <orbitalPhi>0</orbitalPhi>
                 <retrograde>false</retrograde>
-                <avgTemperature>222</avgTemperature>
-                <rotationalPeriod>180925</rotationalPeriod>
-                <atmosphereDensity>31</atmosphereDensity>
+                <avgTemperature>208</avgTemperature>
+                <rotationalPeriod>128000</rotationalPeriod>
+                <atmosphereDensity>0</atmosphereDensity>
                 <generateCraters>true</generateCraters>
                 <generateCaves>false</generateCaves>
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
-                <biomeIds>advancedrocketry:crystalchasms;30</biomeIds>
+                <biomeIds>advancedrocketry:moon;30,advancedrocketry:moondark;30</biomeIds>
             </planet>
         </planet>
         <planet DIMID="19" name="Sol 19">
@@ -159,7 +119,7 @@
                 <skyColor>0.8,0.96233225,0.8589843</skyColor>
                 <gravitationalMultiplier>31</gravitationalMultiplier>
                 <orbitalDistance>115</orbitalDistance>
-                <orbitalTheta>175</orbitalTheta>
+                <orbitalTheta>174</orbitalTheta>
                 <orbitalPhi>195</orbitalPhi>
                 <retrograde>false</retrograde>
                 <avgTemperature>238</avgTemperature>
@@ -212,6 +172,46 @@
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
                 <biomeIds>minecraft:ice_flats;30</biomeIds>
+            </planet>
+        </planet>
+        <planet DIMID="3" name="Sol 3">
+            <isKnown>false</isKnown>
+            <GasGiant>true</GasGiant>
+            <gas>nitrogen</gas>
+            <gas>oxygen</gas>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>117</gravitationalMultiplier>
+            <orbitalDistance>219</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <retrograde>false</retrograde>
+            <avgTemperature>202</avgTemperature>
+            <rotationalPeriod>24000</rotationalPeriod>
+            <atmosphereDensity>117</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateCaves>false</generateCaves>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+            <planet DIMID="4" name="Sol 3: 0">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.61404186,0.91293955</skyColor>
+                <gravitationalMultiplier>51</gravitationalMultiplier>
+                <orbitalDistance>132</orbitalDistance>
+                <orbitalTheta>169</orbitalTheta>
+                <orbitalPhi>-122</orbitalPhi>
+                <retrograde>false</retrograde>
+                <avgTemperature>222</avgTemperature>
+                <rotationalPeriod>180925</rotationalPeriod>
+                <atmosphereDensity>31</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateCaves>false</generateCaves>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <biomeIds>advancedrocketry:crystalchasms;30</biomeIds>
             </planet>
         </planet>
         <planet DIMID="5" name="Sol 5">
@@ -353,7 +353,7 @@
                 <gravitationalMultiplier>78</gravitationalMultiplier>
                 <orbitalDistance>101</orbitalDistance>
                 <orbitalTheta>122</orbitalTheta>
-                <orbitalPhi>-378</orbitalPhi>
+                <orbitalPhi>-18</orbitalPhi>
                 <retrograde>false</retrograde>
                 <avgTemperature>254</avgTemperature>
                 <rotationalPeriod>50574</rotationalPeriod>
@@ -779,7 +779,7 @@
                 <gravitationalMultiplier>68</gravitationalMultiplier>
                 <orbitalDistance>185</orbitalDistance>
                 <orbitalTheta>156</orbitalTheta>
-                <orbitalPhi>-417</orbitalPhi>
+                <orbitalPhi>-57</orbitalPhi>
                 <retrograde>false</retrograde>
                 <avgTemperature>319</avgTemperature>
                 <rotationalPeriod>76328</rotationalPeriod>
@@ -874,7 +874,7 @@
                 <gravitationalMultiplier>38</gravitationalMultiplier>
                 <orbitalDistance>160</orbitalDistance>
                 <orbitalTheta>39</orbitalTheta>
-                <orbitalPhi>-460</orbitalPhi>
+                <orbitalPhi>-100</orbitalPhi>
                 <retrograde>false</retrograde>
                 <avgTemperature>343</avgTemperature>
                 <rotationalPeriod>437381</rotationalPeriod>
@@ -1410,7 +1410,7 @@
                 <gravitationalMultiplier>76</gravitationalMultiplier>
                 <orbitalDistance>162</orbitalDistance>
                 <orbitalTheta>129</orbitalTheta>
-                <orbitalPhi>-378</orbitalPhi>
+                <orbitalPhi>-18</orbitalPhi>
                 <retrograde>false</retrograde>
                 <avgTemperature>402</avgTemperature>
                 <rotationalPeriod>54672</rotationalPeriod>
@@ -1549,7 +1549,7 @@
                 <gravitationalMultiplier>32</gravitationalMultiplier>
                 <orbitalDistance>127</orbitalDistance>
                 <orbitalTheta>313</orbitalTheta>
-                <orbitalPhi>-364</orbitalPhi>
+                <orbitalPhi>-4</orbitalPhi>
                 <retrograde>false</retrograde>
                 <avgTemperature>272</avgTemperature>
                 <rotationalPeriod>732421</rotationalPeriod>
@@ -1606,7 +1606,7 @@
                 <gravitationalMultiplier>85</gravitationalMultiplier>
                 <orbitalDistance>186</orbitalDistance>
                 <orbitalTheta>9</orbitalTheta>
-                <orbitalPhi>-462</orbitalPhi>
+                <orbitalPhi>-102</orbitalPhi>
                 <retrograde>false</retrograde>
                 <avgTemperature>225</avgTemperature>
                 <rotationalPeriod>39079</rotationalPeriod>
