@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/weapons/potshot": {
+    "criteria": {
+      "has_gunpowder": "2024-12-26 07:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2024-12-26 07:05:26 +0000"
@@ -330,6 +336,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/tools/boomglove": {
+    "criteria": {
+      "has_gunpowder": "2024-12-26 07:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 07:04:32 +0000"
@@ -356,6 +368,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-12-26 07:25:02 +0000",
       "cooked_beef": "2024-12-26 07:08:55 +0000",
       "apple": "2024-12-26 07:13:09 +0000",
       "carrot": "2024-12-26 07:06:40 +0000"
@@ -534,6 +547,12 @@
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2024-12-26 07:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-26 07:22:22 +0000"
     },
     "done": true
   },
@@ -744,6 +763,12 @@
   "cfm:install": {
     "criteria": {
       "tick": "2024-12-26 06:58:35 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/bombs": {
+    "criteria": {
+      "has_item": "2024-12-26 07:22:22 +0000"
     },
     "done": true
   },
@@ -1021,6 +1046,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-26 07:04:32 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/traps/powderkeg": {
+    "criteria": {
+      "has_gunpowder": "2024-12-26 07:22:22 +0000"
     },
     "done": true
   },

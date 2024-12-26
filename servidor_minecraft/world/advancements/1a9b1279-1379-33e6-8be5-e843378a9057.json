@@ -265,6 +265,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-26 07:26:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_button": {
     "criteria": {
       "has_planks": "2024-12-26 06:45:50 +0000"
@@ -339,6 +345,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2024-12-26 07:30:21 +0000",
       "golden_carrot": "2024-12-26 06:50:35 +0000"
     },
     "done": false
@@ -459,6 +466,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-26 07:26:24 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:dungeoneering/root": {
     "criteria": {
       "kill": "2024-12-26 07:02:59 +0000"
@@ -516,6 +529,12 @@
   "dungeontactics:recipes/misc/dungeonpedia": {
     "criteria": {
       "has_book": "2024-12-26 07:03:24 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/obsidianbrick": {
+    "criteria": {
+      "has_item": "2024-12-26 07:26:24 +0000"
     },
     "done": true
   },
@@ -623,7 +642,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "forest": "2024-12-26 07:24:37 +0000",
       "beaches": "2024-12-26 06:43:18 +0000",
+      "desert_hills": "2024-12-26 07:25:27 +0000",
       "forest_hills": "2024-12-26 07:16:52 +0000",
       "savanna": "2024-12-26 06:43:38 +0000",
       "plains": "2024-12-26 07:18:17 +0000",
@@ -653,6 +674,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-26 07:26:24 +0000"
     },
     "done": true
   },
@@ -695,6 +722,12 @@
   "cfm:install": {
     "criteria": {
       "tick": "2024-12-26 06:42:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-26 07:26:24 +0000"
     },
     "done": true
   },
@@ -749,6 +782,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2024-12-26 06:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-26 07:22:37 +0000"
     },
     "done": true
   },
@@ -821,7 +860,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2024-12-26 07:12:57 +0000",
-      "zombie": "2024-12-26 07:02:59 +0000"
+      "zombie": "2024-12-26 07:02:59 +0000",
+      "spider": "2024-12-26 07:27:45 +0000"
     },
     "done": false
   },
