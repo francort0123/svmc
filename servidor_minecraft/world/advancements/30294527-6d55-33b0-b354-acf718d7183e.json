@@ -278,7 +278,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2024-12-26 07:33:56 +0000",
       "cooked_cod": "2024-12-26 07:24:35 +0000",
+      "cookie": "2024-12-26 07:32:22 +0000",
       "rotten_flesh": "2024-12-26 07:17:59 +0000"
     },
     "done": false

@@ -8445,3 +8445,713 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 
 [07:32:09] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 295 times.
 
+[07:32:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:32:56] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[07:32:59] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 300 times.
+
+[07:32:59] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 300 times.
+
+[07:32:59] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 300 times.
+
+[07:32:59] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 300 times.
+
+[07:32:59] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 300 times.
+
+[07:33:05] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[07:33:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN has made the advancement [Cover Me With Diamonds]
+[07:33:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:33:34] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[07:33:41] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[07:33:48] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[07:33:49] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 305 times.
+
+[07:33:49] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 305 times.
+
+[07:33:49] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 305 times.
+
+[07:33:49] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 305 times.
+
+[07:33:49] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 305 times.
+
+[07:33:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:34:04] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[07:34:30] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-40, 31] in dimension 0 (overworld) while populating chunk [-40, 30], causing cascading worldgen lag.
+[07:34:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:34:31] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[07:34:31] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[07:34:31] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:34:31] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[07:34:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: N4ZRN moved too quickly! -5.078418747478992,0.023088109101550458,8.870697577679039
+[07:34:38] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2737ms behind, skipping 54 tick(s)
+[07:34:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ElRamiACuadros> dadsad
+[07:34:43] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 310 times.
+
+[07:34:43] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 310 times.
+
+[07:34:43] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 310 times.
+
+[07:34:43] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 310 times.
+
+[07:34:43] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 310 times.
+
+[07:34:45] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SandStone spawned at [ -624 | 736 ], underground: true
+[07:34:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:34:50] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[07:34:50] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[07:34:53] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-46, 31] in dimension 0 (overworld) while populating chunk [-45, 31], causing cascading worldgen lag.
+[07:34:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:34:57] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4118ms behind, skipping 82 tick(s)
+[07:34:57] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[07:34:57] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-26, 50] in dimension 0 (overworld) while populating chunk [-26, 49], causing cascading worldgen lag.
+[07:34:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:34:57] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[07:34:57] [Server thread/WARN] [mca]: No skin found for profession: `dungeonsmod:traveler`. A random skin will be generated.
+[07:34:57] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[07:35:00] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-30, 50] in dimension 0 (overworld) while populating chunk [-32, 54], causing cascading worldgen lag.
+[07:35:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:00] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-31, 50] in dimension 0 (overworld) while populating chunk [-32, 54], causing cascading worldgen lag.
+[07:35:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FraanG0D moved too quickly! 6.756357484258842,-2.6345941796417094,7.201460023242248
+[07:35:03] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[07:35:05] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-31, 55] in dimension 0 (overworld) while populating chunk [-30, 54], causing cascading worldgen lag.
+[07:35:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz is bleeding...
+[07:35:06] [Server thread/INFO] [tombstone]: The death event of the player p3droz was cancelled by another mod
+[07:35:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElRamiACuadros has made the advancement [Acquire Hardware]
+[07:35:07] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-45, 39] in dimension 0 (overworld) while populating chunk [-44, 40], causing cascading worldgen lag.
+[07:35:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:07] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-45, 41] in dimension 0 (overworld) while populating chunk [-44, 40], causing cascading worldgen lag.
+[07:35:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:07] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-45, 40] in dimension 0 (overworld) while populating chunk [-44, 40], causing cascading worldgen lag.
+[07:35:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:07] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SandStone spawned at [ -496 | 896 ], underground: false
+[07:35:08] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-28, 57] in dimension 0 (overworld) while populating chunk [-29, 56], causing cascading worldgen lag.
+[07:35:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:08] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-28, 58] in dimension 0 (overworld) while populating chunk [-29, 56], causing cascading worldgen lag.
+[07:35:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:08] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-27, 57] in dimension 0 (overworld) while populating chunk [-29, 56], causing cascading worldgen lag.
+[07:35:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-45, 56] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-45, 57] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:11] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-46, 56] in dimension 0 (overworld) while populating chunk [-45, 57], causing cascading worldgen lag.
+[07:35:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:11] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-46, 55] in dimension 0 (overworld) while populating chunk [-46, 56], causing cascading worldgen lag.
+[07:35:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:11] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[07:35:11] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -720 | 912 ], underground: true
+[07:35:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-46, 57] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-45, 55] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:11] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-46, 54] in dimension 0 (overworld) while populating chunk [-45, 55], causing cascading worldgen lag.
+[07:35:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:11] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[07:35:11] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-46, 53] in dimension 0 (overworld) while populating chunk [-45, 55], causing cascading worldgen lag.
+[07:35:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-45, 54] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-44, 53] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-45, 53] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-46, 58] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-47, 55] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-47, 54] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-47, 56] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-47, 57] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-43, 55] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-44, 55] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-43, 54] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-44, 54] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-45, 58] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-47, 58] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:11] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-44, 57] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:12] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-44, 56] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:12] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-43, 56] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:12] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-45, 59] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:12] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-48, 56] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:12] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[07:35:12] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-48, 57] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:12] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-44, 58] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:12] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-41, 55] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:12] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-42, 55] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:12] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-41, 54] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:12] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-42, 54] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:12] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-41, 56] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:12] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-42, 56] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:12] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-48, 55] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:12] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-48, 54] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:12] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-48, 58] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:12] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-48, 59] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:12] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-46, 59] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:12] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-47, 59] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:12] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-46, 60] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:12] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-43, 57] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:12] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-43, 58] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:13] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-49, 55] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:13] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-49, 56] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:13] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-44, 59] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:13] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-43, 59] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:14] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-47, 53] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:14] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-48, 53] in dimension 0 (overworld) while populating chunk [-47, 53], causing cascading worldgen lag.
+[07:35:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:14] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-48, 52] in dimension 0 (overworld) while populating chunk [-47, 53], causing cascading worldgen lag.
+[07:35:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:14] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[07:35:14] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-47, 52] in dimension 0 (overworld) while populating chunk [-46, 52], causing cascading worldgen lag.
+[07:35:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:35:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FraanG0D moved too quickly! 6.371278095316143,-1.376735613781733,7.7859905273697905
+[07:35:21] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Piranha is 0.01
+[07:35:29] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 9939ms behind, skipping 198 tick(s)
+[07:35:35] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SandStone spawned at [ -272 | 816 ], underground: false
+[07:35:40] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 315 times.
+
+[07:35:40] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 315 times.
+
+[07:35:40] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 315 times.
+
+[07:35:40] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 315 times.
+
+[07:35:40] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 315 times.
+
+[07:35:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:35:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft is bleeding...
+[07:35:42] [Server thread/INFO] [tombstone]: The death event of the player baltacraft was cancelled by another mod
+[07:35:45] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/svmc/servidor_minecraft/./world/data/inventory-baltacraft-2024-12-26_07.35.45-death-0.dat. It can be restored with command '/ob_inventory restore baltacraft baltacraft-2024-12-26_07.35.45-death-0'
+[07:35:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft drowned whilst trying to escape Piranha
+[07:35:45] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['baltacraft'/15095, l='world', x=59.75, y=56.82, z=29.71]' cancelled, grave will not be spawned'
+[07:35:45] [Server thread/INFO] [tombstone]: The last known grave of baltacraft is at location [name:Last Grave, x:59, y:63, z:29] in the dimension 0
+[07:35:48] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/svmc/servidor_minecraft/./world/data/inventory-p3droz-2024-12-26_07.35.48-death-0.dat. It can be restored with command '/ob_inventory restore p3droz p3droz-2024-12-26_07.35.48-death-0'
+[07:35:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz was slain by Zombie
+[07:35:48] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['p3droz'/48661, l='world', x=66.02, y=40.00, z=110.70]' cancelled, grave will not be spawned'
+[07:35:48] [Server thread/INFO] [tombstone]: The last known grave of p3droz is at location [name:Last Grave, x:66, y:40, z:110] in the dimension 0
+[07:36:13] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[07:36:14] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[07:36:17] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[07:36:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN has made the advancement [Tar Tar Sauce]
+[07:36:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:36:27] [Server thread/INFO] [mca]: Villager death: Fritz. Caused by: Death Worm. UUID: 038f0c1a-9665-48ef-8956-3ac33b5b40d7
+[07:36:30] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 320 times.
+
+[07:36:30] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 320 times.
+
+[07:36:30] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 320 times.
+
+[07:36:30] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 320 times.
+
+[07:36:30] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 320 times.
+
+[07:36:42] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-15, 58] in dimension 0 (overworld) while populating chunk [-15, 57], causing cascading worldgen lag.
+[07:36:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:36:42] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-14, 58] in dimension 0 (overworld) while populating chunk [-15, 57], causing cascading worldgen lag.
+[07:36:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:36:44] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-13, 54] in dimension 0 (overworld) while populating chunk [-14, 54], causing cascading worldgen lag.
+[07:36:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:36:44] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-13, 53] in dimension 0 (overworld) while populating chunk [-14, 54], causing cascading worldgen lag.
+[07:36:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:36:44] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[07:36:48] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[07:36:49] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[07:36:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D has made the advancement [Phat Loots]
+[07:36:57] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[07:37:05] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie Villager is 0.01
+[07:37:05] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[07:37:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN has made the advancement [Monster Hunter]
+[07:37:08] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cave Spider is 0.01
+[07:37:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:37:12] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[07:37:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz is bleeding...
+[07:37:16] [Server thread/INFO] [tombstone]: The death event of the player p3droz was cancelled by another mod
+[07:37:18] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/svmc/servidor_minecraft/./world/data/inventory-p3droz-2024-12-26_07.37.18-death-0.dat. It can be restored with command '/ob_inventory restore p3droz p3droz-2024-12-26_07.37.18-death-0'
+[07:37:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz fell from a high place
+[07:37:18] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['p3droz'/48661, l='world', x=67.81, y=40.00, z=108.70]' cancelled, grave will not be spawned'
+[07:37:18] [Server thread/INFO] [tombstone]: The last known grave of p3droz is at location [name:Last Grave, x:67, y:40, z:108] in the dimension 0
+[07:37:20] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 325 times.
+
+[07:37:20] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 325 times.
+
+[07:37:20] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 325 times.
+
+[07:37:20] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 325 times.
+
+[07:37:20] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 325 times.
+
+[07:37:28] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SmoothStone spawned at [ -320 | 1008 ], underground: false
+[07:37:29] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2998ms behind, skipping 59 tick(s)
+[07:37:43] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[07:37:49] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Piranha is 0.01
+[07:37:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:38:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft is bleeding...
+[07:38:07] [Server thread/INFO] [tombstone]: The death event of the player baltacraft was cancelled by another mod
+[07:38:09] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/svmc/servidor_minecraft/./world/data/inventory-baltacraft-2024-12-26_07.38.09-death-0.dat. It can be restored with command '/ob_inventory restore baltacraft baltacraft-2024-12-26_07.38.09-death-0'
+[07:38:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft drowned
+[07:38:09] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['baltacraft'/15095, l='world', x=68.58, y=49.00, z=37.35]' cancelled, grave will not be spawned'
+[07:38:09] [Server thread/INFO] [tombstone]: The last known grave of baltacraft is at location [name:Last Grave, x:68, y:107, z:37] in the dimension 0
+[07:38:10] [Server thread/INFO] [mca]: Villager death: Jermaine. Caused by: drown. UUID: ef6940ba-cf31-4fed-aa7f-f348484cf0d6
+[07:38:10] [Server thread/INFO] [mca]: Villager death: Timmy. Caused by: drown. UUID: d7781230-7b6e-4df9-89e5-907ebb7fa6ca
+[07:38:11] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 330 times.
+
+[07:38:11] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 330 times.
+
+[07:38:11] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 330 times.
+
+[07:38:11] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 330 times.
+
+[07:38:11] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 330 times.
+
+[07:38:17] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[07:38:26] [Netty Epoll Server IO #3/ERROR] [mca]: Career ID wasn't assigned for UUID: d7781230-7b6e-4df9-89e5-907ebb7fa6ca
+[07:38:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:38:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft is bleeding...
+[07:38:47] [Server thread/INFO] [tombstone]: The death event of the player baltacraft was cancelled by another mod
+[07:38:49] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/svmc/servidor_minecraft/./world/data/inventory-baltacraft-2024-12-26_07.38.49-death-0.dat. It can be restored with command '/ob_inventory restore baltacraft baltacraft-2024-12-26_07.38.49-death-0'
+[07:38:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft was turned into KFC by a dragon
+[07:38:49] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['baltacraft'/15095, l='world', x=45.43, y=49.00, z=37.70]' cancelled, grave will not be spawned'
+[07:38:49] [Server thread/INFO] [tombstone]: The last known grave of baltacraft is at location [name:Last Grave, x:45, y:55, z:33] in the dimension 0
+[07:38:58] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[07:39:01] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 335 times.
+
+[07:39:01] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 335 times.
+
+[07:39:01] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 335 times.
+
+[07:39:01] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 335 times.
+
+[07:39:01] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 335 times.
+
+[07:39:03] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-8, 54] in dimension 0 (overworld) while populating chunk [-8, 53], causing cascading worldgen lag.
+[07:39:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:39:03] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-8, 55] in dimension 0 (overworld) while populating chunk [-8, 53], causing cascading worldgen lag.
+[07:39:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:39:03] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-7, 54] in dimension 0 (overworld) while populating chunk [-8, 53], causing cascading worldgen lag.
+[07:39:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:39:03] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-7, 55] in dimension 0 (overworld) while populating chunk [-8, 53], causing cascading worldgen lag.
+[07:39:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:39:12] [Server thread/INFO] [mca]: Villager death: Madonna. Caused by: inFire. UUID: df8c5a7b-b28e-4b30-acb3-52f02eab3d1d
+[07:39:18] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -112 | 976 ], underground: false
+[07:39:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:39:51] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 340 times.
+
+[07:39:51] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 340 times.
+
+[07:39:51] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 340 times.
+
+[07:39:51] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 340 times.
+
+[07:39:51] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 340 times.
+
+[07:39:54] [Server thread/INFO] [mca]: Villager death: Terrance. Caused by: Death Worm. UUID: fea0a7fc-faf3-4bae-8a8c-db3f56e9bc5c
+[07:39:56] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[07:40:03] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[07:40:11] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[07:40:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:40:14] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[07:40:41] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 345 times.
+
+[07:40:41] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 345 times.
+
+[07:40:41] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 345 times.
+
+[07:40:41] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 345 times.
+
+[07:40:41] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 345 times.
+
+[07:40:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:41:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: N4ZRN lost connection: Disconnected
+[07:41:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN left the game
+[07:41:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElRamiACuadros is bleeding...
+[07:41:21] [Server thread/INFO] [tombstone]: The death event of the player ElRamiACuadros was cancelled by another mod
+[07:41:27] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/svmc/servidor_minecraft/./world/data/inventory-ElRamiACuadros-2024-12-26_07.41.27-death-0.dat. It can be restored with command '/ob_inventory restore ElRamiACuadros ElRamiACuadros-2024-12-26_07.41.27-death-0'
+[07:41:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElRamiACuadros burned to death
+[07:41:27] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['ElRamiACuadros'/17999, l='world', x=55.21, y=11.00, z=141.96]' cancelled, grave will not be spawned'
+[07:41:27] [Server thread/INFO] [tombstone]: The last known grave of ElRamiACuadros is at location [name:Last Grave, x:55, y:11, z:142] in the dimension 0
+[07:41:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElRamiACuadros has made the advancement [Your First Grave]
+[07:41:28] [Server thread/TRACE] [FML]: Handshake channel activating
+[07:41:28] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[07:41:28] [Server thread/DEBUG] [FML]:   Next: HELLO
+[07:41:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElRamiACuadros has made the advancement [INFO : Grave's Key]
+[07:41:28] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[07:41:28] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[07:41:28] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:65 mods->FMLHandshakeServerState$2:HELLO
+[07:41:28] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 65 mods : mclib@2.4.2,dungeonsmod@@VERSION@,dungeontactics@DT-0.16.7,mca@6.1.0,creativecoredummy@1.0.0,bountifulbaubles@0.0.1,openmods@0.12.2,deconstruction@3.0.4,jei@4.15.0.293,chunkpregenerator@4.4.9,radixcore@1.12.x-2.2.1,betternether@0.1.8.6,ivtoolkit@1.3.3-1.12,dailies@1.12.2-6,bettercaves@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,hammercore@12.2.56,journeymap@1.12.2-5.7.1p2,artifacts@1.12.2-1.2.3,bookshelf@2.3.590,llibrary@1.7.20,uteamcore@2.2.5.255,progressivebosses@1.5.4,fossil@8.0.5,iceandfire@1.9.1,waila@1.8.26,inventorypets@2.0.15,guideapi@1.12-2.1.8-63,carryon@1.12.3,emoticons@1.1.2,paraglider@1.0.1.5,forge@14.23.5.2859,ruins@17.2,bloodmagic@1.12.2-2.4.3-105,eplus@5.0.176,openblocks@1.8.1,hardcore_battle_towers_av_av@2.0.1,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,usefulbackpacks@1.5.3.59,dungeons@2.0,silentlib@3.0.13,baubles@1.5.2,openmodscore@0.12.2,creativecore@1.10.0,advancedrocketry@1.12.2-2.0.0-17,battletowers@1.6.5,futureminecraf@1.3.1,improvableskills@12.4.68,roguelike@1.8.0,mantle@1.12-1.3.3.55,gb@1.1.206,securitycraft@v1.9.4,FML@8.0.99.99,tombstone@3.7.3,libvulpes@0.4.2.-25,cfm@6.3.0,tinkersjei@1.2,oreshrubs@1.4.4,scalinghealth@1.3.37,playerrevive@1.0,movillages@1.5.4,carbonconfig@1.2.1
+[07:41:28] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[07:41:28] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[07:41:28] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[07:41:28] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[07:41:30] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[07:41:30] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[07:41:30] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[07:41:30] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[07:41:30] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: N4ZRN[/127.209.238.16:59565] logged in with entity id 173534 at (-428.7377451105383, 72.0, 441.3688121925279)
+[07:41:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN joined the game
+[07:41:30] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[07:41:30] [Server thread/INFO] [Waila]: Player EntityPlayerMP['N4ZRN'/173534, l='world', x=-428.74, y=72.00, z=441.37] connected. Sending ping
+[07:41:30] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player N4ZRN
+[07:41:30] [Thread-202/INFO] [STDOUT]: [net.torocraft.dailies.network.QuestInventoryFetcher:buildRequest:42]: DAILIES REQUEST modVersion = 1.12.2-6
+[07:41:31] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 350 times.
+
+[07:41:31] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 350 times.
+
+[07:41:31] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 350 times.
+
+[07:41:31] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 350 times.
+
+[07:41:31] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 350 times.
+
+[07:41:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:41:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft is bleeding...
+[07:41:57] [Server thread/INFO] [tombstone]: The death event of the player baltacraft was cancelled by another mod
+[07:41:59] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/svmc/servidor_minecraft/./world/data/inventory-baltacraft-2024-12-26_07.41.59-death-0.dat. It can be restored with command '/ob_inventory restore baltacraft baltacraft-2024-12-26_07.41.59-death-0'
+[07:41:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft was slain by Fire Dragon
+[07:41:59] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['baltacraft'/15095, l='world', x=115.15, y=58.60, z=9.60]' cancelled, grave will not be spawned'
+[07:41:59] [Server thread/INFO] [tombstone]: The last known grave of baltacraft is at location [name:Last Grave, x:115, y:63, z:9] in the dimension 0
+[07:42:21] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 355 times.
+
+[07:42:21] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 355 times.
+
+[07:42:21] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 355 times.
+
+[07:42:21] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 355 times.
+
+[07:42:21] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 355 times.
+
+[07:42:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:42:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: p3droz lost connection: Disconnected
+[07:42:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz left the game
+[07:42:58] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Husk is 0.01
+[07:43:11] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 360 times.
+
+[07:43:11] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 360 times.
+
+[07:43:11] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 360 times.
+
+[07:43:11] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 360 times.
+
+[07:43:11] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 360 times.
+
+[07:43:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:43:16] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-45, 26] in dimension 0 (overworld) while populating chunk [-44, 26], causing cascading worldgen lag.
+[07:43:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:16] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-45, 25] in dimension 0 (overworld) while populating chunk [-44, 26], causing cascading worldgen lag.
+[07:43:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:16] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-46, 25] in dimension 0 (overworld) while populating chunk [-45, 25], causing cascading worldgen lag.
+[07:43:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:16] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-46, 24] in dimension 0 (overworld) while populating chunk [-45, 25], causing cascading worldgen lag.
+[07:43:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:16] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-44, 25] in dimension 0 (overworld) while populating chunk [-44, 26], causing cascading worldgen lag.
+[07:43:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:17] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-45, 24] in dimension 0 (overworld) while populating chunk [-44, 26], causing cascading worldgen lag.
+[07:43:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:17] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-44, 24] in dimension 0 (overworld) while populating chunk [-44, 26], causing cascading worldgen lag.
+[07:43:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:17] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-45, 23] in dimension 0 (overworld) while populating chunk [-44, 24], causing cascading worldgen lag.
+[07:43:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:17] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-46, 23] in dimension 0 (overworld) while populating chunk [-45, 23], causing cascading worldgen lag.
+[07:43:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:17] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-46, 22] in dimension 0 (overworld) while populating chunk [-45, 23], causing cascading worldgen lag.
+[07:43:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:17] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-46, 26] in dimension 0 (overworld) while populating chunk [-44, 26], causing cascading worldgen lag.
+[07:43:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:18] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-45, 28] in dimension 0 (overworld) while populating chunk [-44, 26], causing cascading worldgen lag.
+[07:43:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:18] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-45, 27] in dimension 0 (overworld) while populating chunk [-44, 26], causing cascading worldgen lag.
+[07:43:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:18] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-43, 25] in dimension 0 (overworld) while populating chunk [-44, 26], causing cascading worldgen lag.
+[07:43:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:18] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-47, 25] in dimension 0 (overworld) while populating chunk [-44, 26], causing cascading worldgen lag.
+[07:43:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:18] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-47, 24] in dimension 0 (overworld) while populating chunk [-47, 25], causing cascading worldgen lag.
+[07:43:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:18] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-43, 24] in dimension 0 (overworld) while populating chunk [-44, 26], causing cascading worldgen lag.
+[07:43:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:18] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-44, 23] in dimension 0 (overworld) while populating chunk [-44, 26], causing cascading worldgen lag.
+[07:43:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:18] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-45, 22] in dimension 0 (overworld) while populating chunk [-44, 23], causing cascading worldgen lag.
+[07:43:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:18] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -704 | 368 ], underground: false
+[07:43:18] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-46, 28] in dimension 0 (overworld) while populating chunk [-44, 26], causing cascading worldgen lag.
+[07:43:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:18] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-46, 27] in dimension 0 (overworld) while populating chunk [-44, 26], causing cascading worldgen lag.
+[07:43:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:19] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-47, 26] in dimension 0 (overworld) while populating chunk [-44, 26], causing cascading worldgen lag.
+[07:43:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:19] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-43, 23] in dimension 0 (overworld) while populating chunk [-44, 26], causing cascading worldgen lag.
+[07:43:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:20] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-47, 27] in dimension 0 (overworld) while populating chunk [-44, 26], causing cascading worldgen lag.
+[07:43:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:20] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-47, 23] in dimension 0 (overworld) while populating chunk [-44, 26], causing cascading worldgen lag.
+[07:43:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:20] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-42, 25] in dimension 0 (overworld) while populating chunk [-44, 26], causing cascading worldgen lag.
+[07:43:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:20] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-48, 25] in dimension 0 (overworld) while populating chunk [-44, 26], causing cascading worldgen lag.
+[07:43:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:20] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-48, 26] in dimension 0 (overworld) while populating chunk [-44, 26], causing cascading worldgen lag.
+[07:43:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:20] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-42, 24] in dimension 0 (overworld) while populating chunk [-44, 26], causing cascading worldgen lag.
+[07:43:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:20] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-44, 22] in dimension 0 (overworld) while populating chunk [-44, 26], causing cascading worldgen lag.
+[07:43:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:21] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-48, 24] in dimension 0 (overworld) while populating chunk [-44, 26], causing cascading worldgen lag.
+[07:43:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:21] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4648ms behind, skipping 92 tick(s)
+[07:43:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: N4ZRN moved too quickly! -8.463192644128185,0.17081290814229533,-5.665331987122158
+[07:43:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ElRamiACuadros moved too quickly! -9.65609622677988,3.0,1.3520700875698708
+[07:43:43] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -784 | 576 ], underground: true
+[07:43:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FraanG0D moved too quickly! -8.649332850279052,2.0,-5.06205471983651
+[07:43:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN is bleeding...
+[07:43:44] [Server thread/INFO] [tombstone]: The death event of the player N4ZRN was cancelled by another mod
+[07:43:47] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/svmc/servidor_minecraft/./world/data/inventory-N4ZRN-2024-12-26_07.43.47-death-0.dat. It can be restored with command '/ob_inventory restore N4ZRN N4ZRN-2024-12-26_07.43.47-death-0'
+[07:43:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN was slain by Fire Dragon
+[07:43:47] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['N4ZRN'/173534, l='world', x=-559.25, y=72.00, z=585.41]' cancelled, grave will not be spawned'
+[07:43:47] [Server thread/INFO] [tombstone]: The last known grave of N4ZRN is at location [name:Last Grave, x:-560, y:72, z:585] in the dimension 0
+[07:43:58] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[07:43:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:44:04] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 365 times.
+
+[07:44:04] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 365 times.
+
+[07:44:04] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 365 times.
+
+[07:44:04] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 365 times.
+
+[07:44:04] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 365 times.
+
+[07:44:22] [Server thread/INFO] [mca]: Villager death: Marshall. Caused by: Zombie. UUID: 29dab5ee-0a52-4d71-b2d2-b0c1a863a72e
+[07:44:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElRamiACuadros is bleeding...
+[07:44:24] [Server thread/INFO] [tombstone]: The death event of the player ElRamiACuadros was cancelled by another mod
+[07:44:26] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/svmc/servidor_minecraft/./world/data/inventory-ElRamiACuadros-2024-12-26_07.44.26-death-0.dat. It can be restored with command '/ob_inventory restore ElRamiACuadros ElRamiACuadros-2024-12-26_07.44.26-death-0'
+[07:44:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElRamiACuadros was turned into KFC by a dragon
+[07:44:26] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['ElRamiACuadros'/17999, l='world', x=47.54, y=60.00, z=111.13]' cancelled, grave will not be spawned'
+[07:44:26] [Server thread/INFO] [tombstone]: The last known grave of ElRamiACuadros is at location [name:Last Grave, x:47, y:63, z:111] in the dimension 0
+[07:44:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:44:54] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 370 times.
+
+[07:44:54] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 370 times.
+
+[07:44:54] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 370 times.
+
+[07:44:54] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 370 times.
+
+[07:44:54] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 370 times.
+
+[07:45:25] [Server thread/INFO] [mca]: Villager death: Elisha. Caused by: Zombie. UUID: ec44c8fe-2ba7-4dd8-9afc-fdfbb1b0b6bd
+[07:45:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:45:44] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 375 times.
+
+[07:45:44] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 375 times.
+
+[07:45:44] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 375 times.
+
+[07:45:44] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 375 times.
+
+[07:45:44] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 375 times.
+
+[07:46:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:46:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft is bleeding...
+[07:46:16] [Server thread/INFO] [tombstone]: The death event of the player baltacraft was cancelled by another mod
+[07:46:17] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/svmc/servidor_minecraft/./world/data/inventory-baltacraft-2024-12-26_07.46.17-death-0.dat. It can be restored with command '/ob_inventory restore baltacraft baltacraft-2024-12-26_07.46.17-death-0'
+[07:46:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft fell from a high place
+[07:46:17] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['baltacraft'/15095, l='world', x=-24.14, y=69.00, z=47.20]' cancelled, grave will not be spawned'
+[07:46:17] [Server thread/INFO] [tombstone]: The last known grave of baltacraft is at location [name:Last Grave, x:-25, y:69, z:47] in the dimension 0
+[07:46:34] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 380 times.
+
+[07:46:34] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 380 times.
+
+[07:46:34] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 380 times.
+
+[07:46:34] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 380 times.
+
+[07:46:34] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 380 times.
+
+[07:46:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft is bleeding...
+[07:46:47] [Server thread/INFO] [tombstone]: The death event of the player baltacraft was cancelled by another mod
+[07:46:49] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/svmc/servidor_minecraft/./world/data/inventory-baltacraft-2024-12-26_07.46.49-death-0.dat. It can be restored with command '/ob_inventory restore baltacraft baltacraft-2024-12-26_07.46.49-death-0'
+[07:46:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft was incinerated by a dragon
+[07:46:49] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['baltacraft'/15095, l='world', x=-46.85, y=62.00, z=96.70]' cancelled, grave will not be spawned'
+[07:46:49] [Server thread/INFO] [tombstone]: The last known grave of baltacraft is at location [name:Last Grave, x:-46, y:63, z:97] in the dimension 0
+[07:46:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN is bleeding...
+[07:46:51] [Server thread/INFO] [tombstone]: The death event of the player N4ZRN was cancelled by another mod
+[07:46:54] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/svmc/servidor_minecraft/./world/data/inventory-N4ZRN-2024-12-26_07.46.54-death-0.dat. It can be restored with command '/ob_inventory restore N4ZRN N4ZRN-2024-12-26_07.46.54-death-0'
+[07:46:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN was slain by Fire Dragon
+[07:46:54] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['N4ZRN'/173534, l='world', x=-450.86, y=64.00, z=568.63]' cancelled, grave will not be spawned'
+[07:46:54] [Server thread/INFO] [tombstone]: The last known grave of N4ZRN is at location [name:Last Grave, x:-451, y:64, z:568] in the dimension 0
+[07:46:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:47:24] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 385 times.
+
+[07:47:24] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 385 times.
+
+[07:47:24] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 385 times.
+
+[07:47:24] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 385 times.
+
+[07:47:24] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 385 times.
+
+[07:47:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN has made the advancement [Not Even Double-Sided]
+[07:47:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN has made the advancement [Knowledge of Death]
+[07:47:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN has reached the goal [Here They Come]
+[07:47:43] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [1, 52] in dimension 0 (overworld) while populating chunk [0, 51], causing cascading worldgen lag.
+[07:47:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:47:43] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[07:47:43] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [0, 52] in dimension 0 (overworld) while populating chunk [0, 51], causing cascading worldgen lag.
+[07:47:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:47:43] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[07:47:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:47:58] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[07:47:58] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[07:47:58] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[07:47:58] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[07:48:06] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[07:48:14] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 390 times.
+
+[07:48:14] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 390 times.
+
+[07:48:14] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 390 times.
+
+[07:48:14] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 390 times.
+
+[07:48:14] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 390 times.
+
+[07:48:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElRamiACuadros is bleeding...
+[07:48:19] [Server thread/INFO] [tombstone]: The death event of the player ElRamiACuadros was cancelled by another mod
+[07:48:23] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/svmc/servidor_minecraft/./world/data/inventory-ElRamiACuadros-2024-12-26_07.48.23-death-0.dat. It can be restored with command '/ob_inventory restore ElRamiACuadros ElRamiACuadros-2024-12-26_07.48.23-death-0'
+[07:48:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElRamiACuadros was slain by Fire Dragon
+[07:48:23] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['ElRamiACuadros'/17999, l='world', x=-36.03, y=59.00, z=72.79]' cancelled, grave will not be spawned'
+[07:48:23] [Server thread/INFO] [tombstone]: The last known grave of ElRamiACuadros is at location [name:Last Grave, x:-38, y:63, z:70] in the dimension 0
+[07:48:23] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Piranha is 0.01
+[07:48:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN is bleeding...
+[07:48:25] [Server thread/INFO] [tombstone]: The death event of the player N4ZRN was cancelled by another mod
+[07:48:27] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/svmc/servidor_minecraft/./world/data/inventory-N4ZRN-2024-12-26_07.48.27-death-0.dat. It can be restored with command '/ob_inventory restore N4ZRN N4ZRN-2024-12-26_07.48.27-death-0'
+[07:48:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN was incinerated by a dragon
+[07:48:27] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['N4ZRN'/173534, l='world', x=-14.01, y=57.00, z=53.46]' cancelled, grave will not be spawned'
+[07:48:27] [Server thread/INFO] [tombstone]: The last known grave of N4ZRN is at location [name:Last Grave, x:-15, y:63, z:53] in the dimension 0
+[07:48:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:48:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN is bleeding...
+[07:48:45] [Server thread/INFO] [tombstone]: The death event of the player N4ZRN was cancelled by another mod
+[07:48:47] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/svmc/servidor_minecraft/./world/data/inventory-N4ZRN-2024-12-26_07.48.47-death-0.dat. It can be restored with command '/ob_inventory restore N4ZRN N4ZRN-2024-12-26_07.48.47-death-0'
+[07:48:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN was turned into KFC by a dragon
+[07:48:47] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['N4ZRN'/173534, l='world', x=-22.60, y=66.00, z=49.30]' cancelled, grave will not be spawned'
+[07:48:48] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 64 | 864 ], underground: false
+[07:48:55] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[07:48:55] [Server thread/INFO] [mca]: Villager death: Karla. Caused by: inWall. UUID: 5ee26750-7e65-407f-9556-e90216a11c65
+[07:49:03] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[07:49:04] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 395 times.
+
+[07:49:04] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 395 times.
+
+[07:49:04] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 395 times.
+
+[07:49:04] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 395 times.
+
+[07:49:04] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 395 times.
+
+[07:49:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft is bleeding...
+[07:49:10] [Server thread/INFO] [tombstone]: The death event of the player baltacraft was cancelled by another mod
+[07:49:13] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/svmc/servidor_minecraft/./world/data/inventory-baltacraft-2024-12-26_07.49.13-death-0.dat. It can be restored with command '/ob_inventory restore baltacraft baltacraft-2024-12-26_07.49.13-death-0'
+[07:49:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft was incinerated by a dragon
+[07:49:13] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['baltacraft'/15095, l='world', x=50.24, y=55.00, z=33.47]' cancelled, grave will not be spawned'
+[07:49:13] [Server thread/INFO] [tombstone]: The last known grave of baltacraft is at location [name:Last Grave, x:50, y:87, z:36] in the dimension 0
+[07:49:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:49:39] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [7, 63] in dimension 0 (overworld) while populating chunk [7, 62], causing cascading worldgen lag.
+[07:49:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:49:39] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[07:49:54] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 400 times.
+
+[07:49:54] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 400 times.
+
+[07:49:54] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 400 times.
+
+[07:49:54] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 400 times.
+
+[07:49:54] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 400 times.
+
+[07:49:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:50:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElRamiACuadros has made the advancement [Not Even Double-Sided]
+[07:50:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElRamiACuadros has made the advancement [Knowledge of Death]
+[07:50:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElRamiACuadros has reached the goal [Here They Come]
+[07:50:19] [Server thread/INFO] [mca]: Villager death: Gregory. Caused by: Siren. UUID: edf8d140-8414-4175-a6ad-c716837b2427
+[07:50:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElRamiACuadros is bleeding...
+[07:50:24] [Server thread/INFO] [tombstone]: The death event of the player ElRamiACuadros was cancelled by another mod
+[07:50:26] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/svmc/servidor_minecraft/./world/data/inventory-ElRamiACuadros-2024-12-26_07.50.26-death-0.dat. It can be restored with command '/ob_inventory restore ElRamiACuadros ElRamiACuadros-2024-12-26_07.50.26-death-0'
+[07:50:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElRamiACuadros was turned into KFC by a dragon
+[07:50:26] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['ElRamiACuadros'/17999, l='world', x=7.75, y=60.00, z=43.33]' cancelled, grave will not be spawned'
+[07:50:26] [Server thread/INFO] [tombstone]: The last known grave of ElRamiACuadros is at location [name:Last Grave, x:5, y:63, z:41] in the dimension 0
+[07:50:27] [Server thread/INFO] [mca]: Villager death: Monroe. Caused by: Siren. UUID: ab081163-8dad-40cc-bfdc-3c5df6e080cc
+[07:50:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN is bleeding...
+[07:50:28] [Server thread/INFO] [tombstone]: The death event of the player N4ZRN was cancelled by another mod
+[07:50:30] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/svmc/servidor_minecraft/./world/data/inventory-N4ZRN-2024-12-26_07.50.30-death-0.dat. It can be restored with command '/ob_inventory restore N4ZRN N4ZRN-2024-12-26_07.50.30-death-0'
+[07:50:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN was incinerated by a dragon
+[07:50:30] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['N4ZRN'/173534, l='world', x=1.14, y=61.00, z=45.72]' cancelled, grave will not be spawned'
+[07:50:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D has made the advancement [Research Time]
+[07:50:44] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 405 times.
+
+[07:50:44] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 405 times.
+
+[07:50:44] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 405 times.
+
+[07:50:44] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 405 times.
+
+[07:50:44] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 405 times.
+
+[07:50:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:51:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:51:34] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 410 times.
+
+[07:51:34] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 410 times.
+
+[07:51:34] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 410 times.
+
+[07:51:34] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 410 times.
+
+[07:51:34] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 410 times.
+
+[07:52:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:52:24] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 415 times.
+
+[07:52:24] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 415 times.
+
+[07:52:24] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 415 times.
+
+[07:52:24] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 415 times.
+
+[07:52:24] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 415 times.
+
