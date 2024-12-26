@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-12-26 07:58:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-26 07:36:25 +0000"
@@ -104,6 +110,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2024-12-26 07:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-26 07:56:14 +0000"
     },
     "done": true
   },
@@ -258,15 +270,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-26 07:55:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2024-12-26 07:06:05 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-26 08:01:36 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/traps/fan_block": {
+    "criteria": {
+      "has_item": "2024-12-26 07:56:14 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/convenience/string_from_wool": {
     "criteria": {
       "has_wool": "2024-12-26 07:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2024-12-26 08:01:17 +0000"
     },
     "done": true
   },
@@ -438,9 +474,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2024-12-26 08:01:17 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/obsidianbrick": {
+    "criteria": {
+      "has_item": "2024-12-26 07:55:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-26 07:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-12-26 07:58:36 +0000"
     },
     "done": true
   },
@@ -588,6 +642,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-26 07:55:45 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/weapons/bombs": {
     "criteria": {
       "has_item": "2024-12-26 07:17:34 +0000"
@@ -609,6 +669,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 07:02:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-12-26 07:58:36 +0000"
     },
     "done": true
   },
@@ -662,11 +728,18 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "husk": "2024-12-26 07:55:16 +0000",
       "cave_spider": "2024-12-26 07:37:08 +0000",
       "zombie": "2024-12-26 07:39:50 +0000",
       "spider": "2024-12-26 07:37:43 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-26 07:56:14 +0000"
+    },
+    "done": true
   },
   "advancedrocketry:normal/root": {
     "criteria": {
@@ -683,6 +756,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-26 07:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-12-26 07:56:14 +0000"
     },
     "done": true
   },
@@ -788,6 +867,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/tools/engineers_wrench": {
+    "criteria": {
+      "has_recipe": "2024-12-26 07:56:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2024-12-26 07:30:23 +0000"
@@ -830,6 +915,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/find_grave_dust": {
+    "criteria": {
+      "has_grave_dust": "2024-12-26 08:00:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2024-12-26 07:42:09 +0000"
@@ -842,9 +933,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2024-12-26 07:54:01 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/traps/powered_fence": {
+    "criteria": {
+      "has_item": "2024-12-26 07:56:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-26 07:05:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-26 07:58:36 +0000"
     },
     "done": true
   },
@@ -956,6 +1065,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/tools/bagofhoarding": {
+    "criteria": {
+      "has_recipe": "2024-12-26 07:56:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-26 07:36:25 +0000"
@@ -1005,6 +1120,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-26 07:55:45 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/tools/fire_starter": {
     "criteria": {
       "has_item": "2024-12-26 07:18:29 +0000"
@@ -1032,6 +1153,12 @@
   "tombstone:tutorial/root": {
     "criteria": {
       "auto": "2024-12-26 07:00:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log2": "2024-12-26 07:58:34 +0000"
     },
     "done": true
   },
@@ -1071,18 +1198,26 @@
       "birch_forest": "2024-12-26 07:10:15 +0000",
       "deep_ocean": "2024-12-26 07:03:25 +0000",
       "beaches": "2024-12-26 07:00:44 +0000",
+      "desert_hills": "2024-12-26 07:54:44 +0000",
       "forest_hills": "2024-12-26 07:17:16 +0000",
       "savanna": "2024-12-26 07:19:09 +0000",
       "plains": "2024-12-26 07:31:14 +0000",
       "savanna_rock": "2024-12-26 07:00:33 +0000",
       "ocean": "2024-12-26 07:02:07 +0000",
-      "river": "2024-12-26 07:02:02 +0000"
+      "river": "2024-12-26 07:02:02 +0000",
+      "desert": "2024-12-26 07:54:28 +0000"
     },
     "done": false
   },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 07:02:39 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-26 07:55:45 +0000"
     },
     "done": true
   },
@@ -1101,6 +1236,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-26 07:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-26 07:55:07 +0000"
     },
     "done": true
   },
@@ -1143,6 +1284,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 07:02:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2024-12-26 07:56:14 +0000"
     },
     "done": true
   },
@@ -1212,6 +1359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2024-12-26 07:56:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-26 07:13:52 +0000"
@@ -1227,6 +1380,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2024-12-26 07:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-26 07:58:36 +0000"
     },
     "done": true
   },

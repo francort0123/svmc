@@ -9155,3 +9155,230 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 
 [07:52:24] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 415 times.
 
+[07:52:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:52:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D has made the advancement [Take Aim]
+[07:53:14] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 420 times.
+
+[07:53:14] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 420 times.
+
+[07:53:14] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 420 times.
+
+[07:53:14] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 420 times.
+
+[07:53:14] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 420 times.
+
+[07:53:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:54:02] [Server thread/INFO] [mca]: Villager death: Georgia. Caused by: FraanG0D. UUID: 01b57c68-b43f-4b66-b82b-d3c1025b9b83
+[07:54:04] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 425 times.
+
+[07:54:04] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 425 times.
+
+[07:54:04] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 425 times.
+
+[07:54:04] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 425 times.
+
+[07:54:04] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 425 times.
+
+[07:54:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:54:31] [Server thread/INFO] [mca]: Villager death: Shenita. Caused by: Arrow. UUID: d7c0d5ad-1203-492b-ac2e-4869ea26446a
+[07:54:33] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Piranha is 0.01
+[07:54:35] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Piranha is 0.01
+[07:54:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity iceandfire:deathworm that already exists with UUID b789648a-6d40-4eac-8d30-44a38e897db1
+[07:54:54] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 430 times.
+
+[07:54:54] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 430 times.
+
+[07:54:54] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 430 times.
+
+[07:54:54] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 430 times.
+
+[07:54:54] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 430 times.
+
+[07:54:56] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[07:54:58] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [12, 47] in dimension 0 (overworld) while populating chunk [12, 48], causing cascading worldgen lag.
+[07:54:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:54:58] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [12, 46] in dimension 0 (overworld) while populating chunk [12, 48], causing cascading worldgen lag.
+[07:54:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:55:07] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cave Spider is 0.01
+[07:55:09] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[07:55:13] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cave Spider is 0.01
+[07:55:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:55:16] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Husk is 0.01
+[07:55:23] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [12, 43] in dimension 0 (overworld) while populating chunk [13, 44], causing cascading worldgen lag.
+[07:55:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:55:24] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 208 | 704 ], underground: false
+[07:55:25] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 208 | 1008 ], underground: false
+[07:55:27] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[07:55:27] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[07:55:27] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[07:55:28] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[07:55:44] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 435 times.
+
+[07:55:44] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 435 times.
+
+[07:55:44] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 435 times.
+
+[07:55:44] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 435 times.
+
+[07:55:44] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 435 times.
+
+[07:55:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN has made the advancement [Ice Bucket Challenge]
+[07:55:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:56:34] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 440 times.
+
+[07:56:34] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 440 times.
+
+[07:56:34] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 440 times.
+
+[07:56:34] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 440 times.
+
+[07:56:34] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 440 times.
+
+[07:56:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:57:03] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[07:57:10] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-50, 45] in dimension 0 (overworld) while populating chunk [-49, 45], causing cascading worldgen lag.
+[07:57:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:57:10] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-51, 45] in dimension 0 (overworld) while populating chunk [-50, 45], causing cascading worldgen lag.
+[07:57:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:57:24] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 445 times.
+
+[07:57:24] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 445 times.
+
+[07:57:24] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 445 times.
+
+[07:57:24] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 445 times.
+
+[07:57:24] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 445 times.
+
+[07:57:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:57:42] [Server thread/INFO] [mca]: Villager death: Lizzie. Caused by: Death Worm. UUID: 4e494f8e-0c42-4008-826f-adab16c7ab96
+[07:57:53] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[07:58:05] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cave Spider is 0.01
+[07:58:14] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 450 times.
+
+[07:58:14] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 450 times.
+
+[07:58:14] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 450 times.
+
+[07:58:14] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 450 times.
+
+[07:58:14] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 450 times.
+
+[07:58:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:58:15] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[07:58:33] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[07:58:39] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[07:58:44] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type Netherrack spawned at [ 32 | 1120 ], underground: false
+[07:58:45] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[07:58:45] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[07:58:58] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [14, 68] in dimension 0 (overworld) while populating chunk [13, 69], causing cascading worldgen lag.
+[07:58:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:58:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:59:04] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 455 times.
+
+[07:59:04] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 455 times.
+
+[07:59:04] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 455 times.
+
+[07:59:04] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 455 times.
+
+[07:59:04] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 455 times.
+
+[07:59:06] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[07:59:06] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[07:59:06] [Server thread/INFO] [mca]: Villager death: Maryjo. Caused by: Death Worm. UUID: 5e63453b-bbf9-43c3-b081-aab8c7d8a9fc
+[07:59:30] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Mimic is 0.01
+[07:59:37] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[07:59:37] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[07:59:37] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[07:59:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: baltacraft moved wrongly!
+[07:59:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: baltacraft moved wrongly!
+[07:59:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: baltacraft moved wrongly!
+[07:59:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: baltacraft moved wrongly!
+[07:59:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: baltacraft moved wrongly!
+[07:59:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: baltacraft moved wrongly!
+[07:59:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:59:46] [Server thread/INFO] [mca]: Villager death: Dallis. Caused by: inWall. UUID: 603a6dc3-31b1-4deb-ac7e-8a0cab142b38
+[07:59:48] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-38, 66] in dimension 0 (overworld) while populating chunk [-37, 67], causing cascading worldgen lag.
+[07:59:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:59:50] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[07:59:53] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Sheep is 0.001
+[07:59:54] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 460 times.
+
+[07:59:54] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 460 times.
+
+[07:59:54] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 460 times.
+
+[07:59:54] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 460 times.
+
+[07:59:54] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 460 times.
+
+[08:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[08:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[08:00:01] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-38, 62] in dimension 0 (overworld) while populating chunk [-38, 63], causing cascading worldgen lag.
+[08:00:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:00:12] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cave Spider is 0.01
+[08:00:14] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Mimic is 0.01
+[08:00:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft is bleeding...
+[08:00:15] [Server thread/INFO] [tombstone]: The death event of the player baltacraft was cancelled by another mod
+[08:00:16] [Server thread/INFO] [mca]: Villager death: Erik. Caused by: Death Worm. UUID: 51fdd652-074a-4fa8-aed6-e725cc2f869c
+[08:00:18] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/svmc/servidor_minecraft/./world/data/inventory-baltacraft-2024-12-26_08.00.18-death-0.dat. It can be restored with command '/ob_inventory restore baltacraft baltacraft-2024-12-26_08.00.18-death-0'
+[08:00:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft tried to swim in lava
+[08:00:18] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['baltacraft'/15095, l='world', x=-143.67, y=10.00, z=381.50]' cancelled, grave will not be spawned'
+[08:00:18] [Server thread/INFO] [tombstone]: The last known grave of baltacraft is at location [name:Last Grave, x:-143, y:11, z:381] in the dimension 0
+[08:00:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[08:00:31] [Server thread/INFO] [mca]: Villager death: Yong. Caused by: Death Worm. UUID: f51d9b07-7f40-4c35-83ca-2c95f9515b91
+[08:00:36] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cockatrice is 0.001
+[08:00:44] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 465 times.
+
+[08:00:44] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 465 times.
+
+[08:00:44] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 465 times.
+
+[08:00:44] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 465 times.
+
+[08:00:44] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 465 times.
+
+[08:00:46] [Server thread/INFO] [mca]: Villager death: Latesha. Caused by: Death Worm. UUID: 6b265c0f-944e-44c0-8870-ffb0b6626de5
+[08:00:56] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Sheep is 0.001
+[08:00:57] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Husk is 0.01
+[08:00:58] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Sheep is 0.001
+[08:00:59] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Husk is 0.01
+[08:00:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN has made the advancement [A Strange Grave's Dust]
+[08:01:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[08:01:34] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 470 times.
+
+[08:01:34] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 470 times.
+
+[08:01:34] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 470 times.
+
+[08:01:34] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 470 times.
+
+[08:01:34] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 470 times.
+
+[08:01:34] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[08:01:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN is bleeding...
+[08:01:45] [Server thread/INFO] [tombstone]: The death event of the player N4ZRN was cancelled by another mod
+[08:01:48] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/svmc/servidor_minecraft/./world/data/inventory-N4ZRN-2024-12-26_08.01.48-death-0.dat. It can be restored with command '/ob_inventory restore N4ZRN N4ZRN-2024-12-26_08.01.48-death-0'
+[08:01:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN was slain by Andrew Skywalker
+[08:01:48] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['N4ZRN'/173534, l='world', x=-476.95, y=82.00, z=890.61]' cancelled, grave will not be spawned'
+[08:01:48] [Server thread/INFO] [tombstone]: The last known grave of N4ZRN is at location [name:Last Grave, x:-477, y:82, z:890] in the dimension 0
+[08:01:58] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [20, -3] in dimension 0 (overworld) while populating chunk [19, -2], causing cascading worldgen lag.
+[08:01:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:01:58] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[08:01:59] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[08:01:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[08:02:03] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[08:02:07] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[08:02:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Teleported N4ZRN to FraanG0D
+[08:02:24] [Server thread/DEBUG] [FML]: The world 7b2f656f (world) may have leaked: seen 475 times.
+
+[08:02:24] [Server thread/DEBUG] [FML]: The world 203ecf85 (world) may have leaked: seen 475 times.
+
+[08:02:24] [Server thread/DEBUG] [FML]: The world 4ac60880 (world) may have leaked: seen 475 times.
+
+[08:02:24] [Server thread/DEBUG] [FML]: The world 3d710be (world) may have leaked: seen 475 times.
+
+[08:02:24] [Server thread/DEBUG] [FML]: The world 6b090216 (world) may have leaked: seen 475 times.
+
+[08:02:31] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01

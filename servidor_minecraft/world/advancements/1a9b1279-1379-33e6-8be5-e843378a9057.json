@@ -464,6 +464,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2024-12-26 07:55:47 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/armour/iron_plate_armour": {
     "criteria": {
       "has_item": "2024-12-26 06:46:09 +0000"
@@ -676,8 +682,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2024-12-26 08:00:09 +0000",
       "skeleton": "2024-12-26 07:12:57 +0000",
       "husk": "2024-12-26 07:42:58 +0000",
+      "cave_spider": "2024-12-26 07:58:05 +0000",
       "zombie": "2024-12-26 07:02:59 +0000",
       "spider": "2024-12-26 07:27:45 +0000"
     },
@@ -785,6 +793,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-26 07:55:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_lapis": "2024-12-26 07:02:55 +0000"
@@ -878,6 +892,12 @@
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-26 06:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-26 08:00:42 +0000"
     },
     "done": true
   },
@@ -1144,6 +1164,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-26 07:56:11 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2024-12-26 07:26:24 +0000"
@@ -1201,6 +1227,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2024-12-26 06:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-26 07:52:59 +0000"
     },
     "done": true
   },

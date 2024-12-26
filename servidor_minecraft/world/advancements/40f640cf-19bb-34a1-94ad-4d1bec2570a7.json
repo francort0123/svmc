@@ -324,6 +324,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-26 08:00:49 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/convenience/string_from_wool": {
     "criteria": {
       "has_wool": "2024-12-26 07:19:32 +0000"
@@ -808,7 +814,8 @@
       "skeleton": "2024-12-26 07:14:54 +0000",
       "cave_spider": "2024-12-26 07:27:26 +0000",
       "silverfish": "2024-12-26 07:20:46 +0000",
-      "zombie": "2024-12-26 07:14:35 +0000"
+      "zombie": "2024-12-26 07:14:35 +0000",
+      "spider": "2024-12-26 08:01:59 +0000"
     },
     "done": false
   },
@@ -1407,6 +1414,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2024-12-26 07:58:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 07:35:07 +0000"
@@ -1440,6 +1453,12 @@
   "dungeontactics:dungeoneering/get_lootbag": {
     "criteria": {
       "quiver": "2024-12-26 07:15:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2024-12-26 07:57:01 +0000"
     },
     "done": true
   },
@@ -1494,6 +1513,12 @@
   "fossil:fossil/root": {
     "criteria": {
       "tick": "2024-12-26 06:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2024-12-26 07:58:04 +0000"
     },
     "done": true
   },
