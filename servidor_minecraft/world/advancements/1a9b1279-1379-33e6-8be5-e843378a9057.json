@@ -1,25 +1,37 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-26 06:56:36 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/convenience/planks_from_sticks": {
     "criteria": {
       "has_oak": "2024-12-26 06:45:50 +0000"
     },
     "done": true
   },
-  "inventorypets:inventorypets/root": {
+  "dungeontactics:recipes/weapons/stone_weapons": {
     "criteria": {
-      "auto": "2024-12-26 06:42:54 +0000"
+      "has_item": "2024-12-26 06:52:16 +0000"
     },
     "done": true
   },
-  "tombstone:tutorial/root": {
+  "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
-      "auto": "2024-12-26 06:42:54 +0000"
+      "has_stick": "2024-12-26 06:51:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/iron_bars": {
+  "minecraft:recipes/redstone/lever": {
     "criteria": {
-      "has_iron_ingot": "2024-12-26 06:46:09 +0000"
+      "has_cobblestone": "2024-12-26 06:52:16 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/slingshot": {
+    "criteria": {
+      "has_item": "2024-12-26 06:56:36 +0000"
     },
     "done": true
   },
@@ -35,27 +47,15 @@
     },
     "done": true
   },
-  "dungeontactics:recipes/armour/iron_plate_armour": {
-    "criteria": {
-      "has_item": "2024-12-26 06:46:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2024-12-26 06:45:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_chestplate": {
+  "dungeontactics:recipes/misc/convenience/sticks_from_cactus": {
     "criteria": {
-      "has_diamond": "2024-12-26 06:46:09 +0000"
-    },
-    "done": true
-  },
-  "dungeontactics:recipes/misc/lantern_iron": {
-    "criteria": {
-      "has_iron": "2024-12-26 06:46:09 +0000"
+      "has_stick": "2024-12-26 06:51:19 +0000"
     },
     "done": true
   },
@@ -71,15 +71,432 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/misc/ironlinks": {
+    "criteria": {
+      "has_ingot": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/potshot": {
+    "criteria": {
+      "has_recipe": "2024-12-26 06:54:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2024-12-26 06:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_the_recipe": "2024-12-26 06:56:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-26 06:45:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-12-26 06:42:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-26 06:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-26 06:47:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-12-26 06:51:19 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/wooden_chair": {
+    "criteria": {
+      "has_wood": "2024-12-26 06:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2024-12-26 06:52:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-26 06:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-12-26 06:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2024-12-26 06:53:03 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/wooden_table": {
+    "criteria": {
+      "has_recipe": "2024-12-26 06:51:19 +0000",
+      "has_wood": "2024-12-26 06:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sign": {
+    "criteria": {
+      "has_planks": "2024-12-26 06:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2024-12-26 06:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_button": {
+    "criteria": {
+      "has_planks": "2024-12-26 06:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-26 06:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-26 06:52:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-26 06:44:13 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/convenience/string_from_wool": {
+    "criteria": {
+      "has_string": "2024-12-26 06:56:36 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/diamond": {
+    "criteria": {
+      "has_recipe": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fence": {
+    "criteria": {
+      "has_planks": "2024-12-26 06:45:50 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/tools/climbing_rope": {
+    "criteria": {
+      "has_recipe": "2024-12-26 06:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_carrot": "2024-12-26 06:50:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-26 06:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-12-26 06:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-12-26 06:52:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/tools/pistonglove": {
+    "criteria": {
+      "has_recipe": "2024-12-26 06:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-26 06:56:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2024-12-26 06:55:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-26 06:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-26 06:51:18 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:dungeoneering/born_survivor": {
+    "criteria": {
+      "stab": "2024-12-26 06:42:54 +0000",
+      "cherrybomb": "2024-12-26 06:45:47 +0000",
+      "heart": "2024-12-26 06:54:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-26 06:56:38 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/cut_diamond": {
+    "criteria": {
+      "has_diamond": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_the_recipe": "2024-12-26 06:53:03 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/wooden_weapons": {
+    "criteria": {
+      "has_item": "2024-12-26 06:51:19 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/tools/fire_starter": {
+    "criteria": {
+      "has_item": "2024-12-26 06:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2024-12-26 06:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-26 06:56:36 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/root": {
+    "criteria": {
+      "auto": "2024-12-26 06:42:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2024-12-26 06:56:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2024-12-26 06:42:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log2": "2024-12-26 06:51:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-26 06:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/armour/iron_plate_armour": {
+    "criteria": {
+      "has_item": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-26 06:52:16 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/brazier": {
+    "criteria": {
+      "has_torch": "2024-12-26 06:52:59 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/lantern_iron": {
+    "criteria": {
+      "has_iron": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2024-12-26 06:52:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 06:46:09 +0000"
     },
     "done": true
   },
-  "dungeontactics:recipes/misc/ironlinks": {
+  "minecraft:recipes/decorations/furnace": {
     "criteria": {
-      "has_ingot": "2024-12-26 06:46:09 +0000"
+      "has_cobblestone": "2024-12-26 06:52:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-26 06:54:25 +0000"
     },
     "done": true
   },
@@ -104,9 +521,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
+  "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
-      "has_planks": "2024-12-26 06:45:50 +0000"
+      "has_stick": "2024-12-26 06:51:19 +0000"
     },
     "done": true
   },
@@ -116,15 +533,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/trapdoor": {
+  "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
-      "has_planks": "2024-12-26 06:45:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/root": {
-    "criteria": {
-      "tick": "2024-12-26 06:42:54 +0000"
+      "has_redstone": "2024-12-26 06:56:38 +0000"
     },
     "done": true
   },
@@ -134,33 +545,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-26 06:46:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2024-12-26 06:47:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2024-12-26 06:43:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/iron_block": {
+  "minecraft:recipes/combat/stone_sword": {
     "criteria": {
-      "has_at_least_9_iron_ingot": "2024-12-26 06:46:09 +0000"
+      "has_cobblestone": "2024-12-26 06:52:16 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-26 06:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-12-26 06:52:16 +0000"
     },
     "done": true
   },
@@ -182,9 +587,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_sword": {
+  "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
-      "has_diamond": "2024-12-26 06:46:09 +0000"
+      "has_cobblestone": "2024-12-26 06:52:16 +0000"
     },
     "done": true
   },
@@ -194,49 +599,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/wooden_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-26 06:45:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/shears": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-26 06:46:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2024-12-26 06:45:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2024-12-26 06:43:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sign": {
-    "criteria": {
-      "has_planks": "2024-12-26 06:45:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "entered_water": "2024-12-26 06:43:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2024-12-26 06:46:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2024-12-26 06:43:24 +0000"
     },
@@ -248,21 +617,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/wooden_button": {
+  "dungeontactics:recipes/misc/convenience/sticks_from_saplings": {
     "criteria": {
-      "has_planks": "2024-12-26 06:45:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_log": "2024-12-26 06:44:13 +0000"
+      "has_stick": "2024-12-26 06:51:19 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-26 06:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-26 06:52:16 +0000"
     },
     "done": true
   },
@@ -284,45 +659,33 @@
     },
     "done": true
   },
-  "dungeontactics:recipes/misc/diamond": {
-    "criteria": {
-      "has_recipe": "2024-12-26 06:46:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-26 06:46:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_leggings": {
+  "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
-      "has_iron_ingot": "2024-12-26 06:46:09 +0000"
+      "has_at_least_9_redstone": "2024-12-26 06:56:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fence": {
+  "advancedrocketry:normal/root": {
     "criteria": {
-      "has_planks": "2024-12-26 06:45:50 +0000"
+      "crafting_table": "2024-12-26 06:51:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_axe": {
+  "fossil:fossil/break_fossil": {
     "criteria": {
-      "has_iron_ingot": "2024-12-26 06:46:09 +0000"
+      "biofossil": "2024-12-26 06:55:00 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "minecraft:recipes/redstone/piston": {
     "criteria": {
-      "golden_carrot": "2024-12-26 06:50:35 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/combat/shield": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-26 06:46:09 +0000"
+      "has_redstone": "2024-12-26 06:56:38 +0000"
     },
     "done": true
   },
@@ -332,33 +695,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bucket": {
+  "dungeontactics:recipes/armour/stone_plate_armour": {
     "criteria": {
-      "has_iron_ingot": "2024-12-26 06:46:09 +0000"
+      "has_item": "2024-12-26 06:52:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-26 06:52:16 +0000"
     },
     "done": true
   },
   "cfm:root": {
     "criteria": {
       "tick": "2024-12-26 06:42:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_block": {
-    "criteria": {
-      "has_the_recipe": "2024-12-26 06:46:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_boots": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-26 06:46:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/hopper": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-26 06:46:09 +0000"
     },
     "done": true
   },
@@ -374,15 +725,15 @@
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
-      "diamond": "2024-12-26 06:46:09 +0000"
+      "has_stone": "2024-12-26 06:52:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/fence_gate": {
+  "minecraft:story/mine_diamond": {
     "criteria": {
-      "has_planks": "2024-12-26 06:45:50 +0000"
+      "diamond": "2024-12-26 06:46:09 +0000"
     },
     "done": true
   },
@@ -392,28 +743,15 @@
     },
     "done": true
   },
-  "dungeontactics:dungeoneering/born_survivor": {
-    "criteria": {
-      "stab": "2024-12-26 06:42:54 +0000",
-      "cherrybomb": "2024-12-26 06:45:47 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/combat/iron_chestplate": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-26 06:46:09 +0000"
-    },
-    "done": true
-  },
-  "dungeontactics:recipes/misc/cut_diamond": {
-    "criteria": {
-      "has_diamond": "2024-12-26 06:46:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-26 06:52:16 +0000"
     },
     "done": true
   },
@@ -432,12 +770,6 @@
   "dungeontactics:recipes/weapons/diamond_weapons": {
     "criteria": {
       "has_item": "2024-12-26 06:46:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_helmet": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-26 06:46:09 +0000"
     },
     "done": true
   }
