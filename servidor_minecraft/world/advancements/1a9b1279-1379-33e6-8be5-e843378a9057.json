@@ -400,6 +400,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-26 08:52:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 06:46:09 +0000"
@@ -1358,6 +1364,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2024-12-26 07:24:37 +0000",
+      "deep_ocean": "2024-12-26 08:47:25 +0000",
       "beaches": "2024-12-26 06:43:18 +0000",
       "desert_hills": "2024-12-26 07:25:27 +0000",
       "forest_hills": "2024-12-26 07:16:52 +0000",

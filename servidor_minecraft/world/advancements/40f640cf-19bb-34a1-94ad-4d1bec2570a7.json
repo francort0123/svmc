@@ -764,6 +764,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-26 08:51:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-26 07:09:36 +0000"
@@ -1671,6 +1677,12 @@
   "dungeontactics:dungeoneering/get_lootbag": {
     "criteria": {
       "quiver": "2024-12-26 07:15:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-26 08:51:23 +0000"
     },
     "done": true
   },

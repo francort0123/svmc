@@ -119,15 +119,15 @@
     },
     "done": true
   },
-  "inventorypets:inventorypets/netherportal": {
-    "criteria": {
-      "crafting_table": "2024-12-26 08:41:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2024-12-26 08:29:17 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/netherportal": {
+    "criteria": {
+      "crafting_table": "2024-12-26 08:41:57 +0000"
     },
     "done": true
   },
