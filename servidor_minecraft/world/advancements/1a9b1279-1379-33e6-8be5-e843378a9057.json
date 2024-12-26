@@ -35,6 +35,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2024-12-26 07:02:55 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/ration": {
+    "criteria": {
+      "has_item": "2024-12-26 07:21:03 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/armour/diamond_plate_armour": {
     "criteria": {
       "has_item": "2024-12-26 06:46:09 +0000"
@@ -44,6 +56,24 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_lapis": "2024-12-26 07:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-26 07:05:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-26 07:03:24 +0000"
     },
     "done": true
   },
@@ -59,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_lapis": "2024-12-26 07:02:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-26 06:46:09 +0000"
@@ -68,6 +104,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_lapis": "2024-12-26 07:02:55 +0000"
     },
     "done": true
   },
@@ -92,6 +134,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_the_recipe": "2024-12-26 06:56:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/find_grave_dust": {
+    "criteria": {
+      "has_grave_dust": "2024-12-26 07:16:41 +0000"
     },
     "done": true
   },
@@ -122,6 +170,13 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-26 06:47:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-12-26 07:20:44 +0000",
+      "diamond_chestplate": "2024-12-26 07:20:44 +0000"
     },
     "done": true
   },
@@ -204,6 +259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-26 07:05:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_button": {
     "criteria": {
       "has_planks": "2024-12-26 06:45:50 +0000"
@@ -237,6 +298,18 @@
   "dungeontactics:recipes/misc/diamond": {
     "criteria": {
       "has_recipe": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/tools/boomglove": {
+    "criteria": {
+      "has_gunpowder": "2024-12-26 07:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-26 07:03:24 +0000"
     },
     "done": true
   },
@@ -386,6 +459,12 @@
     },
     "done": true
   },
+  "dungeontactics:dungeoneering/root": {
+    "criteria": {
+      "kill": "2024-12-26 07:02:59 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/tools/fire_starter": {
     "criteria": {
       "has_item": "2024-12-26 06:51:19 +0000"
@@ -422,9 +501,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-26 07:02:31 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/root": {
     "criteria": {
       "auto": "2024-12-26 06:42:54 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/dungeonpedia": {
+    "criteria": {
+      "has_book": "2024-12-26 07:03:24 +0000"
     },
     "done": true
   },
@@ -434,9 +525,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-26 07:05:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2024-12-26 06:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie": "2024-12-26 07:02:59 +0000"
     },
     "done": true
   },
@@ -449,6 +552,18 @@
   "dungeontactics:recipes/armour/iron_plate_armour": {
     "criteria": {
       "has_item": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-12-26 07:21:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-26 07:05:35 +0000"
     },
     "done": true
   },
@@ -482,6 +597,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-26 07:05:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 06:46:09 +0000"
@@ -503,7 +624,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "beaches": "2024-12-26 06:43:18 +0000",
+      "forest_hills": "2024-12-26 07:16:52 +0000",
       "savanna": "2024-12-26 06:43:38 +0000",
+      "plains": "2024-12-26 07:18:17 +0000",
       "savanna_rock": "2024-12-26 06:42:54 +0000",
       "river": "2024-12-26 06:43:33 +0000"
     },
@@ -575,6 +698,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/weapons/bombs": {
+    "criteria": {
+      "has_item": "2024-12-26 07:02:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 06:46:09 +0000"
@@ -599,9 +728,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-26 07:02:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2024-12-26 06:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2024-12-26 07:02:55 +0000"
     },
     "done": true
   },
@@ -620,6 +761,18 @@
   "dungeontactics:recipes/misc/convenience/sticks_from_saplings": {
     "criteria": {
       "has_stick": "2024-12-26 06:51:19 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/convenience/books_from_shelves": {
+    "criteria": {
+      "has_book": "2024-12-26 07:03:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2024-12-26 07:10:44 +0000"
     },
     "done": true
   },
@@ -647,6 +800,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-26 07:05:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-26 06:46:09 +0000"
@@ -659,9 +818,28 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "skeleton": "2024-12-26 07:12:57 +0000",
+      "zombie": "2024-12-26 07:02:59 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2024-12-26 07:02:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2024-12-26 07:09:18 +0000"
     },
     "done": true
   },
@@ -713,9 +891,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2024-12-26 07:10:44 +0000"
+    },
+    "done": true
+  },
   "fossil:fossil/root": {
     "criteria": {
       "tick": "2024-12-26 06:42:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_the_recipe": "2024-12-26 07:02:56 +0000"
     },
     "done": true
   },
@@ -746,6 +936,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/traps/powderkeg": {
+    "criteria": {
+      "has_gunpowder": "2024-12-26 07:02:31 +0000"
     },
     "done": true
   },
