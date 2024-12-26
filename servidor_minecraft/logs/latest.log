@@ -2388,3 +2388,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [08:56:47] [Server thread/INFO] [Waila]: Player EntityPlayerMP['baltacraft'/1042618, l='world', x=-23.30, y=73.00, z=254.73] connected. Sending ping
 [08:56:47] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player baltacraft
 [08:56:47] [Thread-175/INFO] [STDOUT]: [net.torocraft.dailies.network.QuestInventoryFetcher:buildRequest:42]: DAILIES REQUEST modVersion = 1.12.2-6
+[08:59:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: baltacraft lost connection: Disconnected
+[08:59:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft left the game
+[08:59:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: FraanG0D lost connection: Disconnected
+[08:59:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D left the game
+[09:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[09:00:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[09:00:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[09:00:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[09:00:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[09:00:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[09:00:07] [Server thread/INFO] [FML]: Unloading dimension 0
+[09:00:07] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
