@@ -34268,3 +34268,221 @@ Waystones: Requires version 4.1.0 but mod is not found on client.
 [23:08:56] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 1570 times.
 
 [23:09:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:09:36] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 1285 times.
+
+[23:09:46] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 1575 times.
+
+[23:09:46] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 1575 times.
+
+[23:09:46] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 1575 times.
+
+[23:09:46] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 1575 times.
+
+[23:09:46] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 1575 times.
+
+[23:09:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:10:26] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 1290 times.
+
+[23:10:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:10:36] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 1580 times.
+
+[23:10:36] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 1580 times.
+
+[23:10:36] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 1580 times.
+
+[23:10:36] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 1580 times.
+
+[23:10:36] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 1580 times.
+
+[23:11:16] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 1295 times.
+
+[23:11:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:11:26] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 1585 times.
+
+[23:11:26] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 1585 times.
+
+[23:11:26] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 1585 times.
+
+[23:11:26] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 1585 times.
+
+[23:11:26] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 1585 times.
+
+[23:12:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:12:06] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 1300 times.
+
+[23:12:16] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 1590 times.
+
+[23:12:16] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 1590 times.
+
+[23:12:16] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 1590 times.
+
+[23:12:16] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 1590 times.
+
+[23:12:16] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 1590 times.
+
+[23:12:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:12:56] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 1305 times.
+
+[23:13:06] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 1595 times.
+
+[23:13:06] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 1595 times.
+
+[23:13:06] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 1595 times.
+
+[23:13:06] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 1595 times.
+
+[23:13:06] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 1595 times.
+
+[23:13:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:13:46] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 1310 times.
+
+[23:13:56] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 1600 times.
+
+[23:13:56] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 1600 times.
+
+[23:13:56] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 1600 times.
+
+[23:13:56] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 1600 times.
+
+[23:13:56] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 1600 times.
+
+[23:14:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:14:33] [Server thread/TRACE] [FML]: Handshake channel activating
+[23:14:33] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[23:14:33] [Server thread/DEBUG] [FML]:   Next: HELLO
+[23:14:33] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:14:33] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[23:14:33] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:65 mods->FMLHandshakeServerState$2:HELLO
+[23:14:33] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 65 mods : mclib@2.4.2,dungeonsmod@@VERSION@,dungeontactics@DT-0.16.7,mca@6.1.0,creativecoredummy@1.0.0,bountifulbaubles@0.0.1,openmods@0.12.2,deconstruction@3.0.4,jei@4.15.0.293,chunkpregenerator@4.4.9,radixcore@1.12.x-2.2.1,betternether@0.1.8.6,ivtoolkit@1.3.3-1.12,dailies@1.12.2-6,bettercaves@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,hammercore@12.2.56,journeymap@1.12.2-5.7.1p2,artifacts@1.12.2-1.2.3,bookshelf@2.3.590,llibrary@1.7.20,uteamcore@2.2.5.255,progressivebosses@1.5.4,fossil@8.0.5,iceandfire@1.9.1,waila@1.8.26,inventorypets@2.0.15,guideapi@1.12-2.1.8-63,carryon@1.12.3,emoticons@1.1.2,paraglider@1.0.1.5,forge@14.23.5.2860,ruins@17.2,bloodmagic@1.12.2-2.4.3-105,eplus@5.0.176,openblocks@1.8.1,hardcore_battle_towers_av_av@2.0.1,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,usefulbackpacks@1.5.3.59,dungeons@2.0,silentlib@3.0.13,baubles@1.5.2,openmodscore@0.12.2,creativecore@1.10.0,advancedrocketry@1.12.2-2.0.0-17,battletowers@1.6.5,futureminecraf@1.3.1,improvableskills@12.4.68,roguelike@1.8.0,mantle@1.12-1.3.3.55,gb@1.1.206,securitycraft@v1.9.4,FML@8.0.99.99,tombstone@3.7.3,libvulpes@0.4.2.-25,cfm@6.3.0,tinkersjei@1.2,oreshrubs@1.4.4,scalinghealth@1.3.37,playerrevive@1.0,movillages@1.5.4,carbonconfig@1.2.1
+[23:14:33] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[23:14:33] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [quickteleports] at CLIENT
+[23:14:33] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[23:14:33] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:14:33] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[23:14:36] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:14:36] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[23:14:36] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:14:36] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:14:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: p3droz[/127.186.154.81:37181] logged in with entity id 666086 at (118.48162557102232, 20.0, 1315.7622180038222)
+[23:14:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz joined the game
+[23:14:36] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:14:36] [Server thread/INFO] [Waila]: Player EntityPlayerMP['p3droz'/666086, l='world', x=118.48, y=20.00, z=1315.76] connected. Sending ping
+[23:14:36] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player p3droz
+[23:14:36] [Thread-763/INFO] [STDOUT]: [net.torocraft.dailies.network.QuestInventoryFetcher:buildRequest:42]: DAILIES REQUEST modVersion = 1.12.2-6
+[23:14:36] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 1315 times.
+
+[23:14:46] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 1605 times.
+
+[23:14:46] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 1605 times.
+
+[23:14:46] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 1605 times.
+
+[23:14:46] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 1605 times.
+
+[23:14:46] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 1605 times.
+
+[23:15:01] [Server thread/TRACE] [FML]: Handshake channel activating
+[23:15:01] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[23:15:01] [Server thread/DEBUG] [FML]:   Next: HELLO
+[23:15:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:15:01] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:15:01] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[23:15:01] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:66 mods->FMLHandshakeServerState$2:HELLO
+[23:15:01] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 66 mods : mclib@2.4.2,dungeonsmod@@VERSION@,dungeontactics@DT-0.16.7,mca@6.1.0,creativecoredummy@1.0.0,bountifulbaubles@0.0.1,openmods@0.12.2,deconstruction@3.0.4,jei@4.15.0.293,chunkpregenerator@4.4.9,radixcore@1.12.x-2.2.1,betternether@0.1.8.6,ivtoolkit@1.3.3-1.12,dailies@1.12.2-6,bettercaves@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,hammercore@12.2.56,journeymap@1.12.2-5.7.1p2,artifacts@1.12.2-1.2.3,bookshelf@2.3.590,llibrary@1.7.20,uteamcore@2.2.5.255,progressivebosses@1.5.4,fossil@8.0.5,iceandfire@1.9.1,waila@1.8.26,inventorypets@2.0.15,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,carryon@1.12.3,emoticons@1.1.2,paraglider@1.0.1.5,forge@14.23.5.2860,ruins@17.2,bloodmagic@1.12.2-2.4.3-105,eplus@5.0.176,openblocks@1.8.1,hardcore_battle_towers_av_av@2.0.1,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,usefulbackpacks@1.5.3.59,dungeons@2.0,silentlib@3.0.13,baubles@1.5.2,openmodscore@0.12.2,creativecore@1.10.0,advancedrocketry@1.12.2-2.0.0-17,battletowers@1.6.5,futureminecraf@1.3.1,improvableskills@12.4.68,roguelike@1.8.0,mantle@1.12-1.3.3.55,gb@1.1.206,securitycraft@v1.9.4,FML@8.0.99.99,tombstone@3.7.3,libvulpes@0.4.2.-25,cfm@6.3.0,tinkersjei@1.2,oreshrubs@1.4.4,scalinghealth@1.3.37,playerrevive@1.0,movillages@1.5.4,carbonconfig@1.2.1
+[23:15:01] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[23:15:01] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [quickteleports] at CLIENT
+[23:15:01] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[23:15:01] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:15:01] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[23:15:04] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:15:04] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[23:15:04] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:15:04] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:15:04] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ElRamiACuadros[/127.201.54.134:56087] logged in with entity id 668549 at (-10.344936506209201, 73.0, 241.47963801201197)
+[23:15:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElRamiACuadros joined the game
+[23:15:04] [Server thread/INFO] [Waila]: Player EntityPlayerMP['ElRamiACuadros'/668549, l='world', x=-10.34, y=73.00, z=241.48] connected. Sending ping
+[23:15:04] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player ElRamiACuadros
+[23:15:04] [Thread-766/INFO] [STDOUT]: [net.torocraft.dailies.network.QuestInventoryFetcher:buildRequest:42]: DAILIES REQUEST modVersion = 1.12.2-6
+[23:15:04] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:15:20] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Mimic is 0.01
+[23:15:26] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 1320 times.
+
+[23:15:36] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 1610 times.
+
+[23:15:36] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 1610 times.
+
+[23:15:36] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 1610 times.
+
+[23:15:36] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 1610 times.
+
+[23:15:36] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 1610 times.
+
+[23:15:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:15:58] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[23:16:13] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[23:16:16] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 1325 times.
+
+[23:16:20] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[23:16:22] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[23:16:26] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 1615 times.
+
+[23:16:26] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 1615 times.
+
+[23:16:26] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 1615 times.
+
+[23:16:26] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 1615 times.
+
+[23:16:26] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 1615 times.
+
+[23:16:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:17:06] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 1330 times.
+
+[23:17:16] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 1620 times.
+
+[23:17:16] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 1620 times.
+
+[23:17:16] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 1620 times.
+
+[23:17:16] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 1620 times.
+
+[23:17:16] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 1620 times.
+
+[23:17:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:17:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz is bleeding...
+[23:17:17] [Server thread/INFO] [tombstone]: The death event of the player p3droz was cancelled by another mod
+[23:17:33] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/svmc/servidor_minecraft/./world/data/inventory-p3droz-2024-12-27_23.17.33-death-0.dat. It can be restored with command '/ob_inventory restore p3droz p3droz-2024-12-27_23.17.33-death-0'
+[23:17:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz was slain by Zombie
+[23:17:33] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['p3droz'/666086, l='world', x=116.43, y=20.50, z=1330.20]' cancelled, grave will not be spawned'
+[23:17:33] [Server thread/INFO] [tombstone]: The last known grave of p3droz is at location [name:Last Grave, x:116, y:20, z:1329] in the dimension 0
+[23:17:42] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID acfdb291-f774-40e4-9283-6df13ef899ca
+[23:17:42] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID d7fc7bb7-5255-4df5-8140-8ae0b2042d64
+[23:17:56] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 1335 times.
+
+[23:18:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:18:06] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 1625 times.
+
+[23:18:06] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 1625 times.
+
+[23:18:06] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 1625 times.
+
+[23:18:06] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 1625 times.
+
+[23:18:06] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 1625 times.
+
+[23:18:23] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[23:18:46] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 1340 times.
+
+[23:18:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:18:56] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 1630 times.
+
+[23:18:56] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 1630 times.
+
+[23:18:56] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 1630 times.
+
+[23:18:56] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 1630 times.
+
+[23:18:56] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 1630 times.
+
+[23:19:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:19:36] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 1345 times.
+
