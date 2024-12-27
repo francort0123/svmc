@@ -1306,3 +1306,4 @@ Waystones: Requires version 4.1.0 but mod is not found on client.
 [20:20:42] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 7088eba6-2c40-42d8-ac8c-e740ea42a576
 [20:20:42] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 7d60645c-8849-472a-8345-5c5ccfbeb3c5
 [20:20:42] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 086828eb-030d-47b8-9b8b-a249405ac866
+[20:33:57] [Server thread/INFO] [mca]: Villager death: Jerold. Caused by: Death Worm. UUID: 76d8102d-4d84-4220-aaaa-07d9df2b6261
