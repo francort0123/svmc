@@ -29832,3 +29832,760 @@ Waystones: Requires version 4.1.0 but mod is not found on client.
 [19:05:09] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 110 times.
 
 [19:05:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:05:59] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 115 times.
+
+[19:05:59] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 115 times.
+
+[19:05:59] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 115 times.
+
+[19:05:59] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 115 times.
+
+[19:05:59] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 115 times.
+
+[19:06:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:06:49] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 120 times.
+
+[19:06:49] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 120 times.
+
+[19:06:49] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 120 times.
+
+[19:06:49] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 120 times.
+
+[19:06:49] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 120 times.
+
+[19:06:53] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:07:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:07:39] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 125 times.
+
+[19:07:39] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 125 times.
+
+[19:07:39] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 125 times.
+
+[19:07:39] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 125 times.
+
+[19:07:39] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 125 times.
+
+[19:07:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:08:29] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 130 times.
+
+[19:08:29] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 130 times.
+
+[19:08:29] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 130 times.
+
+[19:08:29] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 130 times.
+
+[19:08:29] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 130 times.
+
+[19:08:33] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[19:08:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:08:35] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[19:08:37] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[19:08:38] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[19:08:38] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[19:08:40] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[19:08:44] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[19:08:45] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[19:08:46] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[19:08:47] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[19:09:19] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 135 times.
+
+[19:09:19] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 135 times.
+
+[19:09:19] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 135 times.
+
+[19:09:19] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 135 times.
+
+[19:09:19] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 135 times.
+
+[19:09:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:10:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:10:09] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 140 times.
+
+[19:10:09] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 140 times.
+
+[19:10:09] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 140 times.
+
+[19:10:09] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 140 times.
+
+[19:10:09] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 140 times.
+
+[19:10:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:10:59] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 145 times.
+
+[19:10:59] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 145 times.
+
+[19:10:59] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 145 times.
+
+[19:10:59] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 145 times.
+
+[19:10:59] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 145 times.
+
+[19:11:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:11:49] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 150 times.
+
+[19:11:49] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 150 times.
+
+[19:11:49] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 150 times.
+
+[19:11:49] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 150 times.
+
+[19:11:49] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 150 times.
+
+[19:12:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:12:39] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 155 times.
+
+[19:12:39] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 155 times.
+
+[19:12:39] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 155 times.
+
+[19:12:39] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 155 times.
+
+[19:12:39] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 155 times.
+
+[19:13:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:13:29] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 160 times.
+
+[19:13:29] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 160 times.
+
+[19:13:29] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 160 times.
+
+[19:13:29] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 160 times.
+
+[19:13:29] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 160 times.
+
+[19:13:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:13:59] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[19:14:10] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:14:19] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 165 times.
+
+[19:14:19] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 165 times.
+
+[19:14:19] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 165 times.
+
+[19:14:19] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 165 times.
+
+[19:14:19] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 165 times.
+
+[19:14:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:15:09] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 170 times.
+
+[19:15:09] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 170 times.
+
+[19:15:09] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 170 times.
+
+[19:15:09] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 170 times.
+
+[19:15:09] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 170 times.
+
+[19:15:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:15:59] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 175 times.
+
+[19:15:59] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 175 times.
+
+[19:15:59] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 175 times.
+
+[19:15:59] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 175 times.
+
+[19:15:59] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 175 times.
+
+[19:15:59] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[19:16:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:16:15] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:16:34] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:16:36] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:16:49] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 180 times.
+
+[19:16:49] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 180 times.
+
+[19:16:49] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 180 times.
+
+[19:16:49] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 180 times.
+
+[19:16:49] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 180 times.
+
+[19:16:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:17:00] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[19:17:02] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[19:17:03] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[19:17:05] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[19:17:06] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[19:17:08] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[19:17:08] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[19:17:09] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[19:17:09] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[19:17:10] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:17:12] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[19:17:12] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[19:17:13] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:17:14] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[19:17:18] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[19:17:19] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[19:17:20] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Tar Slime is 0.0016666666
+[19:17:24] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:17:27] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:17:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:17:39] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 185 times.
+
+[19:17:39] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 185 times.
+
+[19:17:39] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 185 times.
+
+[19:17:39] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 185 times.
+
+[19:17:39] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 185 times.
+
+[19:18:06] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:18:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:18:22] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:18:28] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:18:29] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 190 times.
+
+[19:18:29] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 190 times.
+
+[19:18:29] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 190 times.
+
+[19:18:29] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 190 times.
+
+[19:18:29] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 190 times.
+
+[19:18:37] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[19:18:38] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[19:18:43] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[19:18:46] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[19:19:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:19:19] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 195 times.
+
+[19:19:19] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 195 times.
+
+[19:19:19] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 195 times.
+
+[19:19:19] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 195 times.
+
+[19:19:19] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 195 times.
+
+[19:19:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:20:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[19:20:08] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:20:09] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 200 times.
+
+[19:20:09] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 200 times.
+
+[19:20:09] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 200 times.
+
+[19:20:09] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 200 times.
+
+[19:20:09] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 200 times.
+
+[19:20:19] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:20:21] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[19:20:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:20:59] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 205 times.
+
+[19:20:59] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 205 times.
+
+[19:20:59] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 205 times.
+
+[19:20:59] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 205 times.
+
+[19:20:59] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 205 times.
+
+[19:21:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: p3droz moved wrongly!
+[19:21:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: p3droz moved wrongly!
+[19:21:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: p3droz moved wrongly!
+[19:21:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:21:49] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 210 times.
+
+[19:21:49] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 210 times.
+
+[19:21:49] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 210 times.
+
+[19:21:49] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 210 times.
+
+[19:21:49] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 210 times.
+
+[19:22:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:22:39] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 215 times.
+
+[19:22:39] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 215 times.
+
+[19:22:39] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 215 times.
+
+[19:22:39] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 215 times.
+
+[19:22:39] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 215 times.
+
+[19:22:45] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[19:22:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:23:23] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:23:29] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 220 times.
+
+[19:23:29] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 220 times.
+
+[19:23:29] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 220 times.
+
+[19:23:29] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 220 times.
+
+[19:23:29] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 220 times.
+
+[19:23:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:23:34] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:23:55] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:23:57] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:23:59] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:24:19] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 225 times.
+
+[19:24:19] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 225 times.
+
+[19:24:19] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 225 times.
+
+[19:24:19] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 225 times.
+
+[19:24:19] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 225 times.
+
+[19:24:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:24:25] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:24:31] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:24:34] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:24:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [FraanG0D: Set own game mode to Creative Mode]
+[19:24:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [FraanG0D: Set own game mode to Survival Mode]
+[19:25:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:25:07] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:25:09] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 230 times.
+
+[19:25:09] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 230 times.
+
+[19:25:09] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 230 times.
+
+[19:25:09] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 230 times.
+
+[19:25:09] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 230 times.
+
+[19:25:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:25:59] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 235 times.
+
+[19:25:59] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 235 times.
+
+[19:25:59] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 235 times.
+
+[19:25:59] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 235 times.
+
+[19:25:59] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 235 times.
+
+[19:26:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:26:49] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 240 times.
+
+[19:26:49] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 240 times.
+
+[19:26:49] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 240 times.
+
+[19:26:49] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 240 times.
+
+[19:26:49] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 240 times.
+
+[19:27:04] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:27:09] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:27:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:27:26] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:27:39] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 245 times.
+
+[19:27:39] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 245 times.
+
+[19:27:39] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 245 times.
+
+[19:27:39] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 245 times.
+
+[19:27:39] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 245 times.
+
+[19:27:47] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:27:56] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:28:00] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:28:01] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:28:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:28:20] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:28:29] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 250 times.
+
+[19:28:29] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 250 times.
+
+[19:28:29] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 250 times.
+
+[19:28:29] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 250 times.
+
+[19:28:29] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 250 times.
+
+[19:28:29] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:28:37] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:28:41] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:28:44] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:28:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:29:15] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:29:19] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 255 times.
+
+[19:29:19] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 255 times.
+
+[19:29:19] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 255 times.
+
+[19:29:19] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 255 times.
+
+[19:29:19] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 255 times.
+
+[19:29:19] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:29:21] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:29:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:30:08] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:30:09] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 260 times.
+
+[19:30:09] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 260 times.
+
+[19:30:09] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 260 times.
+
+[19:30:09] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 260 times.
+
+[19:30:09] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 260 times.
+
+[19:30:15] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:30:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:30:45] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[19:30:46] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:30:59] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 265 times.
+
+[19:30:59] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 265 times.
+
+[19:30:59] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 265 times.
+
+[19:30:59] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 265 times.
+
+[19:30:59] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 265 times.
+
+[19:31:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:31:35] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[19:31:49] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 270 times.
+
+[19:31:49] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 270 times.
+
+[19:31:49] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 270 times.
+
+[19:31:49] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 270 times.
+
+[19:31:49] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 270 times.
+
+[19:31:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:32:04] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:32:06] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:32:19] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:32:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:32:35] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@11ed4988)
+[19:32:36] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-13, 6] in dimension -1 (the_nether) while populating chunk [-12, 7], causing cascading worldgen lag.
+[19:32:36] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:36] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-13, 7] in dimension -1 (the_nether) while populating chunk [-12, 8], causing cascading worldgen lag.
+[19:32:36] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:36] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-13, 8] in dimension -1 (the_nether) while populating chunk [-12, 9], causing cascading worldgen lag.
+[19:32:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:37] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-13, 17] in dimension -1 (the_nether) while populating chunk [-12, 18], causing cascading worldgen lag.
+[19:32:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:37] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-13, 16] in dimension -1 (the_nether) while populating chunk [-13, 17], causing cascading worldgen lag.
+[19:32:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:37] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-13, 15] in dimension -1 (the_nether) while populating chunk [-13, 16], causing cascading worldgen lag.
+[19:32:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:37] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-14, 15] in dimension -1 (the_nether) while populating chunk [-13, 15], causing cascading worldgen lag.
+[19:32:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:37] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-11, 10] in dimension -1 (the_nether) while populating chunk [-11, 9], causing cascading worldgen lag.
+[19:32:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:37] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-10, 10] in dimension -1 (the_nether) while populating chunk [-11, 9], causing cascading worldgen lag.
+[19:32:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:37] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-11, 11] in dimension -1 (the_nether) while populating chunk [-11, 9], causing cascading worldgen lag.
+[19:32:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:37] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-10, 11] in dimension -1 (the_nether) while populating chunk [-11, 9], causing cascading worldgen lag.
+[19:32:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:37] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[19:32:38] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-9, 10] in dimension -1 (the_nether) while populating chunk [-10, 9], causing cascading worldgen lag.
+[19:32:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:38] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[19:32:39] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-9, 5] in dimension -1 (the_nether) while populating chunk [-8, 6], causing cascading worldgen lag.
+[19:32:39] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:39] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-10, 5] in dimension -1 (the_nether) while populating chunk [-9, 5], causing cascading worldgen lag.
+[19:32:39] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:39] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-11, 5] in dimension -1 (the_nether) while populating chunk [-9, 5], causing cascading worldgen lag.
+[19:32:39] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:40] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[19:32:41] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-4, 5] in dimension -1 (the_nether) while populating chunk [-3, 6], causing cascading worldgen lag.
+[19:32:41] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:43] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [2, 5] in dimension -1 (the_nether) while populating chunk [3, 6], causing cascading worldgen lag.
+[19:32:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D has made the advancement [We Need to Go Deeper]
+[19:32:52] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-32, 113] in dimension -1 (the_nether) while populating chunk [-31, 113], causing cascading worldgen lag.
+[19:32:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:52] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-32, 112] in dimension -1 (the_nether) while populating chunk [-32, 113], causing cascading worldgen lag.
+[19:32:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:52] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-32, 111] in dimension -1 (the_nether) while populating chunk [-32, 113], causing cascading worldgen lag.
+[19:32:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:52] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-33, 112] in dimension -1 (the_nether) while populating chunk [-32, 113], causing cascading worldgen lag.
+[19:32:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:53] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-28, 109] in dimension -1 (the_nether) while populating chunk [-27, 110], causing cascading worldgen lag.
+[19:32:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:53] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-29, 109] in dimension -1 (the_nether) while populating chunk [-28, 109], causing cascading worldgen lag.
+[19:32:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:54] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-25, 109] in dimension -1 (the_nether) while populating chunk [-24, 110], causing cascading worldgen lag.
+[19:32:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:54] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-26, 109] in dimension -1 (the_nether) while populating chunk [-25, 109], causing cascading worldgen lag.
+[19:32:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:54] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-27, 109] in dimension -1 (the_nether) while populating chunk [-25, 109], causing cascading worldgen lag.
+[19:32:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: p3droz lost connection: Disconnected
+[19:32:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz left the game
+[19:32:54] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 19046ms behind, skipping 380 tick(s)
+[19:32:54] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: p3droz moved too quickly! 10.184942993678291,0.0,0.060978678862824154
+[19:32:54] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FraanG0D moved too quickly! 371.96374121731003,-30.5,-1614.136474337775
+[19:32:54] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-15, 14] in dimension -1 (the_nether) while populating chunk [-15, 15], causing cascading worldgen lag.
+[19:32:54] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:54] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-13, 13] in dimension -1 (the_nether) while populating chunk [-13, 14], causing cascading worldgen lag.
+[19:32:54] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:54] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-14, 13] in dimension -1 (the_nether) while populating chunk [-13, 13], causing cascading worldgen lag.
+[19:32:54] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:55] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-15, 13] in dimension -1 (the_nether) while populating chunk [-14, 13], causing cascading worldgen lag.
+[19:32:55] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:55] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-14, 12] in dimension -1 (the_nether) while populating chunk [-13, 13], causing cascading worldgen lag.
+[19:32:55] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:55] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-13, 12] in dimension -1 (the_nether) while populating chunk [-13, 14], causing cascading worldgen lag.
+[19:32:55] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:55] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-14, 9] in dimension -1 (the_nether) while populating chunk [-13, 10], causing cascading worldgen lag.
+[19:32:55] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:55] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-15, 8] in dimension -1 (the_nether) while populating chunk [-14, 9], causing cascading worldgen lag.
+[19:32:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:55] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-6, 4] in dimension -1 (the_nether) while populating chunk [-6, 5], causing cascading worldgen lag.
+[19:32:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:55] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-7, 4] in dimension -1 (the_nether) while populating chunk [-6, 4], causing cascading worldgen lag.
+[19:32:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:55] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-8, 4] in dimension -1 (the_nether) while populating chunk [-6, 4], causing cascading worldgen lag.
+[19:32:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:56] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [1, 3] in dimension -1 (the_nether) while populating chunk [1, 4], causing cascading worldgen lag.
+[19:32:56] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:56] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [0, 3] in dimension -1 (the_nether) while populating chunk [0, 4], causing cascading worldgen lag.
+[19:32:56] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:57] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-5, 2] in dimension -1 (the_nether) while populating chunk [-5, 3], causing cascading worldgen lag.
+[19:32:57] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:57] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-6, 2] in dimension -1 (the_nether) while populating chunk [-5, 2], causing cascading worldgen lag.
+[19:32:57] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:57] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-4, 2] in dimension -1 (the_nether) while populating chunk [-3, 3], causing cascading worldgen lag.
+[19:32:57] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:57] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-5, 1] in dimension -1 (the_nether) while populating chunk [-4, 2], causing cascading worldgen lag.
+[19:32:57] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:57] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-6, 1] in dimension -1 (the_nether) while populating chunk [-5, 1], causing cascading worldgen lag.
+[19:32:57] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:58] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-7, 2] in dimension -1 (the_nether) while populating chunk [-7, 3], causing cascading worldgen lag.
+[19:32:58] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:58] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-15, 10] in dimension -1 (the_nether) while populating chunk [-15, 11], causing cascading worldgen lag.
+[19:32:58] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:58] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-15, 9] in dimension -1 (the_nether) while populating chunk [-15, 11], causing cascading worldgen lag.
+[19:32:58] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:58] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-16, 8] in dimension -1 (the_nether) while populating chunk [-15, 9], causing cascading worldgen lag.
+[19:32:58] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:58] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-1, 2] in dimension -1 (the_nether) while populating chunk [-1, 3], causing cascading worldgen lag.
+[19:32:58] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:58] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-2, 2] in dimension -1 (the_nether) while populating chunk [-1, 2], causing cascading worldgen lag.
+[19:32:58] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:58] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-2, 1] in dimension -1 (the_nether) while populating chunk [-2, 2], causing cascading worldgen lag.
+[19:32:58] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:58] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-3, 1] in dimension -1 (the_nether) while populating chunk [-2, 1], causing cascading worldgen lag.
+[19:32:58] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:58] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-4, 1] in dimension -1 (the_nether) while populating chunk [-2, 1], causing cascading worldgen lag.
+[19:32:58] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:58] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-3, 2] in dimension -1 (the_nether) while populating chunk [-1, 2], causing cascading worldgen lag.
+[19:32:58] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:59] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-14, 19] in dimension -1 (the_nether) while populating chunk [-13, 19], causing cascading worldgen lag.
+[19:32:59] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:32:59] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-14, 18] in dimension -1 (the_nether) while populating chunk [-13, 19], causing cascading worldgen lag.
+[19:32:59] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:33:00] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-12, 3] in dimension -1 (the_nether) while populating chunk [-11, 3], causing cascading worldgen lag.
+[19:33:00] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:33:00] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-13, 3] in dimension -1 (the_nether) while populating chunk [-11, 3], causing cascading worldgen lag.
+[19:33:00] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:33:00] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-13, 2] in dimension -1 (the_nether) while populating chunk [-13, 3], causing cascading worldgen lag.
+[19:33:00] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:33:00] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-14, 3] in dimension -1 (the_nether) while populating chunk [-13, 3], causing cascading worldgen lag.
+[19:33:00] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:33:00] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-14, 2] in dimension -1 (the_nether) while populating chunk [-13, 3], causing cascading worldgen lag.
+[19:33:00] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:33:01] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [2, 2] in dimension -1 (the_nether) while populating chunk [3, 3], causing cascading worldgen lag.
+[19:33:01] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:33:01] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-14, 21] in dimension -1 (the_nether) while populating chunk [-13, 21], causing cascading worldgen lag.
+[19:33:01] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:33:01] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-15, 20] in dimension -1 (the_nether) while populating chunk [-14, 21], causing cascading worldgen lag.
+[19:33:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:33:01] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-15, 19] in dimension -1 (the_nether) while populating chunk [-14, 21], causing cascading worldgen lag.
+[19:33:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:33:01] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-14, 20] in dimension -1 (the_nether) while populating chunk [-13, 21], causing cascading worldgen lag.
+[19:33:01] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:33:01] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [4, 4] in dimension -1 (the_nether) while populating chunk [5, 5], causing cascading worldgen lag.
+[19:33:01] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:33:02] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [3, 2] in dimension -1 (the_nether) while populating chunk [4, 3], causing cascading worldgen lag.
+[19:33:02] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:33:02] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-15, 1] in dimension -1 (the_nether) while populating chunk [-15, 2], causing cascading worldgen lag.
+[19:33:02] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:33:02] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-16, 21] in dimension -1 (the_nether) while populating chunk [-15, 22], causing cascading worldgen lag.
+[19:33:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:33:02] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-16, 20] in dimension -1 (the_nether) while populating chunk [-16, 21], causing cascading worldgen lag.
+[19:33:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:33:02] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-16, 19] in dimension -1 (the_nether) while populating chunk [-16, 21], causing cascading worldgen lag.
+[19:33:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:33:02] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [4, 2] in dimension -1 (the_nether) while populating chunk [5, 3], causing cascading worldgen lag.
+[19:33:02] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:33:02] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [3, 1] in dimension -1 (the_nether) while populating chunk [4, 2], causing cascading worldgen lag.
+[19:33:02] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:33:05] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 10742ms behind, skipping 214 tick(s)
+[19:33:07] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 275 times.
+
+[19:33:07] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 275 times.
+
+[19:33:07] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 275 times.
+
+[19:33:07] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 275 times.
+
+[19:33:07] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 275 times.
+
+[19:33:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> ASD
+[19:33:10] [Server thread/TRACE] [FML]: Handshake channel activating
+[19:33:10] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[19:33:10] [Server thread/DEBUG] [FML]:   Next: HELLO
+[19:33:10] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[19:33:10] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[19:33:10] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:65 mods->FMLHandshakeServerState$2:HELLO
+[19:33:10] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 65 mods : mclib@2.4.2,dungeonsmod@@VERSION@,dungeontactics@DT-0.16.7,mca@6.1.0,creativecoredummy@1.0.0,bountifulbaubles@0.0.1,openmods@0.12.2,deconstruction@3.0.4,jei@4.15.0.293,chunkpregenerator@4.4.9,radixcore@1.12.x-2.2.1,betternether@0.1.8.6,ivtoolkit@1.3.3-1.12,dailies@1.12.2-6,bettercaves@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,hammercore@12.2.56,journeymap@1.12.2-5.7.1p2,artifacts@1.12.2-1.2.3,bookshelf@2.3.590,llibrary@1.7.20,uteamcore@2.2.5.255,progressivebosses@1.5.4,fossil@8.0.5,iceandfire@1.9.1,waila@1.8.26,inventorypets@2.0.15,guideapi@1.12-2.1.8-63,carryon@1.12.3,emoticons@1.1.2,paraglider@1.0.1.5,forge@14.23.5.2860,ruins@17.2,bloodmagic@1.12.2-2.4.3-105,eplus@5.0.176,openblocks@1.8.1,hardcore_battle_towers_av_av@2.0.1,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,usefulbackpacks@1.5.3.59,dungeons@2.0,silentlib@3.0.13,baubles@1.5.2,openmodscore@0.12.2,creativecore@1.10.0,advancedrocketry@1.12.2-2.0.0-17,battletowers@1.6.5,futureminecraf@1.3.1,improvableskills@12.4.68,roguelike@1.8.0,mantle@1.12-1.3.3.55,gb@1.1.206,securitycraft@v1.9.4,FML@8.0.99.99,tombstone@3.7.3,libvulpes@0.4.2.-25,cfm@6.3.0,tinkersjei@1.2,oreshrubs@1.4.4,scalinghealth@1.3.37,playerrevive@1.0,movillages@1.5.4,carbonconfig@1.2.1
+[19:33:10] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[19:33:10] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [quickteleports] at CLIENT
+[19:33:10] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[19:33:10] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[19:33:10] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[19:33:12] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[19:33:12] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[19:33:12] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[19:33:12] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:33:12] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: p3droz[/127.186.154.81:47095] logged in with entity id 30221 at (81.85016574911909, 30.0, 85.15126212542155)
+[19:33:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz joined the game
+[19:33:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz has made the advancement [Suit Up]
+[19:33:13] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[19:33:13] [Server thread/INFO] [Waila]: Player EntityPlayerMP['p3droz'/30221, l='world', x=81.85, y=30.00, z=85.15] connected. Sending ping
+[19:33:13] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player p3droz
+[19:33:13] [Thread-162/INFO] [STDOUT]: [net.torocraft.dailies.network.QuestInventoryFetcher:buildRequest:42]: DAILIES REQUEST modVersion = 1.12.2-6
+[19:33:31] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [5, 2] in dimension -1 (the_nether) while populating chunk [6, 3], causing cascading worldgen lag.
+[19:33:31] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:33:32] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:33:38] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-10, 0] in dimension -1 (the_nether) while populating chunk [-10, 1], causing cascading worldgen lag.
+[19:33:38] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:33:38] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-1, 0] in dimension -1 (the_nether) while populating chunk [-1, 1], causing cascading worldgen lag.
+[19:33:38] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:33:38] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-2, 0] in dimension -1 (the_nether) while populating chunk [-1, 0], causing cascading worldgen lag.
+[19:33:38] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:33:38] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-3, 0] in dimension -1 (the_nether) while populating chunk [-2, 0], causing cascading worldgen lag.
+[19:33:38] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:33:38] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-4, 0] in dimension -1 (the_nether) while populating chunk [-2, 0], causing cascading worldgen lag.
+[19:33:38] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:33:38] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-4, -1] in dimension -1 (the_nether) while populating chunk [-4, 0], causing cascading worldgen lag.
+[19:33:38] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:33:38] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-2, -1] in dimension -1 (the_nether) while populating chunk [-2, 0], causing cascading worldgen lag.
+[19:33:38] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:33:38] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-3, -1] in dimension -1 (the_nether) while populating chunk [-2, 0], causing cascading worldgen lag.
+[19:33:38] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:33:38] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [1, 0] in dimension -1 (the_nether) while populating chunk [1, 1], causing cascading worldgen lag.
+[19:33:38] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:33:38] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [0, 0] in dimension -1 (the_nether) while populating chunk [1, 1], causing cascading worldgen lag.
+[19:33:38] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:33:38] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-1, -1] in dimension -1 (the_nether) while populating chunk [0, 0], causing cascading worldgen lag.
+[19:33:38] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:33:38] [Server thread/WARN] [FML]: DungeonTactics loaded a new chunk [-2, -2] in dimension -1 (the_nether) while populating chunk [-1, -1], causing cascading worldgen lag.
+[19:33:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:33:38] [Server thread/WARN] [FML]: DungeonTactics loaded a new chunk [-3, -2] in dimension -1 (the_nether) while populating chunk [-1, -1], causing cascading worldgen lag.
+[19:33:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:33:38] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [4, 0] in dimension -1 (the_nether) while populating chunk [4, 1], causing cascading worldgen lag.
+[19:33:38] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:33:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:33:51] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [6, 1] in dimension -1 (the_nether) while populating chunk [7, 2], causing cascading worldgen lag.
+[19:33:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:33:51] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[19:33:53] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[19:33:54] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 280 times.
+
+[19:33:54] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 280 times.
+
+[19:33:54] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 280 times.
+
+[19:33:54] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 280 times.
+
+[19:33:54] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 280 times.
+
+[19:34:13] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[19:34:22] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [5, 0] in dimension -1 (the_nether) while populating chunk [6, 0], causing cascading worldgen lag.
+[19:34:22] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:34:22] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [4, 0] in dimension -1 (the_nether) while populating chunk [5, 0], causing cascading worldgen lag.
+[19:34:22] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:34:22] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [6, -1] in dimension -1 (the_nether) while populating chunk [6, 0], causing cascading worldgen lag.
+[19:34:22] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:34:22] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [5, -1] in dimension -1 (the_nether) while populating chunk [6, 0], causing cascading worldgen lag.
+[19:34:22] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:34:22] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-7, -1] in dimension -1 (the_nether) while populating chunk [-7, 0], causing cascading worldgen lag.
+[19:34:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:34:22] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-8, -1] in dimension -1 (the_nether) while populating chunk [-7, -1], causing cascading worldgen lag.
+[19:34:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:34:22] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-10, 0] in dimension -1 (the_nether) while populating chunk [-9, 0], causing cascading worldgen lag.
+[19:34:22] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:34:22] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-11, 0] in dimension -1 (the_nether) while populating chunk [-9, 0], causing cascading worldgen lag.
+[19:34:22] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:34:22] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-9, -1] in dimension -1 (the_nether) while populating chunk [-9, 0], causing cascading worldgen lag.
+[19:34:22] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:34:22] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-10, -1] in dimension -1 (the_nether) while populating chunk [-9, -1], causing cascading worldgen lag.
+[19:34:22] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:34:22] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-9, -2] in dimension -1 (the_nether) while populating chunk [-9, -1], causing cascading worldgen lag.
+[19:34:22] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:34:22] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-10, -2] in dimension -1 (the_nether) while populating chunk [-9, -1], causing cascading worldgen lag.
+[19:34:22] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:34:22] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-10, -3] in dimension -1 (the_nether) while populating chunk [-10, -2], causing cascading worldgen lag.
+[19:34:22] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:34:22] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-11, -3] in dimension -1 (the_nether) while populating chunk [-10, -3], causing cascading worldgen lag.
+[19:34:22] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:34:22] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-11, -4] in dimension -1 (the_nether) while populating chunk [-10, -3], causing cascading worldgen lag.
+[19:34:22] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:34:22] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-12, -2] in dimension -1 (the_nether) while populating chunk [-12, -1], causing cascading worldgen lag.
+[19:34:22] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:34:22] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-12, -3] in dimension -1 (the_nether) while populating chunk [-12, -2], causing cascading worldgen lag.
+[19:34:22] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:34:22] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-12, -4] in dimension -1 (the_nether) while populating chunk [-12, -2], causing cascading worldgen lag.
+[19:34:22] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:34:22] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-13, -4] in dimension -1 (the_nether) while populating chunk [-12, -4], causing cascading worldgen lag.
+[19:34:22] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:34:22] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-12, -5] in dimension -1 (the_nether) while populating chunk [-12, -4], causing cascading worldgen lag.
+[19:34:22] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:34:22] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-13, -5] in dimension -1 (the_nether) while populating chunk [-12, -5], causing cascading worldgen lag.
+[19:34:22] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:34:23] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-14, -5] in dimension -1 (the_nether) while populating chunk [-13, -5], causing cascading worldgen lag.
+[19:34:23] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:34:23] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-6, -1] in dimension -1 (the_nether) while populating chunk [-5, 0], causing cascading worldgen lag.
+[19:34:23] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:34:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:34:44] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 285 times.
+
+[19:34:44] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 285 times.
+
+[19:34:44] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 285 times.
+
+[19:34:44] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 285 times.
+
+[19:34:44] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 285 times.
+
+[19:34:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz has made the advancement [Take Aim]
+[19:34:57] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[19:35:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:35:27] [Server thread/DEBUG] [FML]: Queueing dimension -1 to unload
+[19:35:29] [Server thread/INFO] [FML]: Unloading dimension -1
+[19:35:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FraanG0D moved too quickly! -371.4329699604646,31.5,1612.4606300668593
+[19:35:34] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 290 times.
+
+[19:35:34] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 290 times.
+
+[19:35:34] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 290 times.
+
+[19:35:34] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 290 times.
+
+[19:35:34] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 290 times.
+
+[19:35:35] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[19:35:52] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[19:35:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
