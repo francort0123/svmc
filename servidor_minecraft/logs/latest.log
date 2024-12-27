@@ -1419,3 +1419,7 @@ Waystones: Requires version 4.1.0 but mod is not found on client.
 [23:17:33] [Server thread/INFO] [tombstone]: The last known grave of p3droz is at location [name:Last Grave, x:116, y:20, z:1329] in the dimension 0
 [23:17:42] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID acfdb291-f774-40e4-9283-6df13ef899ca
 [23:17:42] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID d7fc7bb7-5255-4df5-8140-8ae0b2042d64
+[23:20:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[23:31:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: p3droz moved wrongly!
+[23:35:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz has made the advancement [ZE ICE AGE!!!]
+[23:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up

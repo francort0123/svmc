@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "fossil:fossil/iced_meat": {
+    "criteria": {
+      "broken_sword": "2024-12-27 23:35:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-12-27 19:33:13 +0000"
@@ -736,6 +742,7 @@
       "zombie_villager": "2024-12-26 07:30:31 +0000",
       "skeleton": "2024-12-26 07:27:18 +0000",
       "husk": "2024-12-27 19:50:47 +0000",
+      "blaze": "2024-12-27 23:38:01 +0000",
       "zombie": "2024-12-26 07:17:10 +0000",
       "silverfish": "2024-12-27 19:53:03 +0000",
       "spider": "2024-12-26 07:28:27 +0000",
@@ -1046,6 +1053,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 07:23:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-12-27 23:38:56 +0000"
     },
     "done": true
   },
@@ -1405,6 +1418,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-27 20:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2024-12-27 23:38:56 +0000"
     },
     "done": true
   },
