@@ -1281,3 +1281,5 @@ Waystones: Requires version 4.1.0 but mod is not found on client.
 [19:53:35] [Server thread/INFO] [mca]: Villager death: Shayna. Caused by: Zombie. UUID: 9a3dfd2f-485a-4b94-9e40-066b129e3fd7
 [19:53:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: FraanG0D lost connection: Disconnected
 [19:53:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D left the game
+[20:13:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: p3droz lost connection: Disconnected
+[20:13:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz left the game
