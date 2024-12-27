@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-27 21:23:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 07:23:41 +0000"
@@ -724,6 +730,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "stray": "2024-12-27 21:23:31 +0000",
       "wither_skeleton": "2024-12-27 19:54:18 +0000",
       "zombie_villager": "2024-12-26 07:30:31 +0000",
       "skeleton": "2024-12-26 07:27:18 +0000",
@@ -780,6 +787,12 @@
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2024-12-27 21:01:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-27 21:23:01 +0000"
     },
     "done": true
   },
@@ -1071,6 +1084,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-27 21:23:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-26 07:23:10 +0000"
@@ -1349,6 +1368,12 @@
   "cfm:root": {
     "criteria": {
       "tick": "2024-12-26 07:11:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-27 21:23:01 +0000"
     },
     "done": true
   },

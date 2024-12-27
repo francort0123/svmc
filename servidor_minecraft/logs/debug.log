@@ -32446,3 +32446,176 @@ Waystones: Requires version 4.1.0 but mod is not found on client.
 [21:17:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:17:31] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
 [21:17:34] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[21:17:56] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 615 times.
+
+[21:18:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:18:06] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 905 times.
+
+[21:18:06] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 905 times.
+
+[21:18:06] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 905 times.
+
+[21:18:06] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 905 times.
+
+[21:18:06] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 905 times.
+
+[21:18:46] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 620 times.
+
+[21:18:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:18:56] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 910 times.
+
+[21:18:56] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 910 times.
+
+[21:18:56] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 910 times.
+
+[21:18:56] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 910 times.
+
+[21:18:56] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 910 times.
+
+[21:19:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:19:36] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 625 times.
+
+[21:19:46] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 915 times.
+
+[21:19:46] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 915 times.
+
+[21:19:46] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 915 times.
+
+[21:19:46] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 915 times.
+
+[21:19:46] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 915 times.
+
+[21:20:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[21:20:06] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[21:20:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:20:26] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 630 times.
+
+[21:20:36] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 920 times.
+
+[21:20:36] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 920 times.
+
+[21:20:36] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 920 times.
+
+[21:20:36] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 920 times.
+
+[21:20:36] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 920 times.
+
+[21:20:56] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:20:59] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:21:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:21:16] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 635 times.
+
+[21:21:26] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 925 times.
+
+[21:21:26] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 925 times.
+
+[21:21:26] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 925 times.
+
+[21:21:26] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 925 times.
+
+[21:21:26] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 925 times.
+
+[21:21:33] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[21:21:43] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[21:21:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:22:06] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 640 times.
+
+[21:22:16] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 930 times.
+
+[21:22:16] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 930 times.
+
+[21:22:16] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 930 times.
+
+[21:22:16] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 930 times.
+
+[21:22:16] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 930 times.
+
+[21:22:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:22:56] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 645 times.
+
+[21:23:06] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 935 times.
+
+[21:23:06] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 935 times.
+
+[21:23:06] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 935 times.
+
+[21:23:06] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 935 times.
+
+[21:23:06] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 935 times.
+
+[21:23:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:23:20] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:23:31] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Stray is 0.01
+[21:23:38] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Wither Skeleton is 0.01
+[21:23:46] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 650 times.
+
+[21:23:56] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 940 times.
+
+[21:23:56] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 940 times.
+
+[21:23:56] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 940 times.
+
+[21:23:56] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 940 times.
+
+[21:23:56] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 940 times.
+
+[21:24:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:24:36] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 655 times.
+
+[21:24:46] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 945 times.
+
+[21:24:46] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 945 times.
+
+[21:24:46] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 945 times.
+
+[21:24:46] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 945 times.
+
+[21:24:46] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 945 times.
+
+[21:24:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:25:26] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 660 times.
+
+[21:25:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:25:36] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 950 times.
+
+[21:25:36] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 950 times.
+
+[21:25:36] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 950 times.
+
+[21:25:36] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 950 times.
+
+[21:25:36] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 950 times.
+
+[21:25:47] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:26:16] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 665 times.
+
+[21:26:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:26:26] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 955 times.
+
+[21:26:26] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 955 times.
+
+[21:26:26] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 955 times.
+
+[21:26:26] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 955 times.
+
+[21:26:26] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 955 times.
+
+[21:27:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:27:05] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:27:06] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 670 times.
+
+[21:27:14] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:27:16] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 960 times.
+
+[21:27:16] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 960 times.
+
+[21:27:16] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 960 times.
+
+[21:27:16] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 960 times.
+
+[21:27:16] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 960 times.
+
+[21:27:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:27:56] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 675 times.
+
+[21:28:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz has made the advancement [Not Today, Thank You]
