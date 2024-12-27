@@ -416,6 +416,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-27 07:07:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 07:02:39 +0000"
@@ -662,6 +668,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2024-12-27 07:01:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2024-12-26 07:02:04 +0000"
@@ -734,6 +746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-27 07:12:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-26 07:36:25 +0000"
@@ -798,6 +816,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2024-12-27 07:30:07 +0000"
+    },
+    "done": true
+  },
   "advancedrocketry:normal/root": {
     "criteria": {
       "crafting_table": "2024-12-26 07:11:06 +0000"
@@ -852,6 +876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2024-12-27 07:30:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-26 07:13:52 +0000"
@@ -891,6 +921,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-26 07:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2024-12-27 07:01:39 +0000"
     },
     "done": true
   },
@@ -1032,6 +1068,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-27 07:12:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2024-12-26 07:51:16 +0000"
@@ -1119,6 +1161,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-26 07:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-27 07:12:00 +0000"
     },
     "done": true
   },
@@ -1296,7 +1344,8 @@
       "extreme_hills": "2024-12-27 06:14:49 +0000",
       "roofed_forest": "2024-12-27 05:59:32 +0000",
       "river": "2024-12-26 07:02:02 +0000",
-      "desert": "2024-12-26 07:54:28 +0000"
+      "desert": "2024-12-26 07:54:28 +0000",
+      "stone_beach": "2024-12-27 07:05:02 +0000"
     },
     "done": false
   },
@@ -1420,6 +1469,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-27 07:29:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-12-26 07:30:23 +0000"
@@ -1429,6 +1484,12 @@
   "dungeontactics:dungeoneering/get_lootbag": {
     "criteria": {
       "record": "2024-12-26 08:37:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2024-12-27 07:30:07 +0000"
     },
     "done": true
   },
@@ -1531,6 +1592,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2024-12-26 07:05:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2024-12-27 07:01:39 +0000"
     },
     "done": true
   },
