@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-27 05:56:53 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/convenience/melonslice_from_melon": {
     "criteria": {
       "has_melon": "2024-12-26 07:07:18 +0000"
@@ -445,6 +451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-27 05:56:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 07:02:39 +0000"
@@ -556,6 +568,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-26 07:18:43 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/brazier": {
+    "criteria": {
+      "has_torch": "2024-12-27 05:52:40 +0000"
     },
     "done": true
   },
@@ -709,6 +727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-27 05:56:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-26 07:18:43 +0000"
@@ -824,6 +848,12 @@
   "fossil:fossil/figurine": {
     "criteria": {
       "broken_sword": "2024-12-26 07:16:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-27 05:54:01 +0000"
     },
     "done": true
   },
@@ -1182,6 +1212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-27 05:56:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log2": "2024-12-26 07:58:34 +0000"
@@ -1286,6 +1322,12 @@
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2024-12-26 07:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-27 05:56:53 +0000"
     },
     "done": true
   },

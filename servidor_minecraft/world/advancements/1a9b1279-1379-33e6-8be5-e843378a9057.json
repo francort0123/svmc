@@ -1273,6 +1273,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2024-12-27 05:50:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-26 07:38:02 +0000"
@@ -1408,6 +1414,12 @@
   "dungeontactics:recipes/misc/lantern_magic": {
     "criteria": {
       "has_mcguffin": "2024-12-26 22:00:26 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/tar_drop": {
+    "criteria": {
+      "tar_drop": "2024-12-27 05:46:13 +0000"
     },
     "done": true
   },
