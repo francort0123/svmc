@@ -1265,3 +1265,19 @@ Waystones: Requires version 4.1.0 but mod is not found on client.
 [19:34:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz has made the advancement [Take Aim]
 [19:35:29] [Server thread/INFO] [FML]: Unloading dimension -1
 [19:35:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FraanG0D moved too quickly! -371.4329699604646,31.5,1612.4606300668593
+[19:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[19:45:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D has made the advancement [Getting an Upgrade]
+[19:47:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz is bleeding...
+[19:47:01] [Server thread/INFO] [tombstone]: The death event of the player p3droz was cancelled by another mod
+[19:47:37] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/svmc/servidor_minecraft/./world/data/inventory-p3droz-2024-12-27_19.47.37-death-0.dat. It can be restored with command '/ob_inventory restore p3droz p3droz-2024-12-27_19.47.37-death-0'
+[19:47:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz was slain by Zombie
+[19:47:37] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['p3droz'/30221, l='world', x=96.37, y=27.50, z=103.28]' cancelled, grave will not be spawned'
+[19:47:37] [Server thread/INFO] [tombstone]: The last known grave of p3droz is at location [name:Last Grave, x:96, y:27, z:103] in the dimension 0
+[19:49:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz has made the advancement [Cover Me With Diamonds]
+[19:51:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 7088eba6-2c40-42d8-ac8c-e740ea42a576
+[19:51:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 7d60645c-8849-472a-8345-5c5ccfbeb3c5
+[19:51:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID acfdb291-f774-40e4-9283-6df13ef899ca
+[19:51:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 086828eb-030d-47b8-9b8b-a249405ac866
+[19:53:35] [Server thread/INFO] [mca]: Villager death: Shayna. Caused by: Zombie. UUID: 9a3dfd2f-485a-4b94-9e40-066b129e3fd7
+[19:53:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: FraanG0D lost connection: Disconnected
+[19:53:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D left the game

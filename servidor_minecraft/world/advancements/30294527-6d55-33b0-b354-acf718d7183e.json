@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pillar_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-12-27 19:36:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-12-26 07:17:35 +0000"
@@ -104,6 +110,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-26 07:21:52 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/tools/ducttape": {
+    "criteria": {
+      "has_item": "2024-12-27 19:39:24 +0000"
     },
     "done": true
   },
@@ -167,6 +179,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/misc/convenience/flint_from_gravel": {
+    "criteria": {
+      "has_flint": "2024-12-27 19:37:11 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-12-26 07:11:44 +0000"
@@ -197,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-12-27 19:49:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-26 07:21:52 +0000"
@@ -206,6 +230,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2024-12-27 19:33:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2024-12-27 19:36:36 +0000"
     },
     "done": true
   },
@@ -263,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-12-27 19:37:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2024-12-27 19:33:13 +0000"
@@ -291,6 +327,12 @@
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-27 19:33:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-12-27 19:37:11 +0000"
     },
     "done": true
   },
@@ -368,6 +410,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-12-27 19:50:58 +0000",
       "apple": "2024-12-26 07:33:56 +0000",
       "cooked_cod": "2024-12-26 07:24:35 +0000",
       "cookie": "2024-12-26 07:32:22 +0000",
@@ -400,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-27 19:39:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-26 07:18:43 +0000"
@@ -421,6 +470,12 @@
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2024-12-27 19:33:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-12-27 19:36:36 +0000"
     },
     "done": true
   },
@@ -605,6 +660,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/tools/mortar\u0026pestle": {
+    "criteria": {
+      "has_flint": "2024-12-27 19:37:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2024-12-26 07:12:46 +0000"
@@ -647,6 +708,12 @@
       "iron_chestplate": "2024-12-27 19:33:13 +0000",
       "iron_leggings": "2024-12-27 19:33:13 +0000",
       "iron_helmet": "2024-12-27 19:33:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-27 19:39:24 +0000"
     },
     "done": true
   },
@@ -720,6 +787,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-12-27 19:37:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-26 07:17:59 +0000"
@@ -741,6 +814,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-26 07:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2024-12-27 19:36:36 +0000"
     },
     "done": true
   },
@@ -884,9 +963,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "wither_skeleton": "2024-12-27 19:54:18 +0000",
       "zombie_villager": "2024-12-26 07:30:31 +0000",
       "skeleton": "2024-12-26 07:27:18 +0000",
+      "husk": "2024-12-27 19:50:47 +0000",
       "zombie": "2024-12-26 07:17:10 +0000",
+      "silverfish": "2024-12-27 19:53:03 +0000",
       "spider": "2024-12-26 07:28:27 +0000",
       "creeper": "2024-12-26 07:27:24 +0000"
     },
