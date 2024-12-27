@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/jukebox": {
+    "criteria": {
+      "crafting_table": "2024-12-26 22:31:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2024-12-26 07:01:06 +0000"
@@ -357,6 +363,7 @@
       "melon": "2024-12-26 07:54:30 +0000",
       "mutton": "2024-12-26 08:59:33 +0000",
       "golden_apple": "2024-12-26 08:33:52 +0000",
+      "bread": "2024-12-26 22:19:12 +0000",
       "raw_cod": "2024-12-26 07:37:58 +0000",
       "enchanted_golden_apple": "2024-12-26 08:43:11 +0000",
       "carrot": "2024-12-26 07:06:40 +0000"
@@ -366,6 +373,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-26 07:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-26 22:44:16 +0000"
     },
     "done": true
   },
@@ -402,6 +415,12 @@
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2024-12-26 08:16:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-26 22:20:51 +0000"
     },
     "done": true
   },
@@ -571,6 +590,12 @@
     "criteria": {
       "iron_boots": "2024-12-26 07:06:44 +0000",
       "iron_helmet": "2024-12-26 07:06:44 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/radio": {
+    "criteria": {
+      "has_cat": "2024-12-26 22:50:46 +0000"
     },
     "done": true
   },
@@ -846,6 +871,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/misc/rings": {
+    "criteria": {
+      "has_gold": "2024-12-26 22:44:16 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/first_grave": {
     "criteria": {
       "coded_trigger": "2024-12-26 07:11:39 +0000"
@@ -954,6 +985,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-26 22:26:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2024-12-26 07:05:26 +0000"
@@ -1029,6 +1066,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-26 08:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-26 22:15:02 +0000"
     },
     "done": true
   },
@@ -1131,6 +1174,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 07:04:32 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/lantern_magic": {
+    "criteria": {
+      "has_gold": "2024-12-26 22:44:16 +0000"
     },
     "done": true
   },
@@ -1299,13 +1348,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "forest": "2024-12-26 22:31:26 +0000",
       "deep_ocean": "2024-12-26 08:24:27 +0000",
       "beaches": "2024-12-26 06:58:34 +0000",
+      "desert_hills": "2024-12-26 22:25:49 +0000",
+      "forest_hills": "2024-12-26 22:14:55 +0000",
       "savanna": "2024-12-26 07:00:35 +0000",
       "plains": "2024-12-26 07:05:00 +0000",
       "savanna_rock": "2024-12-26 06:58:51 +0000",
       "ocean": "2024-12-26 07:11:49 +0000",
-      "river": "2024-12-26 06:59:49 +0000"
+      "river": "2024-12-26 06:59:49 +0000",
+      "desert": "2024-12-26 22:25:35 +0000"
     },
     "done": false
   },

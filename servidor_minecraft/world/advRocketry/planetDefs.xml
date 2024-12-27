@@ -181,7 +181,7 @@
             <gas>oxygen</gas>
             <fogColor>1.0,1.0,1.0</fogColor>
             <skyColor>1.0,1.0,1.0</skyColor>
-            <gravitationalMultiplier>117</gravitationalMultiplier>
+            <gravitationalMultiplier>116</gravitationalMultiplier>
             <orbitalDistance>219</orbitalDistance>
             <orbitalTheta>0</orbitalTheta>
             <orbitalPhi>0</orbitalPhi>
@@ -259,7 +259,7 @@
             <gravitationalMultiplier>116</gravitationalMultiplier>
             <orbitalDistance>162</orbitalDistance>
             <orbitalTheta>50</orbitalTheta>
-            <orbitalPhi>-409</orbitalPhi>
+            <orbitalPhi>-49</orbitalPhi>
             <retrograde>false</retrograde>
             <avgTemperature>201</avgTemperature>
             <rotationalPeriod>15178</rotationalPeriod>
@@ -683,7 +683,7 @@
             <gravitationalMultiplier>130</gravitationalMultiplier>
             <orbitalDistance>51</orbitalDistance>
             <orbitalTheta>65</orbitalTheta>
-            <orbitalPhi>-447</orbitalPhi>
+            <orbitalPhi>-87</orbitalPhi>
             <retrograde>false</retrograde>
             <avgTemperature>772</avgTemperature>
             <rotationalPeriod>10923</rotationalPeriod>
@@ -1076,7 +1076,7 @@
             <gravitationalMultiplier>130</gravitationalMultiplier>
             <orbitalDistance>68</orbitalDistance>
             <orbitalTheta>1</orbitalTheta>
-            <orbitalPhi>-622</orbitalPhi>
+            <orbitalPhi>-262</orbitalPhi>
             <retrograde>false</retrograde>
             <avgTemperature>283</avgTemperature>
             <rotationalPeriod>10923</rotationalPeriod>
@@ -1392,7 +1392,7 @@
             <gravitationalMultiplier>125</gravitationalMultiplier>
             <orbitalDistance>110</orbitalDistance>
             <orbitalTheta>244</orbitalTheta>
-            <orbitalPhi>422</orbitalPhi>
+            <orbitalPhi>62</orbitalPhi>
             <retrograde>false</retrograde>
             <avgTemperature>512</avgTemperature>
             <rotationalPeriod>12141</rotationalPeriod>
