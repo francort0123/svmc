@@ -410,7 +410,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-27 20:01:29 +0000",
       "cooked_mutton": "2024-12-27 19:50:58 +0000",
+      "cooked_beef": "2024-12-27 20:05:51 +0000",
       "apple": "2024-12-26 07:33:56 +0000",
       "cooked_cod": "2024-12-26 07:24:35 +0000",
       "cookie": "2024-12-26 07:32:22 +0000",
@@ -500,6 +502,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-26 07:23:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-27 19:56:36 +0000"
     },
     "done": true
   },
@@ -744,6 +752,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 07:23:41 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/traps/trap_plate": {
+    "criteria": {
+      "has_item": "2024-12-27 19:58:19 +0000"
     },
     "done": true
   },
