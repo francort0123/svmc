@@ -1384,3 +1384,6 @@ Waystones: Requires version 4.1.0 but mod is not found on client.
 [21:04:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [21:20:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
 [21:28:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz has made the advancement [Not Today, Thank You]
+[21:39:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: p3droz lost connection: Disconnected
+[21:39:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz left the game
+[21:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up

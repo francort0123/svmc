@@ -730,6 +730,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2024-12-27 21:32:50 +0000",
       "stray": "2024-12-27 21:23:31 +0000",
       "wither_skeleton": "2024-12-27 19:54:18 +0000",
       "zombie_villager": "2024-12-26 07:30:31 +0000",
@@ -991,6 +992,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2024-12-27 19:33:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-27 21:28:02 +0000"
     },
     "done": true
   },
