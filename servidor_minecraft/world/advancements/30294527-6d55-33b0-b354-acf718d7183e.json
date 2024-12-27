@@ -1,13 +1,13 @@
 {
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2024-12-26 07:18:43 +0000"
-    },
-    "done": true
-  },
   "dungeontactics:recipes/misc/convenience/planks_from_sticks": {
     "criteria": {
       "has_acacia": "2024-12-26 07:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-26 07:18:43 +0000"
     },
     "done": true
   },
@@ -23,15 +23,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lever": {
-    "criteria": {
-      "has_cobblestone": "2024-12-26 07:21:11 +0000"
-    },
-    "done": true
-  },
   "dungeontactics:recipes/weapons/slingshot": {
     "criteria": {
       "has_item": "2024-12-26 07:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-12-26 07:21:11 +0000"
     },
     "done": true
   },
@@ -53,15 +53,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_sword": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-26 07:23:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-12-26 07:17:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-26 07:23:41 +0000"
     },
     "done": true
   },
@@ -191,16 +191,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sign": {
+    "criteria": {
+      "has_planks": "2024-12-26 07:12:46 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/wooden_table": {
     "criteria": {
       "has_recipe": "2024-12-26 07:13:16 +0000",
       "has_wood": "2024-12-26 07:13:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sign": {
-    "criteria": {
-      "has_planks": "2024-12-26 07:12:46 +0000"
     },
     "done": true
   },
@@ -270,12 +270,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_axe": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-26 07:23:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2024-12-26 07:33:56 +0000",
@@ -284,6 +278,12 @@
       "rotten_flesh": "2024-12-26 07:17:59 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-26 07:23:41 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -303,15 +303,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bucket": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-26 07:23:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-26 07:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-26 07:23:41 +0000"
     },
     "done": true
   },
@@ -418,15 +418,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
-    "criteria": {
-      "has_sand": "2024-12-26 07:21:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-12-26 07:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-26 07:21:52 +0000"
     },
     "done": true
   },
@@ -454,15 +454,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_sandstone": {
-    "criteria": {
-      "has_sandstone": "2024-12-26 07:16:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log2": "2024-12-26 07:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-26 07:16:19 +0000"
     },
     "done": true
   },
@@ -520,15 +520,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/minecart": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-26 07:23:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-26 07:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-26 07:23:41 +0000"
     },
     "done": true
   },
@@ -566,15 +566,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stonebrick": "2024-12-26 07:31:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-26 07:17:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2024-12-26 07:31:19 +0000"
     },
     "done": true
   },
@@ -596,15 +596,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_concrete_powder": {
-    "criteria": {
-      "has_sand": "2024-12-26 07:21:52 +0000"
-    },
-    "done": true
-  },
   "cfm:install": {
     "criteria": {
       "tick": "2024-12-26 07:11:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-26 07:21:52 +0000"
     },
     "done": true
   },
@@ -614,9 +614,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
+  "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
-      "has_spider_eye": "2024-12-26 07:28:28 +0000"
+      "entered_water": "2024-12-26 07:12:14 +0000"
     },
     "done": true
   },
@@ -626,9 +626,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
+  "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
-      "entered_water": "2024-12-26 07:12:14 +0000"
+      "has_spider_eye": "2024-12-26 07:28:28 +0000"
     },
     "done": true
   },
@@ -804,15 +804,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
-    "criteria": {
-      "has_stonebrick": "2024-12-26 07:31:19 +0000"
-    },
-    "done": true
-  },
   "dungeontactics:recipes/misc/barrel": {
     "criteria": {
       "has_acacia": "2024-12-26 07:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2024-12-26 07:31:19 +0000"
     },
     "done": true
   },
