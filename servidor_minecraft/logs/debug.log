@@ -31862,3 +31862,409 @@ Waystones: Requires version 4.1.0 but mod is not found on client.
 [20:47:04] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 430 times.
 
 [20:47:09] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[20:47:15] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 720 times.
+
+[20:47:15] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 720 times.
+
+[20:47:15] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 720 times.
+
+[20:47:15] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 720 times.
+
+[20:47:15] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 720 times.
+
+[20:47:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:47:44] [Server thread/INFO] [mca]: Villager death: Isidro. Caused by: drown. UUID: a79426f6-6005-4412-9b1f-8f16737988b1
+[20:47:54] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 435 times.
+
+[20:47:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:48:04] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 725 times.
+
+[20:48:04] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 725 times.
+
+[20:48:04] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 725 times.
+
+[20:48:04] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 725 times.
+
+[20:48:04] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 725 times.
+
+[20:48:42] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Piranha is 0.01
+[20:48:44] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 440 times.
+
+[20:48:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz has made the advancement [Diamonds!]
+[20:48:54] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 730 times.
+
+[20:48:54] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 730 times.
+
+[20:48:54] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 730 times.
+
+[20:48:54] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 730 times.
+
+[20:48:54] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 730 times.
+
+[20:49:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bd063695-1d30-4cd2-adef-030db5a57c1e
+[20:49:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:49:34] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 445 times.
+
+[20:49:44] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 735 times.
+
+[20:49:44] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 735 times.
+
+[20:49:44] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 735 times.
+
+[20:49:44] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 735 times.
+
+[20:49:44] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 735 times.
+
+[20:50:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:50:24] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 450 times.
+
+[20:50:34] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 740 times.
+
+[20:50:34] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 740 times.
+
+[20:50:34] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 740 times.
+
+[20:50:34] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 740 times.
+
+[20:50:34] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 740 times.
+
+[20:50:54] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Witch is 0.01
+[20:50:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:51:14] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 455 times.
+
+[20:51:24] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 745 times.
+
+[20:51:24] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 745 times.
+
+[20:51:24] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 745 times.
+
+[20:51:24] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 745 times.
+
+[20:51:24] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 745 times.
+
+[20:51:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:51:55] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[20:51:56] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[20:51:58] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[20:52:02] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[20:52:04] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 460 times.
+
+[20:52:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft has made the advancement [Magic Writing]
+[20:52:14] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 750 times.
+
+[20:52:14] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 750 times.
+
+[20:52:14] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 750 times.
+
+[20:52:14] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 750 times.
+
+[20:52:14] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 750 times.
+
+[20:52:22] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a heart container (player baltacraft)
+[20:52:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:52:36] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[20:52:54] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 465 times.
+
+[20:52:55] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[20:52:55] [Server thread/WARN] [mca]: No skin found for profession: `openblocks:radio`. A random skin will be generated.
+[20:52:55] [Server thread/WARN] [mca]: No skin found for profession: `openblocks:radio`. A random skin will be generated.
+[20:53:04] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 755 times.
+
+[20:53:04] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 755 times.
+
+[20:53:04] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 755 times.
+
+[20:53:04] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 755 times.
+
+[20:53:04] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 755 times.
+
+[20:53:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:53:24] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Husk is 0.01
+[20:53:44] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 470 times.
+
+[20:53:54] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 760 times.
+
+[20:53:54] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 760 times.
+
+[20:53:54] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 760 times.
+
+[20:53:54] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 760 times.
+
+[20:53:54] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 760 times.
+
+[20:53:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:54:01] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Husk is 0.01
+[20:54:34] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 475 times.
+
+[20:54:45] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 765 times.
+
+[20:54:45] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 765 times.
+
+[20:54:45] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 765 times.
+
+[20:54:45] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 765 times.
+
+[20:54:45] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 765 times.
+
+[20:54:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:54:50] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [4, 81] in dimension 0 (overworld) while populating chunk [4, 80], causing cascading worldgen lag.
+[20:54:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:54:50] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [5, 81] in dimension 0 (overworld) while populating chunk [4, 80], causing cascading worldgen lag.
+[20:54:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:54:50] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [5, 80] in dimension 0 (overworld) while populating chunk [4, 80], causing cascading worldgen lag.
+[20:54:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:55:01] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Horse is 0.001
+[20:55:07] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Horse is 0.001
+[20:55:18] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[20:55:24] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 480 times.
+
+[20:55:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:55:34] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 770 times.
+
+[20:55:34] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 770 times.
+
+[20:55:34] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 770 times.
+
+[20:55:34] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 770 times.
+
+[20:55:34] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 770 times.
+
+[20:55:36] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[20:55:53] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[20:56:14] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 485 times.
+
+[20:56:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:56:20] [Server thread/INFO] [mca]: Villager death: Lisha. Caused by: Zombie. UUID: 97f79855-34ef-4a55-925a-856e5b7595e1
+[20:56:24] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 775 times.
+
+[20:56:24] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 775 times.
+
+[20:56:24] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 775 times.
+
+[20:56:24] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 775 times.
+
+[20:56:24] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 775 times.
+
+[20:56:56] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[20:56:58] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Horse is 0.001
+[20:56:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:57:04] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Horse is 0.001
+[20:57:04] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 490 times.
+
+[20:57:09] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[20:57:13] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Horse is 0.001
+[20:57:14] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 780 times.
+
+[20:57:14] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 780 times.
+
+[20:57:14] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 780 times.
+
+[20:57:14] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 780 times.
+
+[20:57:14] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 780 times.
+
+[20:57:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: baltacraft lost connection: Disconnected
+[20:57:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft left the game
+[20:57:18] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Horse is 0.001
+[20:57:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:57:46] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 192 | 1424 ], underground: true
+[20:57:54] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 495 times.
+
+[20:57:59] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SandStone spawned at [ 208 | 1216 ], underground: true
+[20:58:04] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 785 times.
+
+[20:58:04] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 785 times.
+
+[20:58:04] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 785 times.
+
+[20:58:04] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 785 times.
+
+[20:58:04] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 785 times.
+
+[20:58:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:58:31] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[20:58:37] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2823ms behind, skipping 56 tick(s)
+[20:58:39] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[20:58:39] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [17, 70] in dimension 0 (overworld) while populating chunk [16, 70], causing cascading worldgen lag.
+[20:58:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:58:39] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[20:58:39] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [17, 79] in dimension 0 (overworld) while populating chunk [16, 79], causing cascading worldgen lag.
+[20:58:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:58:39] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [16, 80] in dimension 0 (overworld) while populating chunk [16, 79], causing cascading worldgen lag.
+[20:58:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:58:39] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [17, 80] in dimension 0 (overworld) while populating chunk [16, 79], causing cascading worldgen lag.
+[20:58:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:58:45] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 500 times.
+
+[20:58:55] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 790 times.
+
+[20:58:55] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 790 times.
+
+[20:58:55] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 790 times.
+
+[20:58:55] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 790 times.
+
+[20:58:55] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 790 times.
+
+[20:59:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:59:35] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 505 times.
+
+[20:59:45] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 795 times.
+
+[20:59:45] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 795 times.
+
+[20:59:45] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 795 times.
+
+[20:59:45] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 795 times.
+
+[20:59:45] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 795 times.
+
+[21:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[21:00:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:00:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz has made the advancement [Ice Bucket Challenge]
+[21:00:25] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 510 times.
+
+[21:00:35] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 800 times.
+
+[21:00:35] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 800 times.
+
+[21:00:35] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 800 times.
+
+[21:00:35] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 800 times.
+
+[21:00:35] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 800 times.
+
+[21:00:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:01:15] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 515 times.
+
+[21:01:25] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 805 times.
+
+[21:01:25] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 805 times.
+
+[21:01:25] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 805 times.
+
+[21:01:25] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 805 times.
+
+[21:01:25] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 805 times.
+
+[21:01:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:02:05] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 520 times.
+
+[21:02:15] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 810 times.
+
+[21:02:15] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 810 times.
+
+[21:02:15] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 810 times.
+
+[21:02:15] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 810 times.
+
+[21:02:15] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 810 times.
+
+[21:02:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:02:35] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SandStone spawned at [ 384 | 1104 ], underground: false
+[21:02:36] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[21:02:36] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[21:02:36] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[21:02:36] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 384 | 1312 ], underground: true
+[21:02:38] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2964ms behind, skipping 59 tick(s)
+[21:02:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: p3droz moved too quickly! 7.890718879990516,-0.7477966597462711,6.349596426179005
+[21:02:56] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 525 times.
+
+[21:03:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:03:07] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 815 times.
+
+[21:03:07] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 815 times.
+
+[21:03:07] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 815 times.
+
+[21:03:07] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 815 times.
+
+[21:03:07] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 815 times.
+
+[21:03:13] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[21:03:13] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[21:03:29] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[21:03:30] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [16, 96] in dimension 0 (overworld) while populating chunk [17, 95], causing cascading worldgen lag.
+[21:03:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:03:30] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [15, 95] in dimension 0 (overworld) while populating chunk [16, 96], causing cascading worldgen lag.
+[21:03:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:03:31] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[21:03:46] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 530 times.
+
+[21:03:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:03:56] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 820 times.
+
+[21:03:56] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 820 times.
+
+[21:03:56] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 820 times.
+
+[21:03:56] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 820 times.
+
+[21:03:56] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 820 times.
+
+[21:03:59] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[21:04:00] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 368 | 1520 ], underground: true
+[21:04:23] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [16, 97] in dimension 0 (overworld) while populating chunk [17, 99], causing cascading worldgen lag.
+[21:04:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:04:23] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [16, 98] in dimension 0 (overworld) while populating chunk [17, 99], causing cascading worldgen lag.
+[21:04:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:04:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:04:36] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 535 times.
+
+[21:04:46] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 825 times.
+
+[21:04:46] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 825 times.
+
+[21:04:46] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 825 times.
+
+[21:04:46] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 825 times.
+
+[21:04:46] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 825 times.
+
+[21:05:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:05:21] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie Villager is 0.01
+[21:05:26] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 540 times.
+
+[21:05:36] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 830 times.
+
+[21:05:36] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 830 times.
+
+[21:05:36] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 830 times.
+
+[21:05:36] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 830 times.
+
+[21:05:36] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 830 times.
+
+[21:06:00] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[21:06:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:06:16] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 545 times.
+
+[21:06:26] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 835 times.
+
+[21:06:26] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 835 times.
+
+[21:06:26] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 835 times.
+
+[21:06:26] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 835 times.
+
+[21:06:26] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 835 times.
+
+[21:06:28] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[21:06:31] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[21:06:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:07:06] [Server thread/DEBUG] [FML]: The world 1aa1ec7c (world) may have leaked: seen 550 times.
+
+[21:07:16] [Server thread/DEBUG] [FML]: The world 359ba67d (world) may have leaked: seen 840 times.
+
+[21:07:16] [Server thread/DEBUG] [FML]: The world 699ad209 (world) may have leaked: seen 840 times.
+
+[21:07:16] [Server thread/DEBUG] [FML]: The world 4470350 (world) may have leaked: seen 840 times.
+
+[21:07:16] [Server thread/DEBUG] [FML]: The world 454e7b59 (world) may have leaked: seen 840 times.
+
+[21:07:16] [Server thread/DEBUG] [FML]: The world 68fa90dd (world) may have leaked: seen 840 times.
+
+[21:07:20] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:07:27] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Wither Skeleton is 0.01
+[21:07:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

@@ -1328,3 +1328,57 @@ Waystones: Requires version 4.1.0 but mod is not found on client.
 [20:45:52] [Server thread/WARN] [mca]: No skin found for profession: `openblocks:radio`. A random skin will be generated.
 [20:45:52] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
 [20:46:17] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -352 | 2176 ], underground: true
+[20:47:44] [Server thread/INFO] [mca]: Villager death: Isidro. Caused by: drown. UUID: a79426f6-6005-4412-9b1f-8f16737988b1
+[20:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz has made the advancement [Diamonds!]
+[20:49:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bd063695-1d30-4cd2-adef-030db5a57c1e
+[20:52:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft has made the advancement [Magic Writing]
+[20:52:22] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a heart container (player baltacraft)
+[20:52:36] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[20:52:55] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[20:52:55] [Server thread/WARN] [mca]: No skin found for profession: `openblocks:radio`. A random skin will be generated.
+[20:52:55] [Server thread/WARN] [mca]: No skin found for profession: `openblocks:radio`. A random skin will be generated.
+[20:54:50] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [4, 81] in dimension 0 (overworld) while populating chunk [4, 80], causing cascading worldgen lag.
+[20:54:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:54:50] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [5, 81] in dimension 0 (overworld) while populating chunk [4, 80], causing cascading worldgen lag.
+[20:54:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:54:50] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [5, 80] in dimension 0 (overworld) while populating chunk [4, 80], causing cascading worldgen lag.
+[20:54:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:56:20] [Server thread/INFO] [mca]: Villager death: Lisha. Caused by: Zombie. UUID: 97f79855-34ef-4a55-925a-856e5b7595e1
+[20:57:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: baltacraft lost connection: Disconnected
+[20:57:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft left the game
+[20:57:46] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 192 | 1424 ], underground: true
+[20:57:59] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SandStone spawned at [ 208 | 1216 ], underground: true
+[20:58:37] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2823ms behind, skipping 56 tick(s)
+[20:58:39] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[20:58:39] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [17, 70] in dimension 0 (overworld) while populating chunk [16, 70], causing cascading worldgen lag.
+[20:58:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:58:39] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[20:58:39] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [17, 79] in dimension 0 (overworld) while populating chunk [16, 79], causing cascading worldgen lag.
+[20:58:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:58:39] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [16, 80] in dimension 0 (overworld) while populating chunk [16, 79], causing cascading worldgen lag.
+[20:58:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:58:39] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [17, 80] in dimension 0 (overworld) while populating chunk [16, 79], causing cascading worldgen lag.
+[20:58:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[21:00:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz has made the advancement [Ice Bucket Challenge]
+[21:02:35] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SandStone spawned at [ 384 | 1104 ], underground: false
+[21:02:36] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[21:02:36] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[21:02:36] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[21:02:36] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 384 | 1312 ], underground: true
+[21:02:38] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2964ms behind, skipping 59 tick(s)
+[21:02:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: p3droz moved too quickly! 7.890718879990516,-0.7477966597462711,6.349596426179005
+[21:03:13] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[21:03:13] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[21:03:29] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[21:03:30] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [16, 96] in dimension 0 (overworld) while populating chunk [17, 95], causing cascading worldgen lag.
+[21:03:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:03:30] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [15, 95] in dimension 0 (overworld) while populating chunk [16, 96], causing cascading worldgen lag.
+[21:03:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:03:31] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[21:03:59] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[21:04:00] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 368 | 1520 ], underground: true
+[21:04:23] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [16, 97] in dimension 0 (overworld) while populating chunk [17, 99], causing cascading worldgen lag.
+[21:04:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:04:23] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [16, 98] in dimension 0 (overworld) while populating chunk [17, 99], causing cascading worldgen lag.
+[21:04:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.

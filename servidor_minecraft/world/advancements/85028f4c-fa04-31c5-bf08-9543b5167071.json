@@ -330,6 +330,13 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/tools/magic_tether": {
+    "criteria": {
+      "has_pearl": "2024-12-27 20:48:28 +0000",
+      "has_eye": "2024-12-27 20:48:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2024-12-26 08:20:08 +0000"
@@ -698,6 +705,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-27 20:48:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-26 07:05:10 +0000"
@@ -752,6 +765,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2024-12-27 20:54:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2024-12-26 07:05:28 +0000"
@@ -767,6 +786,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-26 07:10:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_magic_scroll": {
+    "criteria": {
+      "has_ingredient": "2024-12-27 20:52:10 +0000"
     },
     "done": true
   },
@@ -896,6 +921,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-27 20:50:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-26 07:05:10 +0000"
@@ -909,6 +940,7 @@
       "skeleton": "2024-12-26 07:11:10 +0000",
       "cave_spider": "2024-12-26 07:55:13 +0000",
       "zombie": "2024-12-26 07:10:37 +0000",
+      "witch": "2024-12-27 20:50:54 +0000",
       "spider": "2024-12-27 05:57:08 +0000",
       "creeper": "2024-12-27 05:57:10 +0000"
     },
@@ -917,6 +949,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-26 08:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-27 20:48:28 +0000"
     },
     "done": true
   },
@@ -947,6 +985,12 @@
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-26 08:26:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-12-27 20:48:28 +0000"
     },
     "done": true
   },
@@ -1025,6 +1069,12 @@
   "minecraft:recipes/misc/gold_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2024-12-26 08:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2024-12-27 20:54:45 +0000"
     },
     "done": true
   },
@@ -1262,6 +1312,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-27 20:50:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2024-12-26 08:29:17 +0000"
@@ -1307,6 +1363,12 @@
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2024-12-26 07:05:56 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/tools/bagofhoarding": {
+    "criteria": {
+      "has_recipe": "2024-12-27 20:48:28 +0000"
     },
     "done": true
   },
@@ -1392,6 +1454,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-26 08:20:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma": {
+    "criteria": {
+      "has_magma_cream": "2024-12-27 20:55:11 +0000"
     },
     "done": true
   },
@@ -1534,6 +1602,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-26 07:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-27 20:47:14 +0000"
     },
     "done": true
   },
@@ -1774,6 +1848,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2024-12-26 07:10:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2024-12-27 20:54:45 +0000"
     },
     "done": true
   },
