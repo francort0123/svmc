@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-12-28 00:04:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_the_recipe": "2024-12-27 20:25:22 +0000"
@@ -395,6 +401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-28 00:04:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-27 19:33:13 +0000"
@@ -632,6 +644,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-28 00:04:28 +0000"
+    },
+    "done": true
+  },
   "cfm:install": {
     "criteria": {
       "tick": "2024-12-26 07:11:44 +0000"
@@ -751,6 +769,7 @@
       "blaze": "2024-12-27 23:38:01 +0000",
       "zombie": "2024-12-26 07:17:10 +0000",
       "silverfish": "2024-12-27 19:53:03 +0000",
+      "cave_spider": "2024-12-28 00:12:18 +0000",
       "spider": "2024-12-26 07:28:27 +0000",
       "creeper": "2024-12-26 07:27:24 +0000"
     },
@@ -1059,6 +1078,12 @@
   "dungeontactics:recipes/tools/climbing_rope": {
     "criteria": {
       "has_recipe": "2024-12-26 07:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fence": {
+    "criteria": {
+      "has_planks": "2024-12-28 00:04:28 +0000"
     },
     "done": true
   },
@@ -1502,6 +1527,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-26 07:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_door": {
+    "criteria": {
+      "has_planks": "2024-12-28 00:04:28 +0000"
     },
     "done": true
   },
