@@ -1095,3 +1095,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [06:01:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D has made the advancement [Magic Writing]
 [06:09:29] [Server thread/INFO] [Scaling Health]: Blight Mimic has died
 [06:12:51] [Server thread/INFO] [mca]: Villager death: Michal. Caused by: Zombie. UUID: c1fccea0-096e-4553-a898-c1360665090a
+[06:20:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
