@@ -2112,3 +2112,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [21:20:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
 [21:21:52] [Server thread/INFO] [FML]: Unloading dimension -1
 [21:24:48] [Server thread/INFO] [mca]: Villager death: Ashley. Caused by: Zombie. UUID: ffd8a8b4-a2cd-4cda-882e-397a085ea17b
+[21:36:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: p3droz lost connection: Disconnected
+[21:36:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz left the game
