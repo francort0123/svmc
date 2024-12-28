@@ -2270,3 +2270,37 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [23:08:56] [Server thread/INFO] [Waila]: Player EntityPlayerMP['p3droz'/149701, l='world', x=-392.51, y=66.00, z=1737.99] connected. Sending ping
 [23:08:56] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player p3droz
 [23:08:56] [Thread-569/INFO] [STDOUT]: [net.torocraft.dailies.network.QuestInventoryFetcher:buildRequest:42]: DAILIES REQUEST modVersion = 1.12.2-6
+[23:09:30] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[23:09:30] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 66 mods : mclib@2.4.2,dungeonsmod@@VERSION@,dungeontactics@DT-0.16.7,mca@6.1.0,creativecoredummy@1.0.0,bountifulbaubles@0.0.1,openmods@0.12.2,deconstruction@3.0.4,jei@4.15.0.293,chunkpregenerator@4.4.9,radixcore@1.12.x-2.2.1,betternether@0.1.8.6,ivtoolkit@1.3.3-1.12,dailies@1.12.2-6,bettercaves@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,hammercore@12.2.56,journeymap@1.12.2-5.7.1p2,artifacts@1.12.2-1.2.3,bookshelf@2.3.590,llibrary@1.7.20,uteamcore@2.2.5.255,progressivebosses@1.5.4,fossil@8.0.5,iceandfire@1.9.1,waila@1.8.26,inventorypets@2.0.15,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,carryon@1.12.3,emoticons@1.1.2,paraglider@1.0.1.5,forge@14.23.5.2860,ruins@17.2,bloodmagic@1.12.2-2.4.3-105,eplus@5.0.176,openblocks@1.8.1,hardcore_battle_towers_av_av@2.0.1,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,usefulbackpacks@1.5.3.59,dungeons@2.0,silentlib@3.0.13,baubles@1.5.2,openmodscore@0.12.2,creativecore@1.10.0,advancedrocketry@1.12.2-2.0.0-17,battletowers@1.6.5,futureminecraf@1.3.1,improvableskills@12.4.68,roguelike@1.8.0,mantle@1.12-1.3.3.55,gb@1.1.206,securitycraft@v1.9.4,FML@8.0.99.99,tombstone@3.7.3,libvulpes@0.4.2.-25,cfm@6.3.0,tinkersjei@1.2,oreshrubs@1.4.4,scalinghealth@1.3.37,playerrevive@1.0,movillages@1.5.4,carbonconfig@1.2.1
+[23:09:30] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[23:09:30] [Netty Epoll Server IO #2/INFO] [FML]: Attempting connection with missing mods [quickteleports] at CLIENT
+[23:09:33] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:09:33] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: baltacraft[/127.122.14.94:52807] logged in with entity id 150188 at (-551.5345553847505, 62.0, 1767.6059791751252)
+[23:09:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft joined the game
+[23:09:33] [Server thread/INFO] [Waila]: Player EntityPlayerMP['baltacraft'/150188, l='world', x=-551.53, y=62.00, z=1767.61] connected. Sending ping
+[23:09:33] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player baltacraft
+[23:09:33] [Thread-572/INFO] [STDOUT]: [net.torocraft.dailies.network.QuestInventoryFetcher:buildRequest:42]: DAILIES REQUEST modVersion = 1.12.2-6
+[23:13:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: baltacraft lost connection: Disconnected
+[23:13:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft left the game
+[23:20:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[23:21:53] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[23:21:53] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 66 mods : mclib@2.4.2,dungeonsmod@@VERSION@,dungeontactics@DT-0.16.7,mca@6.1.0,creativecoredummy@1.0.0,bountifulbaubles@0.0.1,openmods@0.12.2,deconstruction@3.0.4,jei@4.15.0.293,chunkpregenerator@4.4.9,radixcore@1.12.x-2.2.1,betternether@0.1.8.6,ivtoolkit@1.3.3-1.12,dailies@1.12.2-6,bettercaves@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,hammercore@12.2.56,journeymap@1.12.2-5.7.1p2,artifacts@1.12.2-1.2.3,bookshelf@2.3.590,llibrary@1.7.20,uteamcore@2.2.5.255,progressivebosses@1.5.4,fossil@8.0.5,iceandfire@1.9.1,waila@1.8.26,inventorypets@2.0.15,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,carryon@1.12.3,emoticons@1.1.2,paraglider@1.0.1.5,forge@14.23.5.2860,ruins@17.2,bloodmagic@1.12.2-2.4.3-105,eplus@5.0.176,openblocks@1.8.1,hardcore_battle_towers_av_av@2.0.1,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,usefulbackpacks@1.5.3.59,dungeons@2.0,silentlib@3.0.13,baubles@1.5.2,openmodscore@0.12.2,creativecore@1.10.0,advancedrocketry@1.12.2-2.0.0-17,battletowers@1.6.5,futureminecraf@1.3.1,improvableskills@12.4.68,roguelike@1.8.0,mantle@1.12-1.3.3.55,gb@1.1.206,securitycraft@v1.9.4,FML@8.0.99.99,tombstone@3.7.3,libvulpes@0.4.2.-25,cfm@6.3.0,tinkersjei@1.2,oreshrubs@1.4.4,scalinghealth@1.3.37,playerrevive@1.0,movillages@1.5.4,carbonconfig@1.2.1
+[23:21:53] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[23:21:53] [Netty Epoll Server IO #1/INFO] [FML]: Attempting connection with missing mods [quickteleports] at CLIENT
+[23:21:56] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:21:56] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ElRamiACuadros[/127.201.54.134:33467] logged in with entity id 157831 at (-1897.032550276607, 72.0, 1668.8392973446832)
+[23:21:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElRamiACuadros joined the game
+[23:21:56] [Server thread/INFO] [Waila]: Player EntityPlayerMP['ElRamiACuadros'/157831, l='world', x=-1897.03, y=72.00, z=1668.84] connected. Sending ping
+[23:21:56] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player ElRamiACuadros
+[23:21:56] [Thread-607/INFO] [STDOUT]: [net.torocraft.dailies.network.QuestInventoryFetcher:buildRequest:42]: DAILIES REQUEST modVersion = 1.12.2-6
+[23:21:56] [Server thread/INFO] [mca]: Villager death: Lyman. Caused by: Zombie. UUID: 9ba45320-41a0-493c-b718-2925c144a8b1
+[23:23:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [FraanG0D: Set the time to 1000]
+[23:24:04] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-103, 94] in dimension 0 (overworld) while populating chunk [-103, 95], causing cascading worldgen lag.
+[23:24:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:24:04] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-104, 94] in dimension 0 (overworld) while populating chunk [-103, 94], causing cascading worldgen lag.
+[23:24:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:24:05] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-105, 94] in dimension 0 (overworld) while populating chunk [-103, 94], causing cascading worldgen lag.
+[23:24:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:27:28] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-115, 90] in dimension 0 (overworld) while populating chunk [-114, 91], causing cascading worldgen lag.
+[23:27:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:27:28] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -1824 | 1456 ], underground: false
