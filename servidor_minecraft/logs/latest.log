@@ -2238,3 +2238,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [22:42:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [22:44:57] [Server thread/INFO] [mca]: Villager death: Shelba. Caused by: Zombie. UUID: eea877b9-01fd-4da1-b1e4-6cb0cf8ea1ae
 [22:46:02] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[22:54:20] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bd063695-1d30-4cd2-adef-030db5a57c1e
+[22:54:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: p3droz moved too quickly! -371.39704602168985,31.5,1612.934320791751
+[22:54:32] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [10, 20] in dimension -1 (the_nether) while populating chunk [10, 21], causing cascading worldgen lag.
+[22:54:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:54:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft has made the advancement [A Terrible Fortress]
+[22:55:19] [Server thread/INFO] [FML]: Unloading dimension -1
