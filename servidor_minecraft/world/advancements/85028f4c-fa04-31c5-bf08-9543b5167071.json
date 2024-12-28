@@ -1019,6 +1019,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-28 05:27:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-26 07:05:10 +0000"
@@ -1046,6 +1052,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-26 08:26:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-28 05:27:35 +0000"
     },
     "done": true
   },
@@ -1355,6 +1367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2024-12-28 05:27:09 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/lantern_magic": {
     "criteria": {
       "has_gold": "2024-12-26 22:44:16 +0000"
@@ -1388,6 +1406,12 @@
   "minecraft:recipes/building_blocks/spruce_wooden_slab": {
     "criteria": {
       "has_planks": "2024-12-27 06:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-28 05:27:35 +0000"
     },
     "done": true
   },
@@ -1582,6 +1606,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-12-28 05:27:35 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_strange_scroll": {
     "criteria": {
       "has_ingredient": "2024-12-26 07:12:47 +0000"
@@ -1651,6 +1681,12 @@
   "dungeontactics:recipes/weapons/iron_weapons": {
     "criteria": {
       "has_item": "2024-12-26 07:04:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-28 05:27:35 +0000"
     },
     "done": true
   },
