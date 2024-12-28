@@ -908,6 +908,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/misc/rings": {
+    "criteria": {
+      "has_iron": "2024-12-28 21:00:39 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/first_grave": {
     "criteria": {
       "coded_trigger": "2024-12-26 07:19:15 +0000"
@@ -1335,6 +1341,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-28 21:05:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2024-12-28 07:34:05 +0000"
@@ -1440,6 +1452,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2024-12-27 20:23:32 +0000",
+      "swampland": "2024-12-28 21:03:14 +0000",
       "birch_forest": "2024-12-28 20:53:36 +0000",
       "deep_ocean": "2024-12-27 20:19:37 +0000",
       "beaches": "2024-12-26 07:12:05 +0000",
@@ -1450,7 +1463,8 @@
       "savanna_rock": "2024-12-26 07:11:44 +0000",
       "ocean": "2024-12-26 07:18:59 +0000",
       "river": "2024-12-26 07:12:21 +0000",
-      "desert": "2024-12-27 20:33:54 +0000"
+      "desert": "2024-12-27 20:33:54 +0000",
+      "stone_beach": "2024-12-28 21:04:05 +0000"
     },
     "done": false
   },
@@ -1463,6 +1477,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-27 20:52:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-28 21:00:36 +0000"
     },
     "done": true
   },
