@@ -1437,6 +1437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2024-12-28 21:23:05 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/traps/trap_plate": {
     "criteria": {
       "has_item": "2024-12-27 19:58:19 +0000"
@@ -1603,6 +1609,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-27 20:52:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2024-12-28 21:24:53 +0000"
     },
     "done": true
   },
