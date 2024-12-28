@@ -941,7 +941,9 @@
       "husk": "2024-12-28 05:19:03 +0000",
       "cave_spider": "2024-12-26 07:55:13 +0000",
       "zombie": "2024-12-26 07:10:37 +0000",
+      "silverfish": "2024-12-28 06:45:00 +0000",
       "witch": "2024-12-27 20:50:54 +0000",
+      "guardian": "2024-12-28 06:46:19 +0000",
       "spider": "2024-12-27 05:57:08 +0000",
       "creeper": "2024-12-27 05:57:10 +0000",
       "enderman": "2024-12-28 06:32:07 +0000"
@@ -1026,6 +1028,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-12-28 06:46:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-26 07:05:10 +0000"
@@ -1047,6 +1055,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-26 07:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-28 06:45:14 +0000"
     },
     "done": true
   },
@@ -1095,6 +1109,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-12-26 08:16:41 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/analyzer": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-28 06:43:20 +0000"
     },
     "done": true
   },
@@ -1155,6 +1175,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2024-12-26 07:05:26 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/tools/ducttape": {
+    "criteria": {
+      "has_recipe": "2024-12-28 06:45:14 +0000"
     },
     "done": true
   },
@@ -1437,7 +1463,8 @@
   "dungeontactics:dungeoneering/born_survivor": {
     "criteria": {
       "stab": "2024-12-26 06:58:34 +0000",
-      "cherrybomb": "2024-12-26 07:04:27 +0000"
+      "cherrybomb": "2024-12-26 07:04:27 +0000",
+      "heart": "2024-12-28 06:46:22 +0000"
     },
     "done": false
   },
