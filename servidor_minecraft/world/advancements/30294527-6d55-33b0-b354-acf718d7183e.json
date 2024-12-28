@@ -1440,6 +1440,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2024-12-27 20:23:32 +0000",
+      "birch_forest": "2024-12-28 20:53:36 +0000",
       "deep_ocean": "2024-12-27 20:19:37 +0000",
       "beaches": "2024-12-26 07:12:05 +0000",
       "desert_hills": "2024-12-27 20:34:12 +0000",
