@@ -978,6 +978,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "stray": "2024-12-28 00:17:57 +0000",
       "wither_skeleton": "2024-12-27 23:35:15 +0000",
       "skeleton": "2024-12-26 07:14:54 +0000",
       "husk": "2024-12-26 08:40:01 +0000",

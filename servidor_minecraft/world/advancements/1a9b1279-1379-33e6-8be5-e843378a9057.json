@@ -498,6 +498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-28 05:03:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 06:46:09 +0000"
@@ -1065,6 +1071,12 @@
   "inventorypets:inventorypets/loot": {
     "criteria": {
       "crafting_table": "2024-12-26 22:15:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2024-12-28 05:03:52 +0000"
     },
     "done": true
   },
