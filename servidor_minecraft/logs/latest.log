@@ -1057,3 +1057,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [05:06:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [05:06:06] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-20, 4] in dimension -1 (the_nether) while populating chunk [-19, 5], causing cascading worldgen lag.
 [05:06:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:06:59] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bd063695-1d30-4cd2-adef-030db5a57c1e
+[05:07:02] [Server thread/INFO] [FML]: Unloading dimension -1
+[05:07:02] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2175ms behind, skipping 43 tick(s)
