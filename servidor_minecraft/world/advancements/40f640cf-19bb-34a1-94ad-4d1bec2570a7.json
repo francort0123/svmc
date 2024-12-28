@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-28 07:18:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-26 08:29:55 +0000"
@@ -369,6 +375,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-26 08:00:49 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/traps/fan_block": {
+    "criteria": {
+      "has_item": "2024-12-28 07:18:33 +0000"
     },
     "done": true
   },
@@ -754,6 +766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-28 07:26:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-26 07:09:36 +0000"
@@ -997,6 +1015,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-28 07:27:12 +0000"
+    },
+    "done": true
+  },
   "advancedrocketry:normal/root": {
     "criteria": {
       "crafting_table": "2024-12-26 07:03:23 +0000"
@@ -1018,6 +1042,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-26 07:19:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-12-28 07:27:12 +0000"
     },
     "done": true
   },
@@ -1165,6 +1195,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/tools/engineers_wrench": {
+    "criteria": {
+      "has_recipe": "2024-12-28 07:18:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_black_dye": "2024-12-26 07:28:17 +0000"
@@ -1246,6 +1282,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-26 07:09:36 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/traps/powered_fence": {
+    "criteria": {
+      "has_item": "2024-12-28 07:18:33 +0000"
     },
     "done": true
   },
@@ -1411,6 +1453,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/tools/bagofhoarding": {
+    "criteria": {
+      "has_recipe": "2024-12-28 07:27:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-26 07:43:02 +0000"
@@ -1571,9 +1619,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "forest": "2024-12-28 07:17:02 +0000",
       "deep_ocean": "2024-12-26 07:29:32 +0000",
       "beaches": "2024-12-26 07:02:35 +0000",
       "desert_hills": "2024-12-26 08:35:42 +0000",
+      "forest_hills": "2024-12-28 07:16:36 +0000",
       "savanna": "2024-12-26 07:02:45 +0000",
       "plains": "2024-12-26 08:40:39 +0000",
       "savanna_rock": "2024-12-26 06:52:30 +0000",

@@ -1125,3 +1125,187 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [06:54:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bd5f0abf-001e-4e5e-a0a0-e17e6c111227
 [06:54:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID d70af12c-099a-40b9-9ab7-e4d28d7b13c2
 [06:54:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.coelacanth that already exists with UUID 896988e6-bdc4-4e86-8b61-a477a0cbfcdc
+[06:58:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <p3droz> putoo
+[07:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[07:00:14] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.sturgeon that already exists with UUID e7c4ce50-5fa5-4147-a436-3aad54b60c06
+[07:00:41] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.sturgeon that already exists with UUID e7c4ce50-5fa5-4147-a436-3aad54b60c06
+[07:00:46] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bf2e7ede-357f-4df8-a22a-dde0f6a02e12
+[07:05:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz has made the advancement [Dragonslayer]
+[07:06:50] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [20, 61] in dimension 0 (overworld) while populating chunk [20, 62], causing cascading worldgen lag.
+[07:06:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:09:32] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [15, 56] in dimension 0 (overworld) while populating chunk [16, 56], causing cascading worldgen lag.
+[07:09:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:09:33] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [24, 55] in dimension 0 (overworld) while populating chunk [25, 56], causing cascading worldgen lag.
+[07:09:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:09:33] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SandStone spawned at [ 400 | 896 ], underground: false
+[07:09:38] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [29, 60] in dimension 0 (overworld) while populating chunk [28, 60], causing cascading worldgen lag.
+[07:09:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:09:38] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [28, 59] in dimension 0 (overworld) while populating chunk [28, 60], causing cascading worldgen lag.
+[07:09:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:09:38] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [28, 58] in dimension 0 (overworld) while populating chunk [28, 60], causing cascading worldgen lag.
+[07:09:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:09:38] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [29, 59] in dimension 0 (overworld) while populating chunk [28, 60], causing cascading worldgen lag.
+[07:09:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:10:03] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 560 | 1200 ], underground: false
+[07:10:20] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 576 | 992 ], underground: true
+[07:11:13] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[07:11:13] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 66 mods : mclib@2.4.2,dungeonsmod@@VERSION@,dungeontactics@DT-0.16.7,mca@6.1.0,creativecoredummy@1.0.0,bountifulbaubles@0.0.1,openmods@0.12.2,deconstruction@3.0.4,jei@4.15.0.293,chunkpregenerator@4.4.9,radixcore@1.12.x-2.2.1,betternether@0.1.8.6,ivtoolkit@1.3.3-1.12,dailies@1.12.2-6,bettercaves@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,hammercore@12.2.56,journeymap@1.12.2-5.7.1p2,artifacts@1.12.2-1.2.3,bookshelf@2.3.590,llibrary@1.7.20,uteamcore@2.2.5.255,progressivebosses@1.5.4,fossil@8.0.5,iceandfire@1.9.1,waila@1.8.26,inventorypets@2.0.15,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,carryon@1.12.3,emoticons@1.1.2,paraglider@1.0.1.5,forge@14.23.5.2860,ruins@17.2,bloodmagic@1.12.2-2.4.3-105,eplus@5.0.176,openblocks@1.8.1,hardcore_battle_towers_av_av@2.0.1,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,usefulbackpacks@1.5.3.59,dungeons@2.0,silentlib@3.0.13,baubles@1.5.2,openmodscore@0.12.2,creativecore@1.10.0,advancedrocketry@1.12.2-2.0.0-17,battletowers@1.6.5,futureminecraf@1.3.1,improvableskills@12.4.68,roguelike@1.8.0,mantle@1.12-1.3.3.55,gb@1.1.206,securitycraft@v1.9.4,FML@8.0.99.99,tombstone@3.7.3,libvulpes@0.4.2.-25,cfm@6.3.0,tinkersjei@1.2,oreshrubs@1.4.4,scalinghealth@1.3.37,playerrevive@1.0,movillages@1.5.4,carbonconfig@1.2.1
+[07:11:13] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[07:11:13] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [quickteleports] at CLIENT
+[07:11:16] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[07:11:16] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ElRamiACuadros[/127.201.54.134:51719] logged in with entity id 165732 at (114.12363250742415, 13.0, 52.75741381082075)
+[07:11:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElRamiACuadros joined the game
+[07:11:16] [Server thread/INFO] [Waila]: Player EntityPlayerMP['ElRamiACuadros'/165732, l='world', x=114.12, y=13.00, z=52.76] connected. Sending ping
+[07:11:16] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player ElRamiACuadros
+[07:11:16] [Thread-414/INFO] [STDOUT]: [net.torocraft.dailies.network.QuestInventoryFetcher:buildRequest:42]: DAILIES REQUEST modVersion = 1.12.2-6
+[07:11:16] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.coelacanth that already exists with UUID 3d57dc1d-9403-4f28-96c9-656614d601fe
+[07:11:45] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[07:11:45] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[07:11:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz is bleeding...
+[07:11:54] [Server thread/INFO] [tombstone]: The death event of the player p3droz was cancelled by another mod
+[07:12:13] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/svmc/servidor_minecraft/./world/data/inventory-p3droz-2024-12-28_07.12.13-death-0.dat. It can be restored with command '/ob_inventory restore p3droz p3droz-2024-12-28_07.12.13-death-0'
+[07:12:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz was slain by Andrew Skywalker
+[07:12:13] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['p3droz'/82791, l='world', x=438.05, y=70.00, z=1134.68]' cancelled, grave will not be spawned'
+[07:12:13] [Server thread/INFO] [tombstone]: The last known grave of p3droz is at location [name:Last Grave, x:438, y:70, z:1134] in the dimension 0
+[07:12:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bd5f0abf-001e-4e5e-a0a0-e17e6c111227
+[07:12:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID d70af12c-099a-40b9-9ab7-e4d28d7b13c2
+[07:12:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID c74d10ab-9f07-40d6-a29e-a51178338991
+[07:12:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.coelacanth that already exists with UUID 896988e6-bdc4-4e86-8b61-a477a0cbfcdc
+[07:12:24] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[07:12:24] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 66 mods : mclib@2.4.2,dungeonsmod@@VERSION@,dungeontactics@DT-0.16.7,mca@6.1.0,creativecoredummy@1.0.0,bountifulbaubles@0.0.1,openmods@0.12.2,deconstruction@3.0.4,jei@4.15.0.293,chunkpregenerator@4.4.9,radixcore@1.12.x-2.2.1,betternether@0.1.8.6,ivtoolkit@1.3.3-1.12,dailies@1.12.2-6,bettercaves@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,hammercore@12.2.56,journeymap@1.12.2-5.7.1p2,artifacts@1.12.2-1.2.3,bookshelf@2.3.590,llibrary@1.7.20,uteamcore@2.2.5.255,progressivebosses@1.5.4,fossil@8.0.5,iceandfire@1.9.1,waila@1.8.26,inventorypets@2.0.15,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,carryon@1.12.3,emoticons@1.1.2,paraglider@1.0.1.5,forge@14.23.5.2860,ruins@17.2,bloodmagic@1.12.2-2.4.3-105,eplus@5.0.176,openblocks@1.8.1,hardcore_battle_towers_av_av@2.0.1,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,usefulbackpacks@1.5.3.59,dungeons@2.0,silentlib@3.0.13,baubles@1.5.2,openmodscore@0.12.2,creativecore@1.10.0,advancedrocketry@1.12.2-2.0.0-17,battletowers@1.6.5,futureminecraf@1.3.1,improvableskills@12.4.68,roguelike@1.8.0,mantle@1.12-1.3.3.55,gb@1.1.206,securitycraft@v1.9.4,FML@8.0.99.99,tombstone@3.7.3,libvulpes@0.4.2.-25,cfm@6.3.0,tinkersjei@1.2,oreshrubs@1.4.4,scalinghealth@1.3.37,playerrevive@1.0,movillages@1.5.4,carbonconfig@1.2.1
+[07:12:24] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[07:12:24] [Netty Epoll Server IO #0/INFO] [FML]: Attempting connection with missing mods [quickteleports] at CLIENT
+[07:12:27] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[07:12:27] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: baltacraft[/127.122.14.94:57409] logged in with entity id 210947 at (-552.372944324545, 70.0, 1766.9750578156286)
+[07:12:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft joined the game
+[07:12:27] [Server thread/INFO] [Waila]: Player EntityPlayerMP['baltacraft'/210947, l='world', x=-552.37, y=70.00, z=1766.98] connected. Sending ping
+[07:12:27] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player baltacraft
+[07:12:27] [Thread-419/INFO] [STDOUT]: [net.torocraft.dailies.network.QuestInventoryFetcher:buildRequest:42]: DAILIES REQUEST modVersion = 1.12.2-6
+[07:12:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <baltacraft> omar?
+[07:12:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <baltacraft> pedro?
+[07:15:16] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 086828eb-030d-47b8-9b8b-a249405ac866
+[07:15:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 7d60645c-8849-472a-8345-5c5ccfbeb3c5
+[07:15:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID acfdb291-f774-40e4-9283-6df13ef899ca
+[07:15:21] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [33, 82] in dimension 0 (overworld) while populating chunk [33, 81], causing cascading worldgen lag.
+[07:15:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:15:21] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[07:15:21] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
+[07:15:21] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[07:15:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 7088eba6-2c40-42d8-ac8c-e740ea42a576
+[07:15:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID d7fc7bb7-5255-4df5-8140-8ae0b2042d64
+[07:15:31] [Server thread/INFO] [mca]: Villager death: Margurite. Caused by: baltacraft. UUID: 6b588238-973d-4ab7-bfa2-f5408d3fe9ff
+[07:15:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz is bleeding...
+[07:15:48] [Server thread/INFO] [tombstone]: The death event of the player p3droz was cancelled by another mod
+[07:15:51] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/svmc/servidor_minecraft/./world/data/inventory-p3droz-2024-12-28_07.15.51-death-0.dat. It can be restored with command '/ob_inventory restore p3droz p3droz-2024-12-28_07.15.51-death-0'
+[07:15:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz was slain by Andrew Skywalker
+[07:15:51] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['p3droz'/82791, l='world', x=439.28, y=69.00, z=1147.28]' cancelled, grave will not be spawned'
+[07:15:51] [Server thread/INFO] [tombstone]: The last known grave of p3droz is at location [name:Last Grave, x:439, y:69, z:1147] in the dimension 0
+[07:15:53] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bd5f0abf-001e-4e5e-a0a0-e17e6c111227
+[07:15:53] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID d70af12c-099a-40b9-9ab7-e4d28d7b13c2
+[07:15:53] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID c74d10ab-9f07-40d6-a29e-a51178338991
+[07:15:53] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.coelacanth that already exists with UUID 896988e6-bdc4-4e86-8b61-a477a0cbfcdc
+[07:16:47] [Server thread/INFO] [mca]: Villager death: Catherin. Caused by: baltacraft. UUID: cb688b3e-9395-4a15-b45f-8cb532341da1
+[07:18:27] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[07:18:29] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2013ms behind, skipping 40 tick(s)
+[07:19:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz is bleeding...
+[07:19:43] [Server thread/INFO] [tombstone]: The death event of the player p3droz was cancelled by another mod
+[07:19:45] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/svmc/servidor_minecraft/./world/data/inventory-p3droz-2024-12-28_07.19.45-death-0.dat. It can be restored with command '/ob_inventory restore p3droz p3droz-2024-12-28_07.19.45-death-0'
+[07:19:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz was slain by Andrew Skywalker
+[07:19:45] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['p3droz'/82791, l='world', x=406.91, y=75.00, z=1138.66]' cancelled, grave will not be spawned'
+[07:19:45] [Server thread/INFO] [tombstone]: The last known grave of p3droz is at location [name:Last Grave, x:406, y:75, z:1138] in the dimension 0
+[07:20:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[07:20:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz has made the advancement [Not Even Double-Sided]
+[07:20:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz has made the advancement [Knowledge of Death]
+[07:20:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz has reached the goal [Here They Come]
+[07:22:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: p3droz lost connection: Disconnected
+[07:22:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz left the game
+[07:24:03] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[07:24:03] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 65 mods : mclib@2.4.2,dungeonsmod@@VERSION@,dungeontactics@DT-0.16.7,mca@6.1.0,creativecoredummy@1.0.0,bountifulbaubles@0.0.1,openmods@0.12.2,deconstruction@3.0.4,jei@4.15.0.293,chunkpregenerator@4.4.9,radixcore@1.12.x-2.2.1,betternether@0.1.8.6,ivtoolkit@1.3.3-1.12,dailies@1.12.2-6,bettercaves@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,hammercore@12.2.56,journeymap@1.12.2-5.7.1p2,artifacts@1.12.2-1.2.3,bookshelf@2.3.590,llibrary@1.7.20,uteamcore@2.2.5.255,progressivebosses@1.5.4,fossil@8.0.5,iceandfire@1.9.1,waila@1.8.26,inventorypets@2.0.15,guideapi@1.12-2.1.8-63,carryon@1.12.3,emoticons@1.1.2,paraglider@1.0.1.5,forge@14.23.5.2860,ruins@17.2,bloodmagic@1.12.2-2.4.3-105,eplus@5.0.176,openblocks@1.8.1,hardcore_battle_towers_av_av@2.0.1,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,usefulbackpacks@1.5.3.59,dungeons@2.0,silentlib@3.0.13,baubles@1.5.2,openmodscore@0.12.2,creativecore@1.10.0,advancedrocketry@1.12.2-2.0.0-17,battletowers@1.6.5,futureminecraf@1.3.1,improvableskills@12.4.68,roguelike@1.8.0,mantle@1.12-1.3.3.55,gb@1.1.206,securitycraft@v1.9.4,FML@8.0.99.99,tombstone@3.7.3,libvulpes@0.4.2.-25,cfm@6.3.0,tinkersjei@1.2,oreshrubs@1.4.4,scalinghealth@1.3.37,playerrevive@1.0,movillages@1.5.4,carbonconfig@1.2.1
+[07:24:03] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[07:24:03] [Netty Epoll Server IO #0/INFO] [FML]: Attempting connection with missing mods [quickteleports] at CLIENT
+[07:24:06] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[07:24:06] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: p3droz[/127.186.154.81:35153] logged in with entity id 425812 at (432.7573537785386, 81.0, 1106.7422087173966)
+[07:24:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz joined the game
+[07:24:06] [Server thread/INFO] [Waila]: Player EntityPlayerMP['p3droz'/425812, l='world', x=432.76, y=81.00, z=1106.74] connected. Sending ping
+[07:24:06] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player p3droz
+[07:24:06] [Thread-452/INFO] [STDOUT]: [net.torocraft.dailies.network.QuestInventoryFetcher:buildRequest:42]: DAILIES REQUEST modVersion = 1.12.2-6
+[07:24:55] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-61, 9] in dimension 0 (overworld) while populating chunk [-60, 10], causing cascading worldgen lag.
+[07:24:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:24:55] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -960 | 160 ], underground: false
+[07:25:34] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [34, 56] in dimension 0 (overworld) while populating chunk [35, 56], causing cascading worldgen lag.
+[07:25:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:25:34] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [38, 55] in dimension 0 (overworld) while populating chunk [38, 56], causing cascading worldgen lag.
+[07:25:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:25:34] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [37, 55] in dimension 0 (overworld) while populating chunk [38, 56], causing cascading worldgen lag.
+[07:25:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:25:34] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [36, 55] in dimension 0 (overworld) while populating chunk [38, 56], causing cascading worldgen lag.
+[07:25:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:25:42] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [25, 54] in dimension 0 (overworld) while populating chunk [26, 54], causing cascading worldgen lag.
+[07:25:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:25:46] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[07:25:46] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[07:25:50] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [29, 52] in dimension 0 (overworld) while populating chunk [30, 52], causing cascading worldgen lag.
+[07:25:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:25:53] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [28, 51] in dimension 0 (overworld) while populating chunk [29, 51], causing cascading worldgen lag.
+[07:25:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:25:53] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [22, 51] in dimension 0 (overworld) while populating chunk [23, 51], causing cascading worldgen lag.
+[07:25:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:25:53] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [22, 50] in dimension 0 (overworld) while populating chunk [23, 51], causing cascading worldgen lag.
+[07:25:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:25:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID 5e48a055-e7e0-4702-b1ec-04970358633c
+[07:25:56] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [39, 49] in dimension 0 (overworld) while populating chunk [39, 50], causing cascading worldgen lag.
+[07:25:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:27:37] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [37, 48] in dimension 0 (overworld) while populating chunk [38, 49], causing cascading worldgen lag.
+[07:27:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:27:37] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [36, 48] in dimension 0 (overworld) while populating chunk [38, 49], causing cascading worldgen lag.
+[07:27:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:27:38] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [40, 48] in dimension 0 (overworld) while populating chunk [41, 49], causing cascading worldgen lag.
+[07:27:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:27:38] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SandStone spawned at [ 656 | 784 ], underground: true
+[07:27:38] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [41, 48] in dimension 0 (overworld) while populating chunk [41, 49], causing cascading worldgen lag.
+[07:27:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:27:44] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [24, 48] in dimension 0 (overworld) while populating chunk [23, 48], causing cascading worldgen lag.
+[07:27:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:27:45] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [42, 47] in dimension 0 (overworld) while populating chunk [42, 48], causing cascading worldgen lag.
+[07:27:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:27:45] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [41, 47] in dimension 0 (overworld) while populating chunk [42, 47], causing cascading worldgen lag.
+[07:27:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:27:58] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [28, 43] in dimension 0 (overworld) while populating chunk [28, 44], causing cascading worldgen lag.
+[07:27:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:27:58] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [27, 44] in dimension 0 (overworld) while populating chunk [28, 44], causing cascading worldgen lag.
+[07:27:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:27:58] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [27, 43] in dimension 0 (overworld) while populating chunk [28, 44], causing cascading worldgen lag.
+[07:27:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:28:01] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [30, 42] in dimension 0 (overworld) while populating chunk [30, 43], causing cascading worldgen lag.
+[07:28:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:28:01] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [29, 42] in dimension 0 (overworld) while populating chunk [30, 43], causing cascading worldgen lag.
+[07:28:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:28:03] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [25, 41] in dimension 0 (overworld) while populating chunk [26, 42], causing cascading worldgen lag.
+[07:28:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:28:03] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [27, 41] in dimension 0 (overworld) while populating chunk [28, 42], causing cascading worldgen lag.
+[07:28:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:28:03] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [26, 41] in dimension 0 (overworld) while populating chunk [28, 42], causing cascading worldgen lag.
+[07:28:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:28:03] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SmoothStone spawned at [ 448 | 672 ], underground: false
+[07:28:10] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [40, 39] in dimension 0 (overworld) while populating chunk [40, 40], causing cascading worldgen lag.
+[07:28:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:28:10] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [29, 37] in dimension 0 (overworld) while populating chunk [30, 38], causing cascading worldgen lag.
+[07:28:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:28:15] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [33, 38] in dimension 0 (overworld) while populating chunk [34, 38], causing cascading worldgen lag.
+[07:28:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:28:15] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [33, 37] in dimension 0 (overworld) while populating chunk [34, 38], causing cascading worldgen lag.
+[07:28:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:28:15] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[07:28:16] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [44, 44] in dimension 0 (overworld) while populating chunk [44, 45], causing cascading worldgen lag.
+[07:28:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:28:21] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [33, 36] in dimension 0 (overworld) while populating chunk [34, 36], causing cascading worldgen lag.
+[07:28:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:28:21] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[07:28:24] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [39, 35] in dimension 0 (overworld) while populating chunk [38, 35], causing cascading worldgen lag.
+[07:28:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:28:24] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [39, 34] in dimension 0 (overworld) while populating chunk [38, 35], causing cascading worldgen lag.
+[07:28:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:28:24] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [40, 34] in dimension 0 (overworld) while populating chunk [41, 35], causing cascading worldgen lag.
+[07:28:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:28:27] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [43, 33] in dimension 0 (overworld) while populating chunk [44, 34], causing cascading worldgen lag.
+[07:28:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
