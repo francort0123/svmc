@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/traps/witherweb": {
+    "criteria": {
+      "has_item": "2024-12-28 08:30:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-26 07:09:36 +0000"
@@ -372,6 +378,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-28 08:20:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-26 08:00:49 +0000"
@@ -458,6 +470,7 @@
       "apple": "2024-12-26 07:25:11 +0000",
       "melon": "2024-12-26 07:16:54 +0000",
       "bread": "2024-12-26 07:09:48 +0000",
+      "golden_apple": "2024-12-28 08:45:25 +0000",
       "raw_cod": "2024-12-26 07:26:26 +0000",
       "golden_carrot": "2024-12-26 08:02:15 +0000",
       "cooked_chicken": "2024-12-26 07:26:33 +0000",
@@ -514,6 +527,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-28 08:36:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 07:35:07 +0000"
@@ -565,6 +584,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-26 07:43:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "fire_sword": "2024-12-28 09:07:32 +0000"
     },
     "done": true
   },
@@ -694,6 +719,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-28 08:24:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 07:35:07 +0000"
@@ -703,6 +734,12 @@
   "dungeontactics:recipes/armour/iron_plate_armour": {
     "criteria": {
       "has_item": "2024-12-26 07:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2024-12-28 09:35:00 +0000"
     },
     "done": true
   },
@@ -766,6 +803,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-28 08:20:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-28 07:26:46 +0000"
@@ -799,6 +842,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2024-12-26 08:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-28 08:56:34 +0000"
     },
     "done": true
   },
@@ -934,6 +983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-28 08:45:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2024-12-26 07:28:12 +0000"
@@ -1004,6 +1059,7 @@
       "cave_spider": "2024-12-26 07:27:26 +0000",
       "silverfish": "2024-12-26 07:20:46 +0000",
       "zombie": "2024-12-26 07:14:35 +0000",
+      "witch": "2024-12-28 09:23:22 +0000",
       "spider": "2024-12-26 08:01:59 +0000",
       "creeper": "2024-12-28 00:05:19 +0000"
     },
@@ -1087,6 +1143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2024-12-28 09:26:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-26 07:09:36 +0000"
@@ -1114,6 +1176,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-26 07:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-28 09:17:24 +0000"
     },
     "done": true
   },
@@ -1225,6 +1293,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/tools/ducttape": {
+    "criteria": {
+      "has_anvil": "2024-12-28 08:48:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-26 07:26:46 +0000"
@@ -1306,6 +1380,18 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2024-12-26 07:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-28 08:45:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-28 09:21:17 +0000"
     },
     "done": true
   },
@@ -1423,6 +1509,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-28 08:45:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-26 07:27:47 +0000"
@@ -1474,6 +1566,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-26 07:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-28 09:21:17 +0000"
     },
     "done": true
   },
@@ -1622,12 +1720,15 @@
       "forest": "2024-12-28 07:17:02 +0000",
       "deep_ocean": "2024-12-26 07:29:32 +0000",
       "beaches": "2024-12-26 07:02:35 +0000",
+      "extreme_hills_with_trees": "2024-12-28 08:57:19 +0000",
       "desert_hills": "2024-12-26 08:35:42 +0000",
       "forest_hills": "2024-12-28 07:16:36 +0000",
       "savanna": "2024-12-26 07:02:45 +0000",
       "plains": "2024-12-26 08:40:39 +0000",
       "savanna_rock": "2024-12-26 06:52:30 +0000",
       "ocean": "2024-12-26 07:11:07 +0000",
+      "extreme_hills": "2024-12-28 08:56:52 +0000",
+      "roofed_forest": "2024-12-28 08:57:25 +0000",
       "river": "2024-12-26 07:02:41 +0000",
       "desert": "2024-12-26 08:32:24 +0000"
     },
@@ -1690,6 +1791,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-26 07:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-28 09:21:17 +0000"
     },
     "done": true
   },
@@ -1771,6 +1878,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-28 08:22:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-12-26 07:19:32 +0000"
@@ -1807,9 +1920,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2024-12-28 09:35:00 +0000"
+    },
+    "done": true
+  },
   "fossil:fossil/break_fossil": {
     "criteria": {
       "biofossil": "2024-12-26 07:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2024-12-28 09:21:17 +0000"
     },
     "done": true
   },
@@ -1858,6 +1983,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-26 07:09:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "sword": "2024-12-28 09:07:21 +0000"
     },
     "done": true
   },

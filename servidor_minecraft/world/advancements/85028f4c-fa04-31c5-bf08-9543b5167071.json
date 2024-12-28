@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pillar_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-12-28 09:03:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 07:04:32 +0000"
@@ -403,11 +409,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-12-28 08:43:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-27 06:20:19 +0000",
       "cooked_mutton": "2024-12-26 07:25:02 +0000",
       "cooked_beef": "2024-12-26 07:08:55 +0000",
+      "beef": "2024-12-28 08:33:43 +0000",
+      "baked_potato": "2024-12-28 08:31:27 +0000",
       "apple": "2024-12-26 07:13:09 +0000",
       "cooked_cod": "2024-12-26 08:15:23 +0000",
       "melon": "2024-12-26 07:54:30 +0000",
@@ -418,6 +432,7 @@
       "rotten_flesh": "2024-12-28 07:13:08 +0000",
       "raw_cod": "2024-12-26 07:37:58 +0000",
       "beetroot": "2024-12-27 05:57:02 +0000",
+      "cooked_chicken": "2024-12-28 09:25:27 +0000",
       "enchanted_golden_apple": "2024-12-26 08:43:11 +0000",
       "carrot": "2024-12-26 07:06:40 +0000"
     },
@@ -444,6 +459,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-26 07:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-28 09:03:28 +0000"
     },
     "done": true
   },
@@ -567,6 +588,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-12-28 08:43:33 +0000"
+    },
+    "done": true
+  },
   "inventorypets:inventorypets/root": {
     "criteria": {
       "auto": "2024-12-26 06:58:34 +0000"
@@ -582,6 +609,12 @@
   "dungeontactics:recipes/misc/obsidianbrick": {
     "criteria": {
       "has_item": "2024-12-26 08:20:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-28 08:43:33 +0000"
     },
     "done": true
   },
@@ -790,6 +823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2024-12-28 09:03:37 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/create_magic_scroll": {
     "criteria": {
       "has_ingredient": "2024-12-27 20:52:10 +0000"
@@ -940,6 +979,7 @@
       "vindicator": "2024-12-27 06:37:50 +0000",
       "skeleton": "2024-12-26 07:11:10 +0000",
       "husk": "2024-12-28 05:19:03 +0000",
+      "blaze": "2024-12-28 08:33:25 +0000",
       "cave_spider": "2024-12-26 07:55:13 +0000",
       "zombie": "2024-12-26 07:10:37 +0000",
       "silverfish": "2024-12-28 06:45:00 +0000",
@@ -1005,6 +1045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-28 09:03:28 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/rings": {
     "criteria": {
       "has_gold": "2024-12-26 22:44:16 +0000"
@@ -1026,6 +1072,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2024-12-28 05:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2024-12-28 09:32:53 +0000"
     },
     "done": true
   },
@@ -1149,6 +1201,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-28 08:33:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2024-12-26 07:05:26 +0000"
@@ -1224,6 +1282,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-26 07:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2024-12-28 09:03:37 +0000"
     },
     "done": true
   },
@@ -1401,6 +1465,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-12-28 09:03:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_log": "2024-12-28 05:27:09 +0000"
@@ -1428,6 +1498,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-26 07:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-28 09:03:28 +0000"
     },
     "done": true
   },
@@ -1529,6 +1605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-28 08:33:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2024-12-26 07:12:38 +0000"
@@ -1589,6 +1671,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-28 08:33:25 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/lantern_iron": {
     "criteria": {
       "has_iron": "2024-12-26 07:04:32 +0000"
@@ -1616,16 +1704,20 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2024-12-26 22:31:26 +0000",
+      "swampland": "2024-12-28 08:54:16 +0000",
       "deep_ocean": "2024-12-26 08:24:27 +0000",
       "beaches": "2024-12-26 06:58:34 +0000",
+      "extreme_hills_with_trees": "2024-12-28 08:54:56 +0000",
       "desert_hills": "2024-12-26 22:25:49 +0000",
       "forest_hills": "2024-12-26 22:14:55 +0000",
       "savanna": "2024-12-26 07:00:35 +0000",
       "plains": "2024-12-26 07:05:00 +0000",
       "savanna_rock": "2024-12-26 06:58:51 +0000",
       "ocean": "2024-12-26 07:11:49 +0000",
+      "extreme_hills": "2024-12-28 08:44:44 +0000",
       "river": "2024-12-26 06:59:49 +0000",
-      "desert": "2024-12-26 22:25:35 +0000"
+      "desert": "2024-12-26 22:25:35 +0000",
+      "stone_beach": "2024-12-28 08:49:10 +0000"
     },
     "done": false
   },
@@ -1842,6 +1934,12 @@
   "cfm:root": {
     "criteria": {
       "tick": "2024-12-26 06:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-28 09:03:28 +0000"
     },
     "done": true
   },
