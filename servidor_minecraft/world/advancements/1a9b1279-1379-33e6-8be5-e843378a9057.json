@@ -930,6 +930,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/create_magic_scroll": {
+    "criteria": {
+      "has_ingredient": "2024-12-28 06:01:48 +0000"
+    },
+    "done": true
+  },
   "cfm:install": {
     "criteria": {
       "tick": "2024-12-26 06:42:54 +0000"

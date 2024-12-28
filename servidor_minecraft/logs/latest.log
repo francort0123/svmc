@@ -1085,3 +1085,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [05:23:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft fell from a high place
 [05:23:23] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['baltacraft'/9161, l='world', x=-130.10, y=70.00, z=440.14]' cancelled, grave will not be spawned'
 [05:23:23] [Server thread/INFO] [tombstone]: The last known grave of baltacraft is at location [name:Last Grave, x:-131, y:70, z:440] in the dimension 0
+[05:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[05:47:08] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 7088eba6-2c40-42d8-ac8c-e740ea42a576
+[05:47:08] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID d7fc7bb7-5255-4df5-8140-8ae0b2042d64
+[05:50:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 7088eba6-2c40-42d8-ac8c-e740ea42a576
+[05:50:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID d7fc7bb7-5255-4df5-8140-8ae0b2042d64
+[05:59:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [FraanG0D: Set the time to 1000]
+[06:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[06:01:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D has made the advancement [Magic Writing]
