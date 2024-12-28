@@ -2322,3 +2322,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [23:38:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ElRamiACuadros> djsajdjasdjasdjasdjasdjasjda
 [23:38:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [FraanG0D: Set the time to 1000]
 [23:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[23:40:16] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[23:40:16] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
