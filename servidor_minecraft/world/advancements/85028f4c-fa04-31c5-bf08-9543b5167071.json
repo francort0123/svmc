@@ -361,6 +361,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2024-12-28 22:37:09 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/convenience/string_from_wool": {
     "criteria": {
       "has_wool": "2024-12-26 07:05:26 +0000"
@@ -552,6 +558,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2024-12-28 22:37:09 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:dungeoneering/root": {
     "criteria": {
       "kill": "2024-12-26 07:05:26 +0000"
@@ -627,6 +639,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-26 07:47:59 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/tools/mortar\u0026pestle": {
+    "criteria": {
+      "has_flint": "2024-12-28 22:38:26 +0000"
     },
     "done": true
   },
@@ -856,6 +874,12 @@
   "dungeontactics:recipes/weapons/bombs": {
     "criteria": {
       "has_item": "2024-12-26 07:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2024-12-28 22:37:09 +0000"
     },
     "done": true
   },
@@ -1207,6 +1231,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2024-12-28 22:37:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2024-12-26 07:05:26 +0000"
@@ -1234,6 +1264,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2024-12-26 07:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2024-12-28 22:37:09 +0000"
     },
     "done": true
   },
@@ -1270,6 +1306,12 @@
   "tombstone:tutorial/find_grave_dust": {
     "criteria": {
       "has_grave_dust": "2024-12-26 07:32:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2024-12-28 22:37:09 +0000"
     },
     "done": true
   },
@@ -1698,6 +1740,12 @@
   "dungeontactics:recipes/traps/trap_plate": {
     "criteria": {
       "has_recipe": "2024-12-27 06:02:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_bonemeal": "2024-12-28 22:37:09 +0000"
     },
     "done": true
   },

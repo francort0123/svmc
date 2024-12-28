@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-28 22:35:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2024-12-28 00:04:28 +0000"
@@ -355,6 +361,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-28 22:35:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-12-27 19:37:11 +0000"
@@ -630,6 +642,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-28 22:35:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-26 07:21:52 +0000"
@@ -708,6 +726,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-12-27 20:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-28 22:35:35 +0000"
     },
     "done": true
   },
@@ -945,6 +969,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-28 22:39:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-28 21:33:47 +0000"
@@ -957,6 +987,7 @@
       "stray": "2024-12-27 21:23:31 +0000",
       "wither_skeleton": "2024-12-27 19:54:18 +0000",
       "zombie_villager": "2024-12-26 07:30:31 +0000",
+      "magma_cube": "2024-12-28 22:37:31 +0000",
       "skeleton": "2024-12-26 07:27:18 +0000",
       "husk": "2024-12-27 19:50:47 +0000",
       "blaze": "2024-12-27 23:38:01 +0000",
@@ -1431,6 +1462,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-28 22:39:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2024-12-28 07:34:04 +0000"
@@ -1654,6 +1691,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-28 22:35:35 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/traps/trap_plate": {
     "criteria": {
       "has_item": "2024-12-27 19:58:19 +0000"
@@ -1814,6 +1857,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2024-12-26 07:12:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-28 22:35:35 +0000"
     },
     "done": true
   },
