@@ -29585,3 +29585,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 
 [05:13:05] [Server thread/DEBUG] [FML]: The world 6ee18d2c (world) may have leaked: seen 55 times.
 
+[05:13:15] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
