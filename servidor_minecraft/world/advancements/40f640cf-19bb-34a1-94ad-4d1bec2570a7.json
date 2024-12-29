@@ -396,6 +396,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2024-12-29 00:20:52 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/convenience/string_from_wool": {
     "criteria": {
       "has_wool": "2024-12-26 07:19:32 +0000"
@@ -503,6 +509,12 @@
     },
     "done": true
   },
+  "fossil:fossil/dinopedia": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-29 00:16:39 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/tools/pistonglove": {
     "criteria": {
       "has_recipe": "2024-12-26 07:26:46 +0000"
@@ -599,6 +611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2024-12-29 00:20:52 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:dungeoneering/root": {
     "criteria": {
       "kill": "2024-12-26 07:10:36 +0000"
@@ -662,6 +680,12 @@
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_the_recipe": "2024-12-26 08:39:39 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/fossil_seed": {
+    "criteria": {
+      "fossil_fern_seed": "2024-12-29 00:20:52 +0000"
     },
     "done": true
   },
@@ -1233,6 +1257,12 @@
     },
     "done": true
   },
+  "fossil:fossil/analyzer": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-29 00:28:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-26 07:03:23 +0000"
@@ -1263,6 +1293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2024-12-29 00:30:35 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/tools/engineers_wrench": {
     "criteria": {
       "has_recipe": "2024-12-28 07:18:33 +0000"
@@ -1290,6 +1326,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2024-12-26 07:19:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2024-12-29 00:20:52 +0000"
     },
     "done": true
   },
@@ -1341,6 +1383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2024-12-29 00:20:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2024-12-26 07:37:53 +0000"
@@ -1356,6 +1404,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-26 07:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2024-12-29 00:35:37 +0000"
     },
     "done": true
   },
@@ -2016,9 +2070,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-29 00:37:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2024-12-26 08:28:47 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/worktable": {
+    "criteria": {
+      "worktable": "2024-12-29 00:20:07 +0000"
     },
     "done": true
   },
@@ -2085,6 +2151,12 @@
   "dungeontactics:recipes/weapons/diamond_weapons": {
     "criteria": {
       "has_item": "2024-12-26 07:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2024-12-29 00:37:02 +0000"
     },
     "done": true
   }
