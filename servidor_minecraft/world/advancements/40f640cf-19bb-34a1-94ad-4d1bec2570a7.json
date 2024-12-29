@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2024-12-29 05:06:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-12-27 23:45:38 +0000"
@@ -941,6 +947,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/create_magic_scroll": {
+    "criteria": {
+      "has_ingredient": "2024-12-29 05:10:33 +0000"
+    },
+    "done": true
+  },
   "cfm:install": {
     "criteria": {
       "tick": "2024-12-26 06:52:30 +0000"
@@ -1173,6 +1185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_the_recipe": "2024-12-29 05:08:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-26 07:09:36 +0000"
@@ -1344,6 +1362,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-26 07:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_lapis": "2024-12-29 05:08:17 +0000"
     },
     "done": true
   },
@@ -1866,6 +1890,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2024-12-29 05:08:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2024-12-26 07:02:41 +0000"
@@ -1953,6 +1983,12 @@
   "dungeontactics:dungeoneering/get_lootbag": {
     "criteria": {
       "quiver": "2024-12-26 07:15:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2024-12-29 05:08:17 +0000"
     },
     "done": true
   },
@@ -2115,6 +2151,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-26 07:35:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2024-12-29 05:06:45 +0000"
     },
     "done": true
   },
