@@ -1,120 +1,115 @@
-[06:02:40] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[06:02:40] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[06:02:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[06:02:40] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[06:02:40] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[06:02:40] [main/INFO] [FML]: Searching /workspaces/svmc/servidor_minecraft/./mods for mods
-[06:02:40] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [1.12.2]+SecurityCraft+v1.9.4.jar
-[06:02:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in AdvancedRocketry-1.12.2-2.0.0-17.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[06:02:40] [main/WARN] [FML]: The coremod AdvancedRocketryPlugin (zmaster587.advancedRocketry.asm.AdvancedRocketryPlugin) is not signed!
-[06:02:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CarbonConfig-1.12.2-1.2.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[06:02:40] [main/WARN] [FML]: The coremod carbonconfiglib.impl.internal.CarbonConfigHooks does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[06:02:40] [main/WARN] [FML]: The coremod CarbonConfigHooks (carbonconfiglib.impl.internal.CarbonConfigHooks) is not signed!
-[06:02:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Chunk-Pregenerator-1.12.2-4.4.9.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[06:02:40] [main/WARN] [FML]: The coremod pregenerator.base.hooks.PregenHooks does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[06:02:40] [main/WARN] [FML]: The coremod PregenHooks (pregenerator.base.hooks.PregenHooks) is not signed!
-[06:02:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.70_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[06:02:40] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[06:02:40] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
-[06:02:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in HammerLib-1.12.2-12.2.56.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[06:02:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in iceandfire-1.9.1-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[06:02:40] [main/WARN] [FML]: The coremod iceandfire (com.github.alexthe666.iceandfire.asm.IceAndFirePlugin) is not signed!
-[06:02:40] [main/WARN] [FML]: The coremod ivorius.ivtoolkit.IvToolkitLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[06:02:40] [main/WARN] [FML]: The coremod IvToolkit (ivorius.ivtoolkit.IvToolkitLoadingPlugin) is not signed!
-[06:02:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in mclib-2.4.2-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[06:02:40] [main/WARN] [FML]: The coremod McLib core mod (mchorse.mclib.core.McLibCM) is not signed!
-[06:02:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in OpenModsLib-1.12.2-0.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[06:02:40] [main/WARN] [FML]: The coremod openmods.core.OpenModsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[06:02:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Paraglider-1.12.2-1.0.1.5.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[06:02:40] [main/WARN] [FML]: The coremod ParagliderLoadingPlugin (com.tictim.paraglider.asm.ParagliderLoadingPlugin) is not signed!
-[06:02:40] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[06:02:40] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[06:02:40] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/svmc/servidor_minecraft/./mods/%5B1.12.2%5D+SecurityCraft+v1.9.4.jar Service=LaunchWrapper Env=SERVER
-[06:02:40] [main/WARN] [FML]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
-[06:02:40] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[06:02:40] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[06:02:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[06:02:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[06:02:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[06:02:42] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[06:02:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[06:02:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[06:02:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[06:02:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[06:02:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[06:02:43] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[06:02:43] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@b558294
-[06:02:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[06:02:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[06:02:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[06:02:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[06:02:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[06:02:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[06:02:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[06:02:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[06:02:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[06:02:43] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[06:02:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[06:02:43] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[06:02:44] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.world.World (amu)...
-[06:02:44] [main/INFO] [Hammer Core [ASM]]:   -Patching World
-[06:02:44] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'k', replaced nx.e()V with HC call.
-[06:02:44] [main/WARN] [LLibrary Core]: Failed to fetch hierarchy node for net.minecraft.util.text.TextComponentTranslation. This may cause patch issues
-[06:02:44] [main/WARN] [LLibrary Core]: Failed to fetch hierarchy node for net.minecraft.tileentity.CommandBlockBaseLogic. This may cause patch issues
-[06:02:44] [main/WARN] [LLibrary Core]: Failed to fetch hierarchy node for net.minecraft.item.ItemStack. This may cause patch issues
-[06:02:44] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.entity.EntityLivingBase (vp)...
-[06:02:44] [main/INFO] [Hammer Core [ASM]]:   -Patching EntityLivingBase
-[06:02:44] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'onItemUseFinish': added event call.
-[06:02:44] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[06:02:45] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.entity.item.EntityItem (acl)...
-[06:02:45] [main/INFO] [Hammer Core [ASM]]:   -Patching EntityItem
-[06:02:45] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'attackEntityFrom': added event call.
-[06:02:47] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.entity.EntityLivingBase (vp)...
-[06:02:47] [main/INFO] [Hammer Core [ASM]]:   -Patching EntityLivingBase
-[06:02:47] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'onItemUseFinish': added event call.
-[06:02:47] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.world.World (amu)...
-[06:02:47] [main/INFO] [Hammer Core [ASM]]:   -Patching World
-[06:02:47] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'k', replaced nx.e()V with HC call.
-[06:02:50] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.profiler.Profiler (rl)...
-[06:02:50] [main/INFO] [Hammer Core [ASM]]:   -Patched startSection!
-[06:02:50] [main/INFO] [Hammer Core [ASM]]:   -Patched endSection!
-[06:02:50] [main/INFO] [Hammer Core [ASM]]:   -Patched endStartSection!
-[06:02:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[06:02:50] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[06:02:50] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[06:02:50] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[06:02:50] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[06:02:50] [Server thread/INFO] [STDOUT]: [zmaster587.advancedRocketry.asm.ModContainer:<init>:23]: ********* CoreDummyContainer. OK
-[06:02:50] [Server thread/INFO] [FML]: Searching /workspaces/svmc/servidor_minecraft/./mods for mods
-[06:02:51] [Server thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.9.4
-[06:02:51] [Server thread/WARN] [FML]: Mod deconstruction is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.0.4
-[06:02:51] [Server thread/WARN] [FML]: Mod advancedrocketry is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-2.0.0-17
-[06:02:51] [Server thread/WARN] [FML]: Mod dailies is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-6
-[06:02:54] [Server thread/WARN] [FML]: Mod waystones is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.1.0
-[06:02:54] [Server thread/INFO] [FML]: Forge Mod Loader has identified 69 mods to load
-[06:02:54] [Server thread/INFO] [FML]: Found mod(s) [inventorypets] containing declared API package baubles.api (owned by Baubles) without associated API reference
-[06:02:54] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[06:02:54] [Server thread/WARN] [FML]: Mod advancedrocketrycore has been disabled through configuration
-[06:02:54] [Server thread/WARN] [FML]: Mod mclib_core has been disabled through configuration
-[06:02:54] [Server thread/WARN] [FML]: Missing English translation for movillages: assets/movillages/lang/en_us.lang
-[06:02:54] [Server thread/WARN] [FML]: Missing English translation for bettercaves: assets/bettercaves/lang/en_us.lang
-[06:02:54] [Server thread/WARN] [FML]: Missing English translation for clumps: assets/clumps/lang/en_us.lang
-[06:02:54] [Server thread/WARN] [FML]: Missing English translation for dailies: assets/dailies/lang/en_us.lang
-[06:02:54] [Server thread/WARN] [FML]: Missing English translation for mantle: assets/mantle/lang/en_us.lang
-[06:02:54] [Server thread/WARN] [FML]: Missing English translation for morpheus: assets/morpheus/lang/en_us.lang
-[06:02:54] [Server thread/WARN] [FML]: Missing English translation for quickteleports: assets/quickteleports/lang/en_us.lang
-[06:02:54] [Server thread/WARN] [FML]: Missing English translation for radixcore: assets/radixcore/lang/en_us.lang
-[06:02:54] [Server thread/WARN] [FML]: Missing English translation for roguelike: assets/roguelike/lang/en_us.lang
-[06:02:54] [Server thread/WARN] [FML]: Missing English translation for ruins: assets/ruins/lang/en_us.lang
-[06:02:55] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, ivtoolkit, openmodscore, securitycraft, movillages, deconstruction, advancedrocketry, artifacts, battletowers, baubles, bettercaves, betternether, bloodmagic, bookshelf, bountifulbaubles, carbonconfig, carryon, chunkpregenerator, clumps, creativecore, dailies, dungeonsmod, dungeontactics, emoticons, eplus, fossil, cfm, futureminecraf, gb, guideapi, hammercore, hardcore_battle_towers_av_av, waila, iceandfire, improvableskills, inventorypets, jei, journeymap, libvulpes, mantle, mca, mclib, morpheus, openblocks, openmods, oreshrubs, paraglider, playerrevive, progressivebosses, quickteleports, radixcore, roguelike, ruins, scalinghealth, silentlib, tconstruct, tinkersjei, tombstone, dungeons, uteamcore, usefulbackpacks, waystones, llibrary] at CLIENT
-[06:02:55] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, ivtoolkit, openmodscore, securitycraft, movillages, deconstruction, advancedrocketry, artifacts, battletowers, baubles, bettercaves, betternether, bloodmagic, bookshelf, bountifulbaubles, carbonconfig, carryon, chunkpregenerator, clumps, creativecore, dailies, dungeonsmod, dungeontactics, emoticons, eplus, fossil, cfm, futureminecraf, gb, guideapi, hammercore, hardcore_battle_towers_av_av, waila, iceandfire, improvableskills, inventorypets, jei, journeymap, libvulpes, mantle, mca, mclib, morpheus, openblocks, openmods, oreshrubs, paraglider, playerrevive, progressivebosses, quickteleports, radixcore, roguelike, ruins, scalinghealth, silentlib, tconstruct, tinkersjei, tombstone, dungeons, uteamcore, usefulbackpacks, waystones, llibrary] at SERVER
-[06:02:55] [Server thread/INFO] [STDOUT]: [mchorse.mclib.core.McLibCMClassTransformer:transform:39]: McLib: Transforming PacketBuffer class (gy)
-[06:02:55] [Server thread/INFO] [STDOUT]: [mchorse.mclib.core.transformers.PacketBufferTransformer:replaceConstant:50]: McLib: successfully patched gy.f!
-[06:02:55] [Server thread/INFO] [STDOUT]: [mchorse.mclib.core.transformers.PacketBufferTransformer:replaceConstant:50]: McLib: successfully patched gy.a!
-[06:02:55] [Server thread/INFO] [STDOUT]: [mchorse.mclib.core.transformers.PacketBufferTransformer:replaceConstant:50]: McLib: successfully patched gy.l!
-[06:02:56] [Server thread/ERROR] [FML]: The mod carryon is expecting signature fd21553434f4905f2f73ea7838147ac4ea07bd88 for source carryon-1.12.2-1.12.7.23.jar, however there is no signature matching that description
-[06:02:58] [Server thread/INFO] [HammerLib]: Applied @SimplyRegister to org.zeith.hammerlib.core.init.SourceTypesHL, which belongs to hammercore (HammerLib)
-[06:02:58] [Server thread/INFO] [HammerLib]: Applied @SimplyRegister to com.zeitheron.hammercore.internal.init.BlocksHC, which belongs to hammercore (HammerLib)
-[06:02:58] [Server thread/INFO] [HammerLib]: Applied @SimplyRegister to com.zeitheron.hammercore.internal.init.ItemsHC, which belongs to hammercore (HammerLib)
-[06:02:59] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[06:02:59] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[06:08:05] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[06:08:05] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[06:08:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[06:08:05] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[06:08:05] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[06:08:05] [main/INFO] [FML]: Searching /workspaces/svmc/servidor_minecraft/./mods for mods
+[06:08:05] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [1.12.2]+SecurityCraft+v1.9.4.jar
+[06:08:05] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in AdvancedRocketry-1.12.2-2.0.0-17.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[06:08:05] [main/WARN] [FML]: The coremod AdvancedRocketryPlugin (zmaster587.advancedRocketry.asm.AdvancedRocketryPlugin) is not signed!
+[06:08:05] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CarbonConfig-1.12.2-1.2.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[06:08:05] [main/WARN] [FML]: The coremod carbonconfiglib.impl.internal.CarbonConfigHooks does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[06:08:05] [main/WARN] [FML]: The coremod CarbonConfigHooks (carbonconfiglib.impl.internal.CarbonConfigHooks) is not signed!
+[06:08:05] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Chunk-Pregenerator-1.12.2-4.4.9.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[06:08:05] [main/WARN] [FML]: The coremod pregenerator.base.hooks.PregenHooks does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[06:08:05] [main/WARN] [FML]: The coremod PregenHooks (pregenerator.base.hooks.PregenHooks) is not signed!
+[06:08:05] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.70_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[06:08:05] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[06:08:05] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[06:08:05] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in HammerLib-1.12.2-12.2.56.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[06:08:05] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in iceandfire-1.9.1-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[06:08:05] [main/WARN] [FML]: The coremod iceandfire (com.github.alexthe666.iceandfire.asm.IceAndFirePlugin) is not signed!
+[06:08:05] [main/WARN] [FML]: The coremod ivorius.ivtoolkit.IvToolkitLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[06:08:05] [main/WARN] [FML]: The coremod IvToolkit (ivorius.ivtoolkit.IvToolkitLoadingPlugin) is not signed!
+[06:08:05] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in mclib-2.4.2-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[06:08:05] [main/WARN] [FML]: The coremod McLib core mod (mchorse.mclib.core.McLibCM) is not signed!
+[06:08:05] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in OpenModsLib-1.12.2-0.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[06:08:05] [main/WARN] [FML]: The coremod openmods.core.OpenModsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[06:08:05] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Paraglider-1.12.2-1.0.1.5.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[06:08:05] [main/WARN] [FML]: The coremod ParagliderLoadingPlugin (com.tictim.paraglider.asm.ParagliderLoadingPlugin) is not signed!
+[06:08:05] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[06:08:05] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[06:08:05] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/svmc/servidor_minecraft/./mods/%5B1.12.2%5D+SecurityCraft+v1.9.4.jar Service=LaunchWrapper Env=SERVER
+[06:08:05] [main/WARN] [FML]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
+[06:08:06] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[06:08:06] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[06:08:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[06:08:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[06:08:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:08:07] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[06:08:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:08:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:08:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:08:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:08:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:08:08] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[06:08:08] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@b558294
+[06:08:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:08:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:08:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[06:08:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:08:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:08:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:08:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:08:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[06:08:09] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[06:08:09] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[06:08:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[06:08:09] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[06:08:09] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.world.World (amu)...
+[06:08:09] [main/INFO] [Hammer Core [ASM]]:   -Patching World
+[06:08:09] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'k', replaced nx.e()V with HC call.
+[06:08:09] [main/WARN] [LLibrary Core]: Failed to fetch hierarchy node for net.minecraft.util.text.TextComponentTranslation. This may cause patch issues
+[06:08:09] [main/WARN] [LLibrary Core]: Failed to fetch hierarchy node for net.minecraft.tileentity.CommandBlockBaseLogic. This may cause patch issues
+[06:08:09] [main/WARN] [LLibrary Core]: Failed to fetch hierarchy node for net.minecraft.item.ItemStack. This may cause patch issues
+[06:08:09] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.entity.EntityLivingBase (vp)...
+[06:08:09] [main/INFO] [Hammer Core [ASM]]:   -Patching EntityLivingBase
+[06:08:10] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'onItemUseFinish': added event call.
+[06:08:10] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[06:08:10] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.entity.item.EntityItem (acl)...
+[06:08:10] [main/INFO] [Hammer Core [ASM]]:   -Patching EntityItem
+[06:08:10] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'attackEntityFrom': added event call.
+[06:08:13] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.entity.EntityLivingBase (vp)...
+[06:08:13] [main/INFO] [Hammer Core [ASM]]:   -Patching EntityLivingBase
+[06:08:13] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'onItemUseFinish': added event call.
+[06:08:13] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.world.World (amu)...
+[06:08:13] [main/INFO] [Hammer Core [ASM]]:   -Patching World
+[06:08:13] [main/INFO] [Hammer Core [ASM]]:     -Modified method 'k', replaced nx.e()V with HC call.
+[06:08:16] [main/INFO] [Hammer Core [ASM]]: Transforming net.minecraft.profiler.Profiler (rl)...
+[06:08:16] [main/INFO] [Hammer Core [ASM]]:   -Patched startSection!
+[06:08:16] [main/INFO] [Hammer Core [ASM]]:   -Patched endSection!
+[06:08:16] [main/INFO] [Hammer Core [ASM]]:   -Patched endStartSection!
+[06:08:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[06:08:16] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[06:08:16] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[06:08:16] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[06:08:16] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[06:08:16] [Server thread/INFO] [STDOUT]: [zmaster587.advancedRocketry.asm.ModContainer:<init>:23]: ********* CoreDummyContainer. OK
+[06:08:16] [Server thread/INFO] [FML]: Searching /workspaces/svmc/servidor_minecraft/./mods for mods
+[06:08:17] [Server thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.9.4
+[06:08:17] [Server thread/WARN] [FML]: Mod deconstruction is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.0.4
+[06:08:17] [Server thread/WARN] [FML]: Mod advancedrocketry is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-2.0.0-17
+[06:08:18] [Server thread/WARN] [FML]: Mod dailies is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-6
+[06:08:20] [Server thread/WARN] [FML]: Mod waystones is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.1.0
+[06:08:20] [Server thread/INFO] [FML]: Forge Mod Loader has identified 69 mods to load
+[06:08:20] [Server thread/INFO] [FML]: Found mod(s) [inventorypets] containing declared API package baubles.api (owned by Baubles) without associated API reference
+[06:08:20] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[06:08:20] [Server thread/WARN] [FML]: Mod advancedrocketrycore has been disabled through configuration
+[06:08:20] [Server thread/WARN] [FML]: Mod mclib_core has been disabled through configuration
+[06:08:20] [Server thread/WARN] [FML]: Missing English translation for movillages: assets/movillages/lang/en_us.lang
+[06:08:20] [Server thread/WARN] [FML]: Missing English translation for bettercaves: assets/bettercaves/lang/en_us.lang
+[06:08:20] [Server thread/WARN] [FML]: Missing English translation for clumps: assets/clumps/lang/en_us.lang
+[06:08:20] [Server thread/WARN] [FML]: Missing English translation for dailies: assets/dailies/lang/en_us.lang
+[06:08:20] [Server thread/WARN] [FML]: Missing English translation for mantle: assets/mantle/lang/en_us.lang
+[06:08:20] [Server thread/WARN] [FML]: Missing English translation for morpheus: assets/morpheus/lang/en_us.lang
+[06:08:20] [Server thread/WARN] [FML]: Missing English translation for quickteleports: assets/quickteleports/lang/en_us.lang
+[06:08:20] [Server thread/WARN] [FML]: Missing English translation for radixcore: assets/radixcore/lang/en_us.lang
+[06:08:20] [Server thread/WARN] [FML]: Missing English translation for roguelike: assets/roguelike/lang/en_us.lang
+[06:08:20] [Server thread/WARN] [FML]: Missing English translation for ruins: assets/ruins/lang/en_us.lang
+[06:08:20] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, ivtoolkit, openmodscore, securitycraft, movillages, deconstruction, advancedrocketry, artifacts, battletowers, baubles, bettercaves, betternether, bloodmagic, bookshelf, bountifulbaubles, carbonconfig, carryon, chunkpregenerator, clumps, creativecore, dailies, dungeonsmod, dungeontactics, emoticons, eplus, fossil, cfm, futureminecraf, gb, guideapi, hammercore, hardcore_battle_towers_av_av, waila, iceandfire, improvableskills, inventorypets, jei, journeymap, libvulpes, mantle, mca, mclib, morpheus, openblocks, openmods, oreshrubs, paraglider, playerrevive, progressivebosses, quickteleports, radixcore, roguelike, ruins, scalinghealth, silentlib, tconstruct, tinkersjei, tombstone, dungeons, uteamcore, usefulbackpacks, waystones, llibrary] at CLIENT
+[06:08:20] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, ivtoolkit, openmodscore, securitycraft, movillages, deconstruction, advancedrocketry, artifacts, battletowers, baubles, bettercaves, betternether, bloodmagic, bookshelf, bountifulbaubles, carbonconfig, carryon, chunkpregenerator, clumps, creativecore, dailies, dungeonsmod, dungeontactics, emoticons, eplus, fossil, cfm, futureminecraf, gb, guideapi, hammercore, hardcore_battle_towers_av_av, waila, iceandfire, improvableskills, inventorypets, jei, journeymap, libvulpes, mantle, mca, mclib, morpheus, openblocks, openmods, oreshrubs, paraglider, playerrevive, progressivebosses, quickteleports, radixcore, roguelike, ruins, scalinghealth, silentlib, tconstruct, tinkersjei, tombstone, dungeons, uteamcore, usefulbackpacks, waystones, llibrary] at SERVER
+[06:08:20] [Server thread/INFO] [STDOUT]: [mchorse.mclib.core.McLibCMClassTransformer:transform:39]: McLib: Transforming PacketBuffer class (gy)
+[06:08:20] [Server thread/INFO] [STDOUT]: [mchorse.mclib.core.transformers.PacketBufferTransformer:replaceConstant:50]: McLib: successfully patched gy.f!
+[06:08:20] [Server thread/INFO] [STDOUT]: [mchorse.mclib.core.transformers.PacketBufferTransformer:replaceConstant:50]: McLib: successfully patched gy.a!
+[06:08:20] [Server thread/INFO] [STDOUT]: [mchorse.mclib.core.transformers.PacketBufferTransformer:replaceConstant:50]: McLib: successfully patched gy.l!
+[06:08:22] [Server thread/ERROR] [FML]: The mod carryon is expecting signature fd21553434f4905f2f73ea7838147ac4ea07bd88 for source carryon-1.12.2-1.12.7.23.jar, however there is no signature matching that description
